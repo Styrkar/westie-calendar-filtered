@@ -1,1 +1,5 @@
-
+{
+  "exclude_locations": ["Wuppertal", "Mülheim", "Essen"],
+  "exclude_keywords": ["Beginner", "Einsteiger", "Anfänger"],
+  "include_all_other_events": true
+}
