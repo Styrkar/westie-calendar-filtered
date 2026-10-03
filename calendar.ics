@@ -42,6 +42,32 @@ LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261003T190000
+DTEND;TZID=Europe/Berlin:20261004T010000
+DTSTAMP:20261001T154453Z
+CREATED:20261001T154453Z
+LAST-MODIFIED:20261001T154453Z
+UID:10005529-1791054000-1791075600@westiecommunity.de
+SUMMARY:WCS Workshops + Party im Max7
+DESCRIPTION:West Coast Swing - Workshops & Party\n📍Tanzschule Max7 Altstadt\, Maxstr. 7 Bonn \nWorkshops mit Johannes\n19:00 Anfänger ohne Vorkenntnisse\n20:00 Mittelstufe\n21:00 Fortgeschrittene \nParty\n22:00 - Open End Party \nPREISE\n⁃ 1 Workshop + Party 15€\n⁃ Fullpass 20€\n⁃ Tanzparty 10€\n⁃ alle Mitglieder Fullpass: 10€ \nTEILNAHMEINFOS\n⁃ Auch ohne festen Tanzpartner möglich\n⁃ Keine Anmeldung notwendig \nPARKEN\nStadthaus Parkhaus\, Weiherstraße\, 53111 Bonn\n⁃ ab 19 Uhr nur 1€ die Stunde\, maximal 3€ Euro für die ganze Nacht.\n⁃ 5-7 Gehminuten entfernt!
+URL:https://westiecommunity.de/event/wcs-workshops-party-im-max7/
+LOCATION:Max7 Altstadt\, Maxstraße 7\, Bonn\, NRW\, 53111\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261003T200000
+DTEND;TZID=Europe/Berlin:20261003T233000
+DTSTAMP:20260729T073224Z
+CREATED:20260729T073224Z
+LAST-MODIFIED:20260729T073224Z
+UID:10003420-1791057600-1791070200@westiecommunity.de
+SUMMARY:Braunschweig WCS Party + Schnupperstunde
+DESCRIPTION:Die erste West Coast Swing Party im BTSC! \nSeid dabei\, wenn im BTSC ein kleines Stück Tanzgeschichte geschrieben wird: Am 03.10.2026 findet unsere allererste West Coast Swing Party statt! Freut euch auf einen entspannten Abend mit guter Musik\, toller Stimmung und natürlich jeder Menge West Coast Swing. \nIhr habt noch nie West Coast Swing getanzt? Kein Problem! Von 19:00 bis 20:00 Uhr bieten wir eine kostenlose Schnupperstunde für alle Interessierten ohne Vorkenntnisse an. Danach heißt es: Musik an und ab auf die Tanzfläche! \nEgal\, ob ihr bereits West Coast Swing tanzt oder die Szene einfach kennenlernen möchtet – alle sind herzlich willkommen. 💃🕺 \n🗓️ 03.10.2026\n⏰ 19:00–20:00 Uhr: Schnupperstunde für Einsteiger\n🎉 Ab 20:00 Uhr: West Coast Swing Party\n📍 Saal 1 des BTSC\n🔥 Für alle Level • Gute Stimmung • Freier Eintritt \nKommt vorbei und feiert mit uns den Auftakt einer neuen Tanztradition im BTSC! Wir freuen uns auf einen unvergesslichen Abend mit euch. 🥳 \nBitte beachtet: Der Verzehr von selbst mitgebrachten Getränken und Speisen ist nicht gestattet. Vielen Dank für euer Verständnis.
+URL:https://westiecommunity.de/event/braunschweig-wcs-party-schnupperstunde/
+LOCATION:Braunschweiger Tanz-Sport-Club e.V.\, Böcklerstr. 219 A\, Braunschweig\, Niedersachsen\, 38102\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261004T110000
 DTEND;TZID=Europe/Berlin:20261004T130000
 DTSTAMP:20261002T153056Z
@@ -65,6 +91,19 @@ SUMMARY:WCS Intensive mit Hanna & Jérôme | Sugar P(ush)erfection 👌🏻
 DESCRIPTION:Du beherrschst bereits die Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn und Whip) und möchtest deinen West Coast Swing weiter ausbauen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 06.10.26 | 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
 URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-6/
 LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261006T183000
+DTEND;TZID=Europe/Berlin:20261006T200000
+DTSTAMP:20260627T083555Z
+CREATED:20260627T083555Z
+LAST-MODIFIED:20260627T083555Z
+UID:10003112-1791311400-1791316800@westiecommunity.de
+SUMMARY:Technik Workshop mit Florian
+DESCRIPTION:thema: »social moves for the win« \nLust\, auf der Tanzfläche richtig Spaß zu haben – egal ob Anfänger oder alter Hase? \nDann komm vorbei! Ich zeige Dir tolle Social Moves für Deinen West Coast Swing\, die auf jeder Party funktionieren und für jedes Level geeignet sind.\nDas Schöne daran: Diese Moves kannst Du mit allen tanzen – ganz spontan und ohne festes Schema. Genau so\, wie es auf einer echten Social Party läuft! \nLass Dich inspirieren\, sammle neue Ideen und wappne Dich für Deinen nächsten Tanzabend. \nAlso: Schnapp Dir gute Laune und sei dabei! \nTeilnahmeempfehlung: All Level ab Stufe 2
+URL:https://westiecommunity.de/event/technik-workshop-mit-florian/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -185,16 +224,16 @@ LOCATION:Elisenbrunnen @ Aachen\, Friedrich-Wilhelm-Platz\, Aachen\, NRW\, 52062
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261010T180000
-DTEND;TZID=Europe/Berlin:20261010T235500
-DTSTAMP:20260618T075741Z
-CREATED:20260618T075741Z
-LAST-MODIFIED:20260618T075741Z
-UID:10003109-1791655200-1791676500@westiecommunity.de
-SUMMARY:"PottSwing" - Workshop + Practice-Night
-DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\nab 18:30 Uhr: Workshop\nab 20:00 Uhr: Practice-Night \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop + Practice-Night:\nab 19 €/Person \nPractice-Night:\nab 5 €/Person
-URL:https://westiecommunity.de/event/pottswing-workshop-practice-night-18/
-LOCATION:Tanzschule TanzREvier Pompös\, Sieben Quellen 41\, Recklinghausen\, NRW\, 45665\, Germany
+DTSTART;TZID=Europe/Berlin:20261010T183000
+DTEND;TZID=Europe/Berlin:20261010T233000
+DTSTAMP:20260815T200817Z
+CREATED:20260427T085804Z
+LAST-MODIFIED:20260815T200817Z
+UID:10002276-1791657000-1791675000@westiecommunity.de
+SUMMARY:West Coast Swing mit Patricia & Markus
+DESCRIPTION:𝐖𝐞𝐬𝐭 𝐂𝐨𝐚𝐬𝐭 𝐒𝐰𝐢𝐧𝐠 mit Patricia & Markus \n18:30 Anfänger Workshop (first steps)\n19:30 Fortgeschrittene Workshop\n20:45 All-Level Workshop \nParty:\n21:45 - Open End Party \n❗️𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐈𝐧𝐟𝐨 𝐅𝐨𝐫𝐭𝐠𝐞𝐬𝐜𝐡𝐫𝐢𝐭𝐭𝐞𝐧𝐞𝐧 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩❗️\nWenn du noch nicht so lange tanzt\, bring bitte einen festen Trainingspartner mit\, ohne zu tauschen – so bleibt die Gruppe homogen.\nDu fühlst dich wohler mit einem festen Partner? Kein Problem! Mach das so – so holst du das Beste für dich raus!\nWir freuen uns auf eine tolle Zeit mit euch. \nTEILNAHMEINFOS\n✔️ Auch ohne festen Tanzpartner möglich\n✔️ Keine Anmeldung notwendig\n✔️ Einfach kommen \nPREISE\n▶︎ Anfänger + Party 18€\n▶︎ Fullpass 25€\n▶︎ Tanzparty 10€\n▶︎ Spezialflatmitglieder Fullpass: 15€ \nPARKEN\n🚗🚕🚌 Stadthaus Parkhaus\, Weiherstraße\, 53111 Bonn\n▶︎ ab 19 Uhr nur 1€ die Stunde\, maximal 3€ Euro für die ganze Nacht.\n▶︎ 5-7 Gehminuten entfernt! 🚗🚕🚌
+URL:https://westiecommunity.de/event/west-coast-swing-mit-patricia-markus/2026-10-10/
+LOCATION:Tanzschule Max7\, Maxstraße 7\, Bonn\, NRW\, 53111\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -208,6 +247,19 @@ SUMMARY:WCS Comp Camp mit Giulia für Intermediate + (Teil 2)
 DESCRIPTION:Competition Performance – Mom tanzen zum Storytelling! \nDu hörst die Musik und hast viele Ideen – aber wann solltest Du sie wirklich zeigen?\nWie bringst Du Dich als Leader oder Follower aktiv ein\, ohne den gemeinsamen Tanz zu überladen?\nUnd wie wird aus vielen einzelnen musikalischen Reaktionen eine Performance mit Aufbau und einer klaren Geschichte? \nIn diesem dreistündigen Block beschäftigen wir uns damit\, wie Ihr Euren Tanz bewusst gestaltet. Ihr lernt verschiedene Möglichkeiten kennen Musik auszudrücken\, Kontraste entstehen zu lassen und dadurch Eure Big Moments noch größer wirken zu lassen. Dabei geht es nicht nur darum was Ihr zur Musik tanzen könnt\, sondern auch um das richtige Timing: Wann braucht der Tanz mehr Energie und Ausdruck! In praktischen Übungen zur Musik und gezielten Solo-Drills trainiert Ihr Musicality\, Kontraste\, Storytelling und den bewussten Aufbau Eures Tanzes. Das Ziel: die Musik nicht nur zu treffen\, sondern sie gemeinsam zu gestalten – mit Struktur\, Kontrasten und Big Moments. \nIntermediate+ ab Dresen Level 8!\nTeil 2 ist separat buchbar. Die Teilnahme an Teil 1 wird als technische Grundlage empfohlen\, ist jedoch keine Voraussetzung! \nDie Anmeldung ist mit und ohne Tanzpartner*In möglich! \nSamstag\, 10.10.26 von 19.30 bis 22.30 Uhr\nDauer: 180 Min.\, Comp Camp Gebühr: € 69/Person\nDresen Mitglieder: € 49/Person
 URL:https://westiecommunity.de/event/wcs-comp-camp-mit-giulia-fuer-intermediate-teil-2/
 LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T194500
+DTEND;TZID=Europe/Berlin:20261010T223000
+DTSTAMP:20260916T155535Z
+CREATED:20260803T122158Z
+LAST-MODIFIED:20260916T155535Z
+UID:10003434-1791661500-1791671400@westiecommunity.de
+SUMMARY:West Coast Swing - Party
+DESCRIPTION:ENDLICH AUCH IN DUISBURG! Lust auf einen Abend voller West Coast Swing? Bei unserer Tanzparty läuft den ganzen Abend abwechslungsreiche WCS-Musik – perfekt für Social Dancing ohne lange Pausen. Egal ob Anfänger mit Grundkenntnissen oder erfahrener Tänzer: Komm vorbei und genieße non-stop West Coast Swing auf der Tanzfläche. Wir freuen uns auf dich! Auf dem Ludgeriplatz gibt es ausreichend kostenlose Parkgelegenheiten!
+URL:https://westiecommunity.de/event/west-coast-swing-party-2/
+LOCATION:ADTV Tanzschule Paulerberg\, Danzigerstr. 11-13\, Duisburg\, NRW\, 47057\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -585,6 +637,19 @@ SUMMARY:Weekly Social bei bonn tanzt
 DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
 URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-30/
 LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261031T171500
+DTEND;TZID=Europe/Berlin:20261031T230000
+DTSTAMP:20260916T134451Z
+CREATED:20260916T134451Z
+LAST-MODIFIED:20260916T134451Z
+UID:10003579-1793466900-1793487600@westiecommunity.de
+SUMMARY:WCS-Day mit Mariella Mbantopoulos | Paderborn
+DESCRIPTION:Paderborn bekommt Besuch - und zwar von Mariella aus Bochum. Sie bringt tollen Input mit und wird euch mit ihrer herzlichen Art begeistern. Egal ob absoluter Beginner oder schon Fortgeschritten\, für alle ist etwas dabei. Wir freuen uns schon total!\nHier der Ablauf für dich: \n17:15 – 18:45 Uhr: Workshop "Connection & Redirect" \nIn diesem Workshop steht das Zusammenspiel aus Connection und Richtungswechseln im Fokus. Wir nutzen gezielte Redirects und setzen Overrotation ein\, um dynamische Beschleunigung und mehr Flow in deinen West Coast Swing zu bringen. Hierzu solltest du Sugar Push\, Left Side Pass\, Underarm Turn und Whip bereits sicher tanzen können. \n19:00 Uhr – 20:30 Uhr: Beginner Workshop \nIn diesem Workshop lernst du die Basics kennen und machst deine ersten West Coast Swing Erfahrungen. Mit Left Side Pass\, Underarm Turn und Sugar Push bist du nach 90 Minuten gut gerüstet für die anschließende Übungsparty. Für den Beginner Workshop sind keine Vorkenntnisse notwendig. \nAb 20:00 Uhr: Übungs-Social\nHier kannst du das Erlernte ausprobieren und festigen. Außerdem kannst du dich mit anderen Westies connecten und neue Kontakte knüpfen. \nEine große Getränkeauswahl gibt es in unserem Dance Inn. Wir bitten um Voranmeldung zwecks Planung. \nLet's dance 🙂
+URL:https://westiecommunity.de/event/wcs-day-mit-mariella-mbantopoulos-paderborn/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
