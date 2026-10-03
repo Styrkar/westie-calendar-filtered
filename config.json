@@ -1,5 +1,5 @@
 {
-  "exclude_locations": ["Wuppertal", "Mülheim", "Essen"],
-  "exclude_keywords": ["Beginner", "Einsteiger", "Anfänger"],
+  "exclude_locations": ["Wuppertal", "Mülheim", "Essen", "Recklinghausen"],
+  "exclude_keywords": ["Level 1", "Schnupperworkshop"],
   "include_all_other_events": true
 }
