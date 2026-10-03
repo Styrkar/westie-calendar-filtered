@@ -1,10 +1,240 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//WestieCommunity Filtered Feed//DE
+PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Westie Community – Gefiltert
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261004T140000
+DTEND;TZID=Europe/Berlin:20261004T160000
+DTSTAMP:20260618T080043Z
+CREATED:20260618T080043Z
+LAST-MODIFIED:20260618T080043Z
+UID:10003108-1791122400-1791129600@westiecommunity.de
+SUMMARY:Follower-Intensive
+DESCRIPTION:🔥 Workshop-Inhalt 🔥 \nDu möchtest als Follower sicherer\, musikalischer und ausdrucksstärker tanzen? Dann ist dieses Follower Intensive genau das Richtige für dich. \nEin Follower-Intensive ist ein Workshop speziell für Tänzerinnen und Tänzer in der Follower-Rolle. Im Mittelpunkt stehen Themen wie Timing\, Balance\, Musikalität und Ausdruckskraft. Gemeinsam arbeiten wir daran\, dein Tanzen präziser\, selbstbewusster und kreativer zu gestalten. \nAnders als in regulären Workshops oder im Unterricht geht es nicht um neue Figuren. Stattdessen konzentrieren wir uns gezielt auf die Fähigkeiten\, die einen guten Follower ausmachen. Dazu gehören unter anderem Footwork\, Armstyling und die bewusste Gestaltung der eigenen Bewegung. \nFür den Workshop ist es hilfreich\, wenn du bereits einen Inside Turn kennengelernt hast und deine Arme über Schulterhöhe heben kannst. Diese Voraussetzungen sind jedoch keine Pflicht. Auch wenn du sie noch nicht erfüllst\, bist du herzlich willkommen. In einzelnen Übungen kann es dann lediglich sein\, dass nicht alle Inhalte gleichermaßen für dich geeignet sind. \n🔥 TICKETS 🔥 \nab 24 €/Person
+URL:https://westiecommunity.de/event/follower-intensive/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
 
-{{EVENTS_GO_HERE}}
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261007T211500
+DTEND;TZID=Europe/Berlin:20261007T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002658-1791407700-1791412200@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-07/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T153000
+DTEND;TZID=Europe/Berlin:20261010T235900
+DTSTAMP:20260916T143216Z
+CREATED:20260730T061019Z
+LAST-MODIFIED:20260916T143216Z
+UID:10003433-1791646200-1791676740@westiecommunity.de
+SUMMARY:WCS Bootcamp für Neueinsteiger + Party | Tanzschule Schäfer-Koch
+DESCRIPTION:Alle West Coast Swing-Liebhaber und solche die es werden wollen aufgepasst:\nBei einem ingesamt 2-stündigen Einsteigerworkshop aka. "Bootcamp" (aufgeteilt in 2 x 60 min) lernt ihr die wichtigsten Basics – und bei der Party danach könnt ihr eure neu gewonnenen Kenntnisse direkt einsetzen! \nWie für West Coast Swing üblich werden bei Workshop und Party die Tanzpartner gewechselt\,\nihr könnt daher sowohl einzeln als auch zu zweit oder gleich in einer größeren Gruppe kommen\nAlso kommt einfach vorbei und schnuppert in diesen lässigen und zugleich vielfältigen Tanz rein! \n▶ EXTRA: INTENSIVE FÜR FORTGESCHRITTENE \nWer bereits schon ein Weilchen West Coast Swing tanzt\, der kommt bei unseren WCS-Workshops für Fortgeschrittene garantiert auf seine Kosten!\n⇢ https://wcs-wuppertal.de/events/valley-weekend-swing-oktober-2026/ \n▶ ANMELDUNG \nDie Anmeldung findest Du hier (stelle sicher\, dass du bei der Anmeldung "Bootcamp" auswählst):\n⇢ https://link.wcs-wuppertal.de/anmeldung-oktober-2026 \nWeitere Infos gibt es hier:\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-oktober-2026/ \n▶ ZEITPLAN \n▪ Bootcamp für Neueinsteiger ▪\n15:30 - 17:30 :: Bootcamp-Workshop mit Lukas Waslowski \n▪ Intensive mit Laura Weber ▪\n18:00 - 20:00 :: Intensive „Body Movement“ mit Laura & Lukas \n▪ Party ▪\n20:00 - Open End :: WCS Party \n▶ TICKETS \n▸ Intensive ◂\nEarly Bird (bis 27.09.): 25 € pro Person für Intensive + Party\nLate Bird (ab 28.09.): 30 € für Intensive + Party \nStudenten & Azubis: 20 € p.P. für Intensive inkl. Party \nNur Party: 10 € p.P. \n▸ Bootcamp ◂\nNormalpreis: 25 € pro Person für Bootcamp + Party \nStudenten & Azubis: 15 € p.P.
+URL:https://westiecommunity.de/event/wcs-bootcamp-fuer-neueinsteiger-party-tanzschule-schaefer-koch-8/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T235500
+DTSTAMP:20260508T104335Z
+CREATED:20260508T104335Z
+LAST-MODIFIED:20260508T104335Z
+UID:10002619-1791655200-1791676500@westiecommunity.de
+SUMMARY:Beginner-Workshop mit anschließender Party
+DESCRIPTION:West Coast Swing – Dein neuer Lieblingstanz! \nIn unserem Beginner-Workshop zeigen wir dir die ersten Basics\, um bereits nach kurzer Zeit über das Tanzparkett der direkt anschließenden WCS-Party gleiten zu können. Es sind keinerlei Vorkenntnisse nötig. Bei den Figuren erklären wir dir alles Schritt für Schritt\, mit viel Spaß\, bei toller abwechslungsreicher Musik und langen praktischen Übungsphasen\, um das Gelernte zu vertiefen. \nKomm vorbei\, gerne auch ohne Tanzpartner:in und lerne vor Ort neue Leute kennen. \nJetzt ist der perfekte Moment\, etwas Neues auszuprobieren! 🧡 \n🚀 VORAUSSETZUNG 🚀 \nDieser Workshop richtet sich an absolute Einsteiger:innen\, mit keinerlei Vorerfahrungen. Wir freuen uns jedoch genauso über Teilnehmer:innen\, die ihre West Coast Swing Kenntnisse auffrischen wollen. Die Teilnahme ist mit und ohne feste:n Tanzpartner:in möglich. Mitbringen musst du lediglich möglichst flache Schuhe mit glatter Sohle. Hintergrund: Schuhe mit hohem Absatz (über 2-3 cm) sind für West Coast Swing eher hinderlich. \n🚀 ZEITPLAN 🚀 \n18:00 bis 18:30 Uhr\nEinlass / Check-In \n18:30 bis 20:00 Uhr\nBeginner-Workshop\n(inkl. kurzer Pause) \nab 20:00 Uhr\nWCS-Party
+URL:https://westiecommunity.de/event/beginner-workshop-mit-anschliessender-party/
+LOCATION:Tanzschule TanzREvier Pompös\, Sieben Quellen 41\, Recklinghausen\, NRW\, 45665\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T235500
+DTSTAMP:20260618T075741Z
+CREATED:20260618T075741Z
+LAST-MODIFIED:20260618T075741Z
+UID:10003109-1791655200-1791676500@westiecommunity.de
+SUMMARY:"PottSwing" - Workshop + Practice-Night
+DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\nab 18:30 Uhr: Workshop\nab 20:00 Uhr: Practice-Night \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop + Practice-Night:\nab 19 €/Person \nPractice-Night:\nab 5 €/Person
+URL:https://westiecommunity.de/event/pottswing-workshop-practice-night-18/
+LOCATION:Tanzschule TanzREvier Pompös\, Sieben Quellen 41\, Recklinghausen\, NRW\, 45665\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T235900
+DTSTAMP:20260916T143126Z
+CREATED:20260730T061147Z
+LAST-MODIFIED:20260916T143126Z
+UID:10003432-1791655200-1791676740@westiecommunity.de
+SUMMARY:Intensive „Body Movement“ mit Laura Weber + Party | »Valley Weekend Swing« @ Tanzschule Schäfer-Koch
+DESCRIPTION:Extra für euch in Wuppertal: Die Intermediate-Tänzer Laura Weber mit einem Intensive zum Thema »Body Movement«! \n🌊 Finde Deinen eigenen individuellen Flow \nIn diesem Intensive geht es darum\, Deinen Körper zu spüren\, Dich frei zu bewegen und Deinen ganz eigenen Ausdruck im Tanz zu entdecken. \nEgal\, ob Du bereits Erfahrung hast oder einfach Lust auf etwas Neues – komm vorbei und lass Dich auf die vielen verschiedenen Facetten unserer Körpersprache ein! ✨ \n▶ EXTRA: EINSTEIGERWORKSHOP \nWer bisher noch nicht West Coast Swing tanzt\, für den haben wir ebenfalls ein Angebot: Bei einem ingesamt 2-stündigen Einsteigerworkshop aka. "Bootcamp" (aufgeteilt in 2 x 60 min) lernt ihr die wichtigsten Basics – und bei der Party danach könnt ihr eure neu gewonnenen Kenntnisse direkt einsetzen!\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-oktober-2026/ \n▶ ANMELDUNG \nDie Anmeldung findest Du hier (stelle sicher\, dass du bei der Anmeldung "Bootcamp" auswählst):\n⇢ https://link.wcs-wuppertal.de/anmeldung-oktober-2026 \nWeitere Infos gibt es hier:\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-oktober-2026/ \n▶ ZEITPLAN \n▪ Bootcamp für Neueinsteiger ▪\n15:30 - 17:30 :: Bootcamp-Workshop mit Lukas Waslowski \n▪ Intensive mit Laura Weber ▪\n18:00 - 20:00 :: Intensive „Body Movement“ mit Laura & Lukas \n▪ Party ▪\n20:00 - Open End :: WCS Party \n▶ TICKETS \n▸ Intensive ◂\nEarly Bird (bis 27.09.): 25 € pro Person für Intensive + Party\nLate Bird (ab 28.09.): 30 € für Intensive + Party \nStudenten & Azubis: 20 € p.P. für Intensive inkl. Party \nNur Party: 10 € p.P. \n▸ Bootcamp ◂\nNormalpreis: 25 € pro Person für Bootcamp + Party \nStudenten & Azubis: 15 € p.P.
+URL:https://westiecommunity.de/event/body-movement-follower-styling-leader-styling-wcs-workshops-mit-laura-weber-party/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261011T100000
+DTEND;TZID=Europe/Berlin:20261011T120000
+DTSTAMP:20260127T203106Z
+CREATED:20260127T202840Z
+LAST-MODIFIED:20260127T203106Z
+UID:10002153-1791712800-1791720000@westiecommunity.de
+SUMMARY:Schnupperworkshop "First Steps"
+DESCRIPTION:In diesem 2-stündigen Workshop bekommst du die wichtigsten Basics an die Hand: Rhythmus\, Timing\, die ersten Figuren. Du brauchst keine Vorkenntnisse oder feste Tanzperson. Die Rollen (Lead oder Follow) kannst du frei wählen und wie im West Coast Swing üblich\, wird regelmäßig durchgewechselt. \n🥐Ab 12:00 Uhr geht’s direkt weiter mit unserem WCS Brunch & Social.🥐\nBring gern was Leckeres zu essen und was zu trinken mit. Und wenn du magst\, tanz direkt weiter!\nOder chill einfach mit uns neben der Tanzfläche\, quatsch mit der Community und genieß die Stimmung.
+URL:https://westiecommunity.de/event/schnupperworkshop-first-steps-16/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261014T211500
+DTEND;TZID=Europe/Berlin:20261014T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002659-1792012500-1792017000@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-14/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261021T211500
+DTEND;TZID=Europe/Berlin:20261021T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002660-1792617300-1792621800@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-21/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261028T211500
+DTEND;TZID=Europe/Berlin:20261028T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002661-1793222100-1793226600@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-28/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261031T183000
+DTEND;TZID=Europe/Berlin:20261031T233000
+DTSTAMP:20260921T075213Z
+CREATED:20260921T075213Z
+LAST-MODIFIED:20260921T075213Z
+UID:10003690-1793471400-1793489400@westiecommunity.de
+SUMMARY:Halloween special Workshop mit Jenni + Party
+DESCRIPTION:WCS All Level Workshop mit Jenni und Party
+URL:https://westiecommunity.de/event/halloween-special-workshop-mit-jenni-party/
+LOCATION:Altstadt Tanzschule Jansen Mülheim\, Bachstraße 25\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261104T211500
+DTEND;TZID=Europe/Berlin:20261104T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002662-1793826900-1793831400@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-04/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T100000
+DTEND;TZID=Europe/Berlin:20261108T120000
+DTSTAMP:20260127T203112Z
+CREATED:20260127T202840Z
+LAST-MODIFIED:20260127T203112Z
+UID:10002154-1794132000-1794139200@westiecommunity.de
+SUMMARY:Schnupperworkshop "First Steps"
+DESCRIPTION:In diesem 2-stündigen Workshop bekommst du die wichtigsten Basics an die Hand: Rhythmus\, Timing\, die ersten Figuren. Du brauchst keine Vorkenntnisse oder feste Tanzperson. Die Rollen (Lead oder Follow) kannst du frei wählen und wie im West Coast Swing üblich\, wird regelmäßig durchgewechselt. \n🥐Ab 12:00 Uhr geht’s direkt weiter mit unserem WCS Brunch & Social.🥐\nBring gern was Leckeres zu essen und was zu trinken mit. Und wenn du magst\, tanz direkt weiter!\nOder chill einfach mit uns neben der Tanzfläche\, quatsch mit der Community und genieß die Stimmung.
+URL:https://westiecommunity.de/event/schnupperworkshop-first-steps-17/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261111T211500
+DTEND;TZID=Europe/Berlin:20261111T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002663-1794431700-1794436200@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-11/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T140000
+DTEND;TZID=Europe/Berlin:20261114T235900
+DTSTAMP:20260922T084600Z
+CREATED:20260730T061323Z
+LAST-MODIFIED:20260922T084600Z
+UID:10003431-1794664800-1794700740@westiecommunity.de
+SUMMARY:Intensive „Musicality“ mit Laura & Lukas + Party | »Valley Weekend Swing« @ Tanzschule Schäfer-Koch
+DESCRIPTION:Ihr möchtet besser auf die Musik tanzen\, Breaks treffen & coole Momente haben? Dann haben wir etwas für Euch: Laura & Lukas behandeln in einem 4-stündigen Intensive alles\, was ihr zum Thema „Musicality“ wissen solltet! \n▶ EXTRA: EINSTEIGERWORKSHOP \nWer bisher noch nicht West Coast Swing tanzt\, für den haben wir ebenfalls ein Angebot: Bei einem ingesamt 1-stündigen Einsteigerworkshop lernt ihr die wichtigsten Basics – und bei der Party danach könnt ihr eure neu gewonnenen Kenntnisse direkt einsetzen!\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-november-2026/ \n▶ ANMELDUNG \nDie Anmeldung findest Du hier (stelle sicher\, dass du bei der Anmeldung "Crashkurs" auswählst):\n⇢ https://link.wcs-wuppertal.de/anmeldung-november-2026 \nWeitere Infos gibt es hier:\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-november-2026/ \n▶ ZEITPLAN \n▪ Crashkurs für Neueinsteiger ▪\n19:15 - 20:15 :: Crashkurs für Einsteiger mit Lukas \n▪ Intensive mit Laura & Lukas ▪\n14:00 - 16:00 :: Intensive „Musicality“ mit Laura & Lukas | Teil 1\n17:00 - 19:00 :: Intensive „Musicality“ mit Laura & Lukas | Teil 2 \n▪ Party ▪\n20:15 - Open End :: WCS Party \n▶ TICKETS \n▸ Intensive ◂\nEarly Bird (bis 18.10.): 38 € für 4 Stunden Intensive + Party\nLate Bird (ab 19.10.): 45 € für 4 Stunden Intensive + Party \nStudenten & Azubis: 25 € p.P. für 4 Stunden Intensive + Party \nNur Party: 10 € p.P. \n▸ Crashkurs ◂\nNormalpreis: 20 € pro Person für Crashkurs + Party \nStudenten & Azubis: 15 € p.P.
+URL:https://westiecommunity.de/event/intensive-musicality-mit-laura-lukas-party-valley-weekend-swing-tanzschule-schaefer-koch/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T160000
+DTEND;TZID=Europe/Berlin:20261114T235500
+DTSTAMP:20261002T191458Z
+CREATED:20260927T062506Z
+LAST-MODIFIED:20261002T191458Z
+UID:10005528-1794672000-1794700500@westiecommunity.de
+SUMMARY:10-jähriges Jubiläum 🥳 mit Allstar Giulia Rusch
+DESCRIPTION:🎉🎉🎉 \nKaum zu glauben\, aber es sind tatsächlich schon 10 Jahre! \n🎉🎉🎉 \nIm November 2016 haben wir unseren ersten West Coast Swing Workshop gegeben. Was damals mit einer kleinen Gruppe und einer großen Begeisterung für diesen besonderen Tanz begonnen hat\, ist über die Jahre zu einer großen WCS-Community im Ruhrgebiet gewachsen. \n10 Jahre voller Musik\, Tanz\, neuer Freundschaften\, unzähliger Workshops\, Partys und vor allem voller gemeinsamer Momente auf der Tanzfläche. Und genau das möchten wir mit euch feiern. \n🥳🥳🥳 \nAm Samstag\, den 14. November 2026\, laden wir euch zu einem ganz besonderen WCS-Tag ins Tanzhaus Mülheim ein. Euch erwarten zwei spannende Workshops mit der Allstar-Trainerin Giulia Rusch\, bevor wir den Tag abends mit unserer großen 10-Jahre-Geburtstagsparty ausklingen lassen. \nOb ihr einen Workshop besucht\, beide Themen mitnehmt oder erst zur Party dazukommt: Wir freuen uns darauf\, diesen besonderen Meilenstein gemeinsam mit euch zu feiern. \n🥳🥳🥳 \nMehr Infos auf unserer Veranstaltungsseite:\n👉🏽 https://www.wcs-ruhrgebiet.de/events/10-jahre/
+URL:https://westiecommunity.de/event/10-jaehriges-jubilaeum-%f0%9f%a5%b3/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T180000
+DTEND;TZID=Europe/Berlin:20261114T235900
+DTSTAMP:20260922T084535Z
+CREATED:20260730T061226Z
+LAST-MODIFIED:20260922T084535Z
+UID:10003426-1794679200-1794700740@westiecommunity.de
+SUMMARY:WCS Crashkurs für Neueinsteiger + Party | Tanzschule Schäfer-Koch
+DESCRIPTION:Alle West Coast Swing-Liebhaber und solche die es werden wollen aufgepasst:\nBei einem ingesamt 1-stündigen Einsteigerworkshop lernt ihr die wichtigsten Basics – und bei der Party danach könnt ihr eure neu gewonnenen Kenntnisse direkt einsetzen! \nWie für West Coast Swing üblich werden bei Workshop und Party die Tanzpartner gewechselt\,\nihr könnt daher sowohl einzeln als auch zu zweit oder gleich in einer größeren Gruppe kommen\nAlso kommt einfach vorbei und schnuppert in diesen lässigen und zugleich vielfältigen Tanz rein! \n▶ EXTRA: INTENSIVE FÜR FORTGESCHRITTENE \nWer bereits schon ein Weilchen West Coast Swing tanzt\, der kommt bei unseren WCS-Workshops für Fortgeschrittene garantiert auf seine Kosten!\n⇢ https://wcs-wuppertal.de/events/valley-weekend-swing-november-2026/ \n▶ ANMELDUNG \nDie Anmeldung findest Du hier (stelle sicher\, dass du bei der Anmeldung "Crashkurs" auswählst):\n⇢ https://link.wcs-wuppertal.de/anmeldung-november-2026 \nWeitere Infos gibt es hier:\n⇢ https://wcs-wuppertal.de/events/wcs-bootcamp-november-2026/ \n▶ ZEITPLAN \n▪ Crashkurs für Neueinsteiger ▪\n19:15 - 20:15 :: Crashkurs für Einsteiger mit Lukas \n▪ Intensive mit Laura & Lukas ▪\n14:00 - 16:00 :: Intensive „Musicality“ mit Laura & Lukas | Teil 1\n17:00 - 19:00 :: Intensive „Musicality“ mit Laura & Lukas | Teil 2 \n▪ Party ▪\n20:15 - Open End :: WCS Party \n▶ TICKETS \n▸ Intensive ◂\nEarly Bird (bis 18.10.): 38 € für 4 Stunden Intensive + Party\nLate Bird (ab 19.10.): 45 € für 4 Stunden Intensive + Party \nStudenten & Azubis: 25 € p.P. für 4 Stunden Intensive + Party \nNur Party: 10 € p.P. \n▸ Crashkurs ◂\nNormalpreis: 20 € pro Person für Crashkurs + Party \nStudenten & Azubis: 15 € p.P.
+URL:https://westiecommunity.de/event/wcs-crashkurs-fuer-neueinsteiger-party-tanzschule-schaefer-koch/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261118T211500
+DTEND;TZID=Europe/Berlin:20261118T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002664-1795036500-1795041000@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-18/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
 
 END:VCALENDAR
