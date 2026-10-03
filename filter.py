@@ -1,11 +1,10 @@
 import re
 import json
+import requests
 
 CONFIG = json.load(open("config.json", encoding="utf-8"))
 
 SOURCE_URL = "https://westiecommunity.de/?post_type=tribe_events&ical=1&eventDisplay=list"
-
-import requests
 
 ics = requests.get(SOURCE_URL).text
 
@@ -30,20 +29,30 @@ for e in events:
 
     filtered.append(block)
 
-# Build final ICS
-output = "BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\n"
-output += "\n".join(filtered)
-output += "\nEND:VCALENDAR"
+# Build filtered ICS
+output_filtered = (
+    "BEGIN:VCALENDAR\n"
+    "VERSION:2.0\n"
+    "PRODID:-//Filtered Westie Calendar//EN\n"
+    "CALSCALE:GREGORIAN\n"
+    "METHOD:PUBLISH\n"
+    + "\n".join(filtered)
+    + "\nEND:VCALENDAR"
+)
 
-open("calendar.ics", "w", encoding="utf-8").write(output)
+open("calendar.ics", "w", encoding="utf-8").write(output_filtered)
 print("calendar.ics generated.")
 
-# Build final ICS
-output = "BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\n"
-output += "\n".join(excluded)
-output += "\nEND:VCALENDAR"
+# Build excluded ICS
+output_excluded = (
+    "BEGIN:VCALENDAR\n"
+    "VERSION:2.0\n"
+    "PRODID:-//Excluded Westie Calendar//EN\n"
+    "CALSCALE:GREGORIAN\n"
+    "METHOD:PUBLISH\n"
+    + "\n".join(excluded)
+    + "\nEND:VCALENDAR"
+)
 
-open("calendarexc.ics", "w", encoding="utf-8").write(output)
+open("calendarexc.ics", "w", encoding="utf-8").write(output_excluded)
 print("calendarexc.ics generated.")
-
-
