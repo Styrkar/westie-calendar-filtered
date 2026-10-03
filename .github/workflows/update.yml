@@ -18,11 +18,11 @@ jobs:
       - run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add calendar.ics
+          git add calendar.ics calendarexc.ics
 
           # Nur committen, wenn sich etwas geändert hat
           if ! git diff --cached --quiet; then
-            git commit -m "Update filtered calendar"
+            git commit -m "Update filtered calendars"
             git push
           else
             echo "No changes — skipping commit."
