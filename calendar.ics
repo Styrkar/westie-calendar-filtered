@@ -1,10 +1,1006 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//WestieCommunity Filtered Feed//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Westie Community – Gefiltert
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261003T080000
+DTEND;TZID=Europe/Berlin:20261003T170000
+DTSTAMP:20261002T124941Z
+CREATED:20260218T130230Z
+LAST-MODIFIED:20261002T124941Z
+UID:10006050-1791014400-1791046800@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | Technik 🔧
+DESCRIPTION:In diesem Special geht es um die Bewegungstechnik im WCS. Also wie genau tanze ich meine Walks\, Tripels\, wie rotiere ich meinen Körper und wie hängt das Ganze mit meiner Connection zusammen.  \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 5-7 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 03.10.26 | 18:00 – 20:00 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba/2026-10-03/1/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
 
-{{EVENTS_GO_HERE}}
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261003T140000
+DTEND;TZID=Europe/Berlin:20261003T170000
+DTSTAMP:20260218T130230Z
+CREATED:20260218T130230Z
+LAST-MODIFIED:20260218T130230Z
+UID:10002220-1791036000-1791046800@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | Blues Fundamentals 🎼
+DESCRIPTION:Das Thema ist noch nicht entschieden\, werden wir aber bald bekannt geben 🤓 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 5-7 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 03.10.26 | 14:00 – 17:00 Uhr | 55€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-blues-fundamentals-%f0%9f%8e%bc/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261003T180000
+DTEND;TZID=Europe/Berlin:20261003T200000
+DTSTAMP:20261002T124941Z
+CREATED:20260218T130230Z
+LAST-MODIFIED:20261002T124941Z
+UID:10002221-1791050400-1791057600@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | Technik 🔧
+DESCRIPTION:In diesem Special geht es um die Bewegungstechnik im WCS. Also wie genau tanze ich meine Walks\, Tripels\, wie rotiere ich meinen Körper und wie hängt das Ganze mit meiner Connection zusammen.  \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 5-7 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 03.10.26 | 18:00 – 20:00 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba/2026-10-03/2/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261004T110000
+DTEND;TZID=Europe/Berlin:20261004T130000
+DTSTAMP:20261002T153056Z
+CREATED:20261001T154546Z
+LAST-MODIFIED:20261002T153056Z
+UID:10005530-1791111600-1791118800@westiecommunity.de
+SUMMARY:Sunday Morning Swing (Practice)
+DESCRIPTION:Ob das Frischgelernte bei Workshops ohne Druck auszuprobieren\, mit den neuen Tanzideen zu experimentieren\,\ndie Basics zu wiederholen oder ein paar Stunden am Sonntag morgens zu tanzen\, kommt einfach vorbei! \nEintritt für Gäste: 5€
+URL:https://westiecommunity.de/event/sunday-morning-swing-practice/
+LOCATION:ADTV Tanzschule Paulerberg\, Danzigerstr. 11-13\, Duisburg\, NRW\, 47057\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261006T183000
+DTEND;TZID=Europe/Berlin:20261006T194500
+DTSTAMP:20260617T143415Z
+CREATED:20260218T130231Z
+LAST-MODIFIED:20260617T143415Z
+UID:10002207-1791311400-1791315900@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Sugar P(ush)erfection 👌🏻
+DESCRIPTION:Du beherrschst bereits die Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn und Whip) und möchtest deinen West Coast Swing weiter ausbauen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 06.10.26 | 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-6/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261006T200000
+DTEND;TZID=Europe/Berlin:20261006T211500
+DTSTAMP:20260617T143631Z
+CREATED:20260218T130231Z
+LAST-MODIFIED:20260617T143631Z
+UID:10002208-1791316800-1791321300@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Exploring Counterbalance ⚖️
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 06.10.26 | 20:00 – 21:15 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-5/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261007T210000
+DTEND;TZID=Europe/Berlin:20261007T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005271-1791406800-1791410400@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-10-07/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261008T201500
+DTEND;TZID=Europe/Berlin:20261008T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003611-1791490500-1791496800@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-10-08/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261008T203000
+DTEND;TZID=Europe/Berlin:20261008T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003169-1791491400-1791502200@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-10-08/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261008T210000
+DTEND;TZID=Europe/Berlin:20261008T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003118-1791493200-1791500400@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-10-08/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261009T210000
+DTEND;TZID=Europe/Berlin:20261009T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003679-1791579600-1791586800@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-09/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T153000
+DTEND;TZID=Europe/Berlin:20261010T220000
+DTSTAMP:20260917T161204Z
+CREATED:20260917T161204Z
+LAST-MODIFIED:20260917T161204Z
+UID:10003673-1791646200-1791669600@westiecommunity.de
+SUMMARY:Saturday Swing bei Westiefeld
+DESCRIPTION:🍂 Im Herbst wird wieder geswingt – und dazu laden wir euch nach Bielefeld ein! \nAm 10. Oktober 2026 erwartet euch beim Saturday Swing ein Abend mit Workshops\, West Coast Swing und ganz viel Social Dancing im AlarmTheater nahe dem Siegfriedplatz. \nVon 15:45 bis 22 Uhr gibt es zunächst zwei Stunden Workshops mit Pascal aus Gütersloh\, anschließend gehört die Tanzfläche für weitere vier Stunden euch. Perfekt also für einen entspannten Tanzabend mit bekannten Gesichtern\, neuen Tanzpartner*innen und jeder Menge guter Musik. 🎶 \nGetanzt wird im kleineren der beiden Säle des Theaters – mit Parkett\, Spiegelwand und echter Theateratmosphäre. 💎 \n🚋 Linie 3 → Wittekindstraße\n🚋 Linie 4 → Siegfriedplatz\n🚗 Parkhaus am Hauptbahnhof → 3–7 Std. für 4–8 € \nFür Getränke ist vor Ort gesorgt. Eigene Wasserflaschen könnt ihr selbstverständlich mitbringen. Das Auffüllen vor Ort ist allerdings nur eingeschränkt möglich. \nAlle weiteren Infos\, die aktuellen Details sowie den Ticketverkauf findet ihr auf der Website von Westiefeld.
+URL:https://westiecommunity.de/event/saturday-swing-bei-westiefeld/
+LOCATION:AlarmTheater\, Gustav-Adolf-Straße 17\, Bielefeld\, NRW\, 33615\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T160000
+DTEND;TZID=Europe/Berlin:20261010T190000
+DTSTAMP:20260917T083038Z
+CREATED:20260917T083038Z
+LAST-MODIFIED:20260917T083038Z
+UID:10003601-1791648000-1791658800@westiecommunity.de
+SUMMARY:WCS Comp Camp mit Giulia Level 4-7 (Teil1)
+DESCRIPTION:competition fundamentals – verstehen statt raten \nDu verlierst beim Tanzen plötzlich die Balance oder weißt unter Competition-Stress nicht mehr: Was möchte mein Partner gerade von mir?\nWarum kommt bei meinem Partner nicht an\, was ich eigentlich kommunizieren wollte?\nUnd warum bin ich so sehr mit Raten beschäftigt\, anstatt zu zeigen\, was ich wirklich kann?\nIn diesem dreistündigen Block geht es darum\, zu verstehen\, warum bestimmte Probleme entstehen und was man dagegen tun kann.\nWir erarbeiten die fundamentale Tanztechniken\, die Dir mehr Kontrolle und Klarheit geben: Wie stehst du stabil?\nWie baust du eine funktionale Connection auf?\nUnd wie kommunizierst Du so eindeutig\, dass beide Partner weniger raten müssen?\nSo entsteht eine Technik\, auf die Du Dich auch unter Competition-Stress verlassen kannst \nDas Ziel: weniger raten\, besser verstehen\, klarer kommunizieren – und endlich zeigen\, was wirklich in Dir steckt. \nTeilnahmeempfehlung: Dresen Level 4-7!\nDie Basics sollten solide getanzt werden können: Sugar Push\, Left Side\, Under Arm Whip\, Inside Outside Turn\, etc. \nDie Anmeldung ist mit und ohne Tanzpartner*In möglich!
+URL:https://westiecommunity.de/event/wcs-comp-camp-mit-giulia-level-4-7-teil1/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T220000
+DTSTAMP:20260322T153440Z
+CREATED:20260322T153440Z
+LAST-MODIFIED:20260322T153440Z
+UID:10002252-1791655200-1791669600@westiecommunity.de
+SUMMARY:Open Air: WCS-Social am Elisenbrunnen (KaMi-Latino Edition)
+DESCRIPTION:Open-Air West Coast Swing am wunderschönen Elisenbrunnen in Aachen. \nDer Boden ist tanzbar und die Fläche ist überdacht. Bringt euch am besten etwas zu trinken mit. \nDer Eintritt ist frei. Unsere Spendenbox freut sich über einen Beitrag für die Unkosten 🙂 \nWir freuen uns auf Euch! \nLG\nKaMi Latino
+URL:https://westiecommunity.de/event/open-air-wcs-social-am-elisenbrunnen-kami-latino-edition/2026-10-10/
+LOCATION:Elisenbrunnen @ Aachen\, Friedrich-Wilhelm-Platz\, Aachen\, NRW\, 52062\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T235500
+DTSTAMP:20260618T075741Z
+CREATED:20260618T075741Z
+LAST-MODIFIED:20260618T075741Z
+UID:10003109-1791655200-1791676500@westiecommunity.de
+SUMMARY:"PottSwing" - Workshop + Practice-Night
+DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\nab 18:30 Uhr: Workshop\nab 20:00 Uhr: Practice-Night \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop + Practice-Night:\nab 19 €/Person \nPractice-Night:\nab 5 €/Person
+URL:https://westiecommunity.de/event/pottswing-workshop-practice-night-18/
+LOCATION:Tanzschule TanzREvier Pompös\, Sieben Quellen 41\, Recklinghausen\, NRW\, 45665\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261010T193000
+DTEND;TZID=Europe/Berlin:20261010T223000
+DTSTAMP:20260917T082940Z
+CREATED:20260917T082940Z
+LAST-MODIFIED:20260917T082940Z
+UID:10003603-1791660600-1791671400@westiecommunity.de
+SUMMARY:WCS Comp Camp mit Giulia für Intermediate + (Teil 2)
+DESCRIPTION:Competition Performance – Mom tanzen zum Storytelling! \nDu hörst die Musik und hast viele Ideen – aber wann solltest Du sie wirklich zeigen?\nWie bringst Du Dich als Leader oder Follower aktiv ein\, ohne den gemeinsamen Tanz zu überladen?\nUnd wie wird aus vielen einzelnen musikalischen Reaktionen eine Performance mit Aufbau und einer klaren Geschichte? \nIn diesem dreistündigen Block beschäftigen wir uns damit\, wie Ihr Euren Tanz bewusst gestaltet. Ihr lernt verschiedene Möglichkeiten kennen Musik auszudrücken\, Kontraste entstehen zu lassen und dadurch Eure Big Moments noch größer wirken zu lassen. Dabei geht es nicht nur darum was Ihr zur Musik tanzen könnt\, sondern auch um das richtige Timing: Wann braucht der Tanz mehr Energie und Ausdruck! In praktischen Übungen zur Musik und gezielten Solo-Drills trainiert Ihr Musicality\, Kontraste\, Storytelling und den bewussten Aufbau Eures Tanzes. Das Ziel: die Musik nicht nur zu treffen\, sondern sie gemeinsam zu gestalten – mit Struktur\, Kontrasten und Big Moments. \nIntermediate+ ab Dresen Level 8!\nTeil 2 ist separat buchbar. Die Teilnahme an Teil 1 wird als technische Grundlage empfohlen\, ist jedoch keine Voraussetzung! \nDie Anmeldung ist mit und ohne Tanzpartner*In möglich! \nSamstag\, 10.10.26 von 19.30 bis 22.30 Uhr\nDauer: 180 Min.\, Comp Camp Gebühr: € 69/Person\nDresen Mitglieder: € 49/Person
+URL:https://westiecommunity.de/event/wcs-comp-camp-mit-giulia-fuer-intermediate-teil-2/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261011T110000
+DTEND;TZID=Europe/Berlin:20261011T123000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003564-1791716400-1791721800@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 2
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Basics müssen beherrscht werden
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-2-2/2026-10-11/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261011T120000
+DTEND;TZID=Europe/Berlin:20261011T160000
+DTSTAMP:20260127T203228Z
+CREATED:20260127T203228Z
+LAST-MODIFIED:20260127T203228Z
+UID:10002163-1791720000-1791734400@westiecommunity.de
+SUMMARY:Cologne Westie Brunch
+DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
+URL:https://westiecommunity.de/event/cologne-westie-brunch-7/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261011T123000
+DTEND;TZID=Europe/Berlin:20261011T140000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003568-1791721800-1791727200@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 3
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-10-11/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261012T210000
+DTEND;TZID=Europe/Berlin:20261012T233000
+DTSTAMP:20260215T193355Z
+CREATED:20260105T162907Z
+LAST-MODIFIED:20260215T193355Z
+UID:10002226-1791838800-1791847800@westiecommunity.de
+SUMMARY:Monday Blues | TanzenKöln
+DESCRIPTION:🔥 Monday Blues – euer monatliches West Coast Swing Social in Köln! 🔥 \n🗓️ Jeden 2. Montag im Monat | 21:00 – 23:30 Uhr | 5€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \n“Dance the Monday Blues away“
+URL:https://westiecommunity.de/event/monday-blues-tanzenkoeln-21/2026-10-12/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261014T210000
+DTEND;TZID=Europe/Berlin:20261014T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005272-1792011600-1792015200@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-10-14/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261015T201500
+DTEND;TZID=Europe/Berlin:20261015T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003612-1792095300-1792101600@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-10-15/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261015T203000
+DTEND;TZID=Europe/Berlin:20261015T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003170-1792096200-1792107000@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-10-15/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261015T210000
+DTEND;TZID=Europe/Berlin:20261015T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003508-1792098000-1792105200@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-10-15/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261015T220000
+DTEND;TZID=Europe/Berlin:20261016T040000
+DTSTAMP:20260917T082841Z
+CREATED:20260917T082841Z
+LAST-MODIFIED:20260917T082841Z
+UID:10003604-1792101600-1792123200@westiecommunity.de
+SUMMARY:WCS Festival 2027 - WSDC Registry Event - Donnerstag
+DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
+URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-donnerstag/
+LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261015T220000
+DTEND;TZID=Europe/Berlin:20261018T235900
+DTSTAMP:20260811T094803Z
+CREATED:20260811T094803Z
+LAST-MODIFIED:20260811T094803Z
+UID:10003528-1792101600-1792367940@westiecommunity.de
+SUMMARY:WCS Festival 2027 - WSDC Registry Event
+DESCRIPTION:WCS Festival 2027 - WSDC Registry Event\n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
+URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event/
+LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261016T143000
+DTEND;TZID=Europe/Berlin:20261017T040000
+DTSTAMP:20260917T082841Z
+CREATED:20260917T082841Z
+LAST-MODIFIED:20260917T082841Z
+UID:10003605-1792161000-1792209600@westiecommunity.de
+SUMMARY:WCS Festival 2027 - WSDC Registry Event - Freitag
+DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
+URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-freitag/
+LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261016T210000
+DTEND;TZID=Europe/Berlin:20261016T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003680-1792184400-1792191600@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-16/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261017T120000
+DTEND;TZID=Europe/Berlin:20261018T040000
+DTSTAMP:20260917T082841Z
+CREATED:20260917T082841Z
+LAST-MODIFIED:20260917T082841Z
+UID:10003606-1792238400-1792296000@westiecommunity.de
+SUMMARY:WCS Festival 2027 - WSDC Registry Event - Samstag
+DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
+URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-samstag/
+LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261018T120000
+DTEND;TZID=Europe/Berlin:20261019T020000
+DTSTAMP:20260917T082620Z
+CREATED:20260917T082620Z
+LAST-MODIFIED:20260917T082620Z
+UID:10003607-1792324800-1792375200@westiecommunity.de
+SUMMARY:wcs Festival 2027 - WSDC Registry Event - Sonntag
+DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
+URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-sonntag/
+LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261020T183000
+DTEND;TZID=Europe/Berlin:20261020T194500
+DTSTAMP:20260916T134431Z
+CREATED:20260916T134431Z
+LAST-MODIFIED:20260916T134431Z
+UID:10003577-1792521000-1792525500@westiecommunity.de
+SUMMARY:WCS Intensive mit Julia Leonard @ TanzenKöln
+DESCRIPTION:Julia Leonard ⭐️ \nJulia ist leidenschaftliche All-Star West Coast Swing Tänzerin aus Bristol\, wo sie eine eigene West Coast Swing Tanzschule leitet. Mit ihrer Begeisterung für Technik und Details schafft sie es\, auch komplexe Konzepte verständlich und greifbar zu vermitteln – ohne dabei den Spaß am Tanzen aus den Augen zu verlieren. Dabei unterrichtet sie präzise\, strukturiert und mit einem besonderen Blick für die Feinheiten. Da Julia sowohl führt als auch folgt\, kann sie beide Perspektiven gezielt einbringen. \nGenau hier setzt das WCS Intensive an: Du tanzt regelmäßig West Coast Swing\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) bereits fortgeschrittenere Figuren und Variationen (z. B. Free Spin\, Outside Turn & Open Whip) und möchtest tiefer in anspruchsvollere Konzepte einsteigen? Dann ist dieses Intensive genau das Richtige für dich! \nDamit genügend Raum zum Ausprobieren\, Lernen und für persönliches Feedback bleibt\, findet das Intensive bewusst in einer kleinen Gruppe statt. So kannst du dich in entspannter Atmosphäre intensiv mit den Themen auseinandersetzen. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nDu hast noch keine Tanzpartner? Schreib uns gerne trotzdem – wir bringen euch zusammen 💕 \n🗓️ 18:30 – 19:45 Uhr | 25€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-julia-leonard-tanzenkoeln/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261020T200000
+DTEND;TZID=Europe/Berlin:20261020T211500
+DTSTAMP:20260916T134435Z
+CREATED:20260916T134435Z
+LAST-MODIFIED:20260916T134435Z
+UID:10003578-1792526400-1792530900@westiecommunity.de
+SUMMARY:WCS Intensive mit Julia Leonard @ TanzenKöln
+DESCRIPTION:Julia Leonard ⭐️ \nJulia ist leidenschaftliche All-Star West Coast Swing Tänzerin aus Bristol\, wo sie eine eigene West Coast Swing Tanzschule leitet. Mit ihrer Begeisterung für Technik und Details schafft sie es\, auch komplexe Konzepte verständlich und greifbar zu vermitteln – ohne dabei den Spaß am Tanzen aus den Augen zu verlieren. Dabei unterrichtet sie präzise\, strukturiert und mit einem besonderen Blick für die Feinheiten. Da Julia sowohl führt als auch folgt\, kann sie beide Perspektiven gezielt einbringen. \nGenau hier setzt das WCS Intensive an: Du tanzt regelmäßig West Coast Swing\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) bereits fortgeschrittenere Figuren und Variationen (z. B. Free Spin\, Outside Turn & Open Whip) und möchtest tiefer in anspruchsvollere Konzepte einsteigen? Dann ist dieses Intensive genau das Richtige für dich! \nDamit genügend Raum zum Ausprobieren\, Lernen und für persönliches Feedback bleibt\, findet das Intensive bewusst in einer kleinen Gruppe statt. So kannst du dich in entspannter Atmosphäre intensiv mit den Themen auseinandersetzen. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nDu hast noch keine Tanzpartner? Schreib uns gerne trotzdem – wir bringen euch zusammen 💕 \n🗓️ 20:00 – 21:15 Uhr | 25€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-julia-leonard-tanzenkoeln-2/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261021T210000
+DTEND;TZID=Europe/Berlin:20261021T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005273-1792616400-1792620000@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-10-21/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261022T201500
+DTEND;TZID=Europe/Berlin:20261022T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003613-1792700100-1792706400@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-10-22/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261022T203000
+DTEND;TZID=Europe/Berlin:20261022T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003171-1792701000-1792711800@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-10-22/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261022T210000
+DTEND;TZID=Europe/Berlin:20261022T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003509-1792702800-1792710000@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-10-22/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261023T210000
+DTEND;TZID=Europe/Berlin:20261023T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003681-1792789200-1792796400@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-23/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261024T101500
+DTEND;TZID=Europe/Berlin:20261025T194500
+DTSTAMP:20260813T150352Z
+CREATED:20260128T073059Z
+LAST-MODIFIED:20260813T150352Z
+UID:10002177-1792836900-1792957500@westiecommunity.de
+SUMMARY:Cologne Westie Camp -Trainingswochenende
+DESCRIPTION:Training\, Training und nochmal Training. Das Westie Camp ist genau das. Kein Workshop\, kein Event\, sondern ein echtes Trainingscamp. \nBeim Westie Camp geht’s nicht um neue Figuren\, sondern um die kleinen Dinge\, die riesige Auswirkungen haben. Gewichtstransfer\, Körperbeherrschung\, Balance\, Timing und viiiel Connection. Wir arbeiten viel solo\, machen Drills\, gehen tief in die Technik – mit und ohne Partner:in. \nZwei Tage. Zwei Level.  \nJedes Level hat jeweils 3 Stunden am Samstag und 3 Stunden am Sonntag. Schau unten\, welches zu dir passt und wenn du dir nicht sicher bist\, frag uns gerne! \n🟢 Explorer \nDu bist seit mindestens 9 Monaten regelmäßig in Kursen und warst schon bei den ersten lokalen Socials. Du möchtest den Tanz über Figuren hinaus besser verstehen\, entdecken\, was man mit Connection eigentlich alles anstellen kann und hast Lust\, ein Wochenende lang wirklich tief in erste Konzepte und Techniken einzutauchen. \n📅 Samstag\, 24.10.: 10:15–13:30 Uhr\n📅 Sonntag\, 25.10.: 16:30–19:45 Uhr \n🔵 Refiner \nDu tanzt seit mindestens 2\,5 Jahren regelmäßig\, warst auch schon auf überregionalen oder internationalen Events und kannst auf Socials tanzen\, ohne ständig über Timing oder die nächsten Schritte nachdenken zu müssen. Dich interessieren Konzepte und Technik\, nicht nur Patterns oder Stylings. Du möchtest wissen\, wie du unabhängig vom Gegenüber ein besserer Leader oder Follower werden kannst. \n📅 Samstag\, 24.10.: 14:30–17:45 Uhr\n📅 Sonntag\, 25.10.: 12:15–15:30 Uhr \n📍 Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 Preis: ab 109 €\n⚠️ Begrenzte Plätze \nWir freuen uns auf euch! 🎉
+URL:https://westiecommunity.de/event/cologne-westie-intensive-3/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261024T190000
+DTEND;TZID=Europe/Berlin:20261025T020000
+DTSTAMP:20260127T205545Z
+CREATED:20260127T205545Z
+LAST-MODIFIED:20260127T205545Z
+UID:10002170-1792868400-1792893600@westiecommunity.de
+SUMMARY:Cologne Westie Night - Workshop & Social
+DESCRIPTION:Du tanzt schon WCS? Perfekt. Dann schnapp dir deine Tanzschuhe und komm vorbei: Einmal im Monat gibt’s neue Themen\, neue Impulse und richtig gute Abende mit der Community. \nWorkshop von 19:00–20:30\, danach Social ab 20:30.\n(Sugar Push\, Left Side Pass\, Under Arm Turn\, Whip\, Sugar Tuck und Inside Turn solltest du schon kennen) \nFalls du noch mit WCS durchstarten willst\, guck mal hier: https://cologneswingconnection.de/einstieg
+URL:https://westiecommunity.de/event/cologne-westie-night-workshop-social-7/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261027T183000
+DTEND;TZID=Europe/Berlin:20261027T194500
+DTSTAMP:20260618T080527Z
+CREATED:20260618T080527Z
+LAST-MODIFIED:20260618T080527Z
+UID:10003084-1793125800-1793130300@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Telemagic
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 27.10.26 | 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-telemagic/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261027T200000
+DTEND;TZID=Europe/Berlin:20261027T211500
+DTSTAMP:20260618T080558Z
+CREATED:20260618T080558Z
+LAST-MODIFIED:20260618T080558Z
+UID:10003085-1793131200-1793135700@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Baseball Throw
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 27.10.26 | 20:00 – 21:15 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-baseball-throw/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261029T201500
+DTEND;TZID=Europe/Berlin:20261029T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003614-1793304900-1793311200@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-10-29/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261029T203000
+DTEND;TZID=Europe/Berlin:20261029T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003172-1793305800-1793316600@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-10-29/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261029T210000
+DTEND;TZID=Europe/Berlin:20261029T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003510-1793307600-1793314800@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-10-29/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261030T210000
+DTEND;TZID=Europe/Berlin:20261030T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003682-1793394000-1793401200@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-30/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261104T210000
+DTEND;TZID=Europe/Berlin:20261104T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005274-1793826000-1793829600@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-11-04/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261105T201500
+DTEND;TZID=Europe/Berlin:20261105T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003615-1793909700-1793916000@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-11-05/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261105T203000
+DTEND;TZID=Europe/Berlin:20261105T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003173-1793910600-1793921400@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-11-05/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261105T210000
+DTEND;TZID=Europe/Berlin:20261105T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003511-1793912400-1793919600@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-11-05/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261106T160000
+DTEND;TZID=Europe/Berlin:20261106T173000
+DTSTAMP:20260916T160054Z
+CREATED:20260916T160054Z
+LAST-MODIFIED:20260916T160054Z
+UID:10003596-1793980800-1793986200@westiecommunity.de
+SUMMARY:Technik Training (ab Level2) @ VHS Aachen
+DESCRIPTION:West Coast Swing Technik Training (Vorkenntnisse erforderlich!)
+URL:https://westiecommunity.de/event/technik-training-ab-level2-vhs-aachen/
+LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261106T173000
+DTEND;TZID=Europe/Berlin:20261106T190000
+DTSTAMP:20260916T155605Z
+CREATED:20260916T155605Z
+LAST-MODIFIED:20260916T155605Z
+UID:10003597-1793986200-1793991600@westiecommunity.de
+SUMMARY:Kreativität & Musicality in der Freitanzphase
+DESCRIPTION:Hier lernt man\, wie man sich im West Coast Swing in der Freitanzphase frei entfalten kann.
+URL:https://westiecommunity.de/event/kreativitaet-musicality-in-der-freitanzphase/
+LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261106T190000
+DTEND;TZID=Europe/Berlin:20261106T233000
+DTSTAMP:20260220T165741Z
+CREATED:20250112T131158Z
+LAST-MODIFIED:20260220T165741Z
+UID:10000619-1793991600-1794007800@westiecommunity.de
+SUMMARY:WCS Practice Night
+DESCRIPTION:Am 1. Freitag im Monat findet unsere Practice Night mit Fortgeschrittenen-Workshop statt. \nWorkshop ab 19:00 Uhr (Voraussetzung: Five Basics). \nUm 20:00 Uhr startet dann die Party.
+URL:https://westiecommunity.de/event/wcs-und-zouk-practice-night-2-areas/2026-11-06/
+LOCATION:Dance Fusion Aachen\, Adalbertsteinweg 208\, Aachen\, NRW\, 52066\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261106T210000
+DTEND;TZID=Europe/Berlin:20261106T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003683-1793998800-1794006000@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-06/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261107T170000
+DTEND;TZID=Europe/Berlin:20261107T200000
+DTSTAMP:20260825T131609Z
+CREATED:20260803T122922Z
+LAST-MODIFIED:20260825T131609Z
+UID:10003444-1794070800-1794081600@westiecommunity.de
+SUMMARY:Intensive: "Connection" mit Carsten und Bianca
+DESCRIPTION:für wen?\nWCS Mitglieder der Tanzschule Dresen ab Stufe 4/5 oder sehr ambitionierte Level-3-Tänzer:innen\n(nach Rücksprache mit den Tanzlehrern) \nExterne Tänzer:innen mit mindestens 2\,5 Jahren regelmäßigem West Coast Swing Unterricht \n---------- \nConnect. Communicate. Create. \nConnection ist mehr als nur Handkontakt. Sie ist die Grundlage dafür\, dass zwei Menschen im West Coast Swing wirklich miteinander tanzen können. \nIn diesem Intensive gehen wir zurück zu den Grundlagen einer guten Verbindung und bauen darauf auf: Wie entsteht klare Kommunikation zwischen Leader und Follower? Welche Rolle spielen Haltung\, Körperspannung\, Timing und Bodenarbeit? Und wie kannst du deine Connection nutzen\, um nicht nur bekannte Patterns\, sondern auch komplexere Bewegungen gemeinsam zu tanzen? \nDabei geht es nicht um „mehr fühlen“\, sondern um besser verstehen.\nWir schauen uns an\, wie du Verbindung bewusst aufbaust\, veränderst und nutzt – und wie daraus spannende Möglichkeiten für deinen Tanz entstehen. \nLeverage – mehr als nur Connection\nEin besonderer Fokus liegt dabei auf Leverage. Aber was bedeutet das eigentlich?\nBei einer klassischen Connection kann ein Impuls beispielsweise über Hand\, Arm und Körper weitergegeben werden. Bei Leverage wird die gesamte Körperorganisation wichtiger. \nPosition + Körpergewicht + Winkel + Gegenspannung = Leverage \nDadurch entsteht eine Verbindung\, die deutlich mehr Möglichkeiten bietet als einfach nur „Zug und Druck“.\nGerade bei Leans\, Dips und Monkey Bars wird Leverage interessant. Diese Bewegungen funktionieren nicht gut\, wenn einer einfach nur zieht und der andere sich irgendwie hineinfallen lässt. Beide Partner müssen verstehen\, was mit dem eigenen Körper und dem gemeinsamen Gleichgewicht passiert: \nWo befindet sich mein Schwerpunkt?\nIn welchem Winkel stehe ich zum Partner?\nWie viel Spannung brauche ich?\nWo gebe ich nach und wo bleibe ich stabil?\nWie nutze ich den Boden?\nWie kann ich die Bewegung meines Partners unterstützen?\nUnd wie komme ich kontrolliert und sicher wieder heraus?\nSo wird aus einem vermeintlichen „Fancy Move“ eine technisch nachvollziehbare Form von Connection. \nWas dich erwartet\nConnection Basics – Haltung\, Körperspannung\, Bodenarbeit und Partnerwahrnehmung\nLead & Follow – klare Impulse geben und differenziert darauf reagieren\nLeverage – Connection erweitern und für komplexere Bewegungen nutzen\nLeans\, Dips & Monkey Bars – Balance\, Kontrolle und gemeinsame Bewegung technisch verstehen und sicher umsetzen\nConnection als Kommunikation – ein gemeinsames Gespräch statt einseitiger Führung\nMusikalische Anwendung – Connection nutzen\, um gemeinsam auf Akzente\, Dynamik und musikalische Ideen zu reagieren\nTransfer in den Social Dance – das Gelernte direkt in deinen eigenen Tanz bringen\nDabei bleibt es nicht bei Erklärungen: Wir probieren aus\, üben gemeinsam und setzen die jeweilige Technik direkt in Bewegung um. Du lernst also nicht erst eine Technik und bekommst später einen Move dazu – Technik und Anwendung gehören direkt zusammen. \nFür alle\, die ...\n... ihre Connection nicht nur besser fühlen\, sondern besser verstehen möchten.\n... klarer kommunizieren\, schneller reagieren und gemeinsam musikalischer tanzen möchten.\n... wissen wollen\, wie Leverage funktioniert und welche Möglichkeiten daraus entstehen.\n... Lust auf Leans\, Dips und Monkey Bars haben – aber nicht einfach nur Bewegungen nachmachen\, sondern verstehen wollen\, was dahintersteckt.\nDenn ein Fancy Move ist nur dann wirklich fancy\, wenn beide wissen\, was sie tun.
+URL:https://westiecommunity.de/event/intensive-connection-mit-carsten-und-bianca-2/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261107T200000
+DTEND;TZID=Europe/Berlin:20261107T233000
+DTSTAMP:20260804T103024Z
+CREATED:20260602T094902Z
+LAST-MODIFIED:20260804T103024Z
+UID:10003520-1794081600-1794094200@westiecommunity.de
+SUMMARY:Saturday Swing Party
+DESCRIPTION:West Coast Swing Social Dance Night.\nTanzen\, üben und feiern mit guter Musik auf dem Dancefloor. \nEinlass ab Beginn 20.00 Uhr / Ende 23.30 Uhr\nEintritt Dresen Mitglieder 6 €/ Gäste 8 € \nWir freuen uns auf Euch!
+URL:https://westiecommunity.de/event/saturday-swing-party-11/2026-11-07/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T110000
+DTEND;TZID=Europe/Berlin:20261108T123000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003565-1794135600-1794141000@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 2
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Basics müssen beherrscht werden
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-2-2/2026-11-08/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T120000
+DTEND;TZID=Europe/Berlin:20261108T160000
+DTSTAMP:20260127T203411Z
+CREATED:20260127T203411Z
+LAST-MODIFIED:20260127T203411Z
+UID:10002164-1794139200-1794153600@westiecommunity.de
+SUMMARY:Cologne Westie Brunch
+DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
+URL:https://westiecommunity.de/event/cologne-westie-brunch-8/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T123000
+DTEND;TZID=Europe/Berlin:20261108T140000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003569-1794141000-1794146400@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 3
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-11-08/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261109T210000
+DTEND;TZID=Europe/Berlin:20261109T233000
+DTSTAMP:20260215T193355Z
+CREATED:20260105T162907Z
+LAST-MODIFIED:20260215T193355Z
+UID:10002227-1794258000-1794267000@westiecommunity.de
+SUMMARY:Monday Blues | TanzenKöln
+DESCRIPTION:🔥 Monday Blues – euer monatliches West Coast Swing Social in Köln! 🔥 \n🗓️ Jeden 2. Montag im Monat | 21:00 – 23:30 Uhr | 5€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \n“Dance the Monday Blues away“
+URL:https://westiecommunity.de/event/monday-blues-tanzenkoeln-21/2026-11-09/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261111T210000
+DTEND;TZID=Europe/Berlin:20261111T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005275-1794430800-1794434400@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-11-11/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261112T201500
+DTEND;TZID=Europe/Berlin:20261112T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003616-1794514500-1794520800@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-11-12/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261112T203000
+DTEND;TZID=Europe/Berlin:20261112T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003174-1794515400-1794526200@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-11-12/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261112T210000
+DTEND;TZID=Europe/Berlin:20261112T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003512-1794517200-1794524400@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-11-12/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261113T184500
+DTEND;TZID=Europe/Berlin:20261113T200000
+DTSTAMP:20260617T144801Z
+CREATED:20260218T130231Z
+LAST-MODIFIED:20260617T144801Z
+UID:10002210-1794595500-1794600000@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Style your Basics 🧚🏼‍♀️
+DESCRIPTION:Du beherrschst bereits die Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn und Whip) und möchtest deinen West Coast Swing weiter ausbauen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 18:45 – 20:00 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-4/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261113T201500
+DTEND;TZID=Europe/Berlin:20261113T213000
+DTSTAMP:20260617T144929Z
+CREATED:20260218T130231Z
+LAST-MODIFIED:20260617T144929Z
+UID:10002211-1794600900-1794605400@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Communication 📞
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 20:15 – 21:30 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-3/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261113T210000
+DTEND;TZID=Europe/Berlin:20261113T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003684-1794603600-1794610800@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-13/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T163000
+DTEND;TZID=Europe/Berlin:20261114T180000
+DTSTAMP:20260804T101429Z
+CREATED:20260529T131835Z
+LAST-MODIFIED:20260804T101429Z
+UID:10003519-1794673800-1794679200@westiecommunity.de
+SUMMARY:Follower Intensive mit Mejrem Level 2-4
+DESCRIPTION:Du liebst West Coast Swing?\nDu möchtest Dein Tanzen verbessern?\nSei dabei und reserviere Deinen Platz!\nProfitiere vom grandiosen Unterricht mit »The One & Only Mejrem«! \nFollower Intensive Level 2-4! \nMejrem vermittelt Dir in diesem Intensive neue Infos und Praktiken zum Thema: Styling!\nSie hilft Dir Deinen Tanzstil in einer sicheren Umgebung zu erforschen und gibt wertvolle Styling Tipps\, die Du im West Coast Swing anwenden kannst. Die Unterrichtsdauer von 90 Minuten bietet das nötige Zeitfenster um konzentriert und zielführend zu lernen und um das Erlernte durch Übung umzusetzen. Du profitierst vom Know-How um viele Facetten intensiv zu erarbeiten! Einen Tanzpartner benötigst Du für dieses Intensive nicht! \nDie Teilnahme ist von Level 2-4 (Dresen) oder vergleichbar möglich!\nDu tanzt nicht bei Dresen und hast Fragen zur Einordnung Deines Leistungslevels? Wir helfen gern weiter: Bitte eine Email senden an andrea@tanzschule-dresen.de
+URL:https://westiecommunity.de/event/follower-intensive-mit-mejrem-level-2-4-3/2026-11-14/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T183000
+DTEND;TZID=Europe/Berlin:20261114T200000
+DTSTAMP:20260804T101248Z
+CREATED:20260529T131840Z
+LAST-MODIFIED:20260804T101248Z
+UID:10003518-1794681000-1794686400@westiecommunity.de
+SUMMARY:Follower Intensive mit Mejrem Level 5-8
+DESCRIPTION:Du liebst West Coast swing?\nDu möchtest Dein Tanzen verbessern?\nSei dabei und reserviere Deinen Platz!\nProfitiere vom grandiosen Unterricht mit »The One & Only Mejrem«! \nFollower Intensive Level 5-8! \nNext Level: Hattest Du schon das Gefühl\, dass Du Deinem Tanzen mehr hinzufügen willst? Du bist jedoch unsicher wie Du Dein Styling hinzufügen sollst ohne die Connection mit Deinem Leader negativ zu beeinflussen?\nMejrem zeigt Dir wie Du Dein Styling in Kombination mit Ideen für Deine nächsten Moves einsetzen kannst.\nEinen Tanzpartner benötigst Du für dieses Intensive nicht! \nIn diesem 90 minütigen Intensive tauchen wir in die vielen Nuancen ein\, die eine großartige Verbindung ausmachen. Wir konzentrieren uns vor allem auf: DICH! \nSei bereit und trau Dich! \nDie Teilnahme ist von Level 5-8 (Dresen) oder vergleichbar möglich!\nDu tanzt nicht bei Dresen und hast Fragen zur Einordnung Deines Leistungslevels? Wir helfen gern weiter: Bitte eine Email senden an andrea@tanzschule-dresen.de
+URL:https://westiecommunity.de/event/follower-intensive-mit-mejrem-level-5-8-3/2026-11-14/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T184500
+DTEND;TZID=Europe/Berlin:20261115T020000
+DTSTAMP:20260627T084213Z
+CREATED:20260627T084213Z
+LAST-MODIFIED:20260627T084213Z
+UID:10003123-1794681900-1794708000@westiecommunity.de
+SUMMARY:Saturday Swing @ tanzraum
+DESCRIPTION:Saturday Swing \n📝 ZEITPLAN 📝\n18:45 Einlass\n19:00-20:00 Workshop\n20:15-21:15 Workshop\n21:30-open End Social \n🎟️ ABENDKASSE🎟️\n2 Stunden Workshop + Social: 35€\n1 Stunde Workshop + Social: 25€\nSocial: 10€ \nRabatt: Tanzraum Mitglieder und USC-Check-In erhalten Wasserflatrate 🙂 \nLevel: Sugar Push\, Sugar Tuck\, Under Arm Turn\, Left Side Pass\, Whip und Inside Turn sollten bekannt sein
+URL:https://westiecommunity.de/event/saturday-swing-tanzraum-4/
+LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261115T140000
+DTEND;TZID=Europe/Berlin:20261115T153000
+DTSTAMP:20260803T123018Z
+CREATED:20260803T123018Z
+LAST-MODIFIED:20260803T123018Z
+UID:10003441-1794751200-1794756600@westiecommunity.de
+SUMMARY:Sunday Swing (Level 5/6) "Ducks & Rides" mit Bianca & Carsten
+DESCRIPTION:Vorraussetzungen: Level 5+6 (Dresen) oder oder ca. 3 Jahre regelmäßiger Unterricht.\nDauer: 90 Min.\, Workshopgebühr: € 29/Person\nWCS Clubmitglieder erhalten 50% Rabatt\nWir freuen uns auf Eure Reservierung!
+URL:https://westiecommunity.de/event/sunday-swing-level-5-6-ducks-rides-mit-bianca-carsten/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261118T210000
+DTEND;TZID=Europe/Berlin:20261118T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005276-1795035600-1795039200@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-11-18/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261119T201500
+DTEND;TZID=Europe/Berlin:20261119T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003617-1795119300-1795125600@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2026-11-19/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261119T203000
+DTEND;TZID=Europe/Berlin:20261119T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003175-1795120200-1795131000@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-11-19/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261119T210000
+DTEND;TZID=Europe/Berlin:20261119T230000
+DTSTAMP:20260804T100927Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20260804T100927Z
+UID:10003513-1795122000-1795129200@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:08. Oktober @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-19/2026-11-19/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261120T210000
+DTEND;TZID=Europe/Berlin:20261120T230000
+DTSTAMP:20260922T062223Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20260922T062223Z
+UID:10003685-1795208400-1795215600@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-20/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T130000
+DTSTAMP:20260618T081118Z
+CREATED:20260618T081118Z
+LAST-MODIFIED:20260618T081118Z
+UID:10003086-1795258800-1795266000@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | TBA
+DESCRIPTION:Das Thema ist noch nicht entschieden\, werden wir aber bald bekannt geben 🤓 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 5-7 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 11:00 – 13:00 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-10/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T153000
+DTSTAMP:20260618T081110Z
+CREATED:20260618T081110Z
+LAST-MODIFIED:20260618T081110Z
+UID:10003087-1795267800-1795275000@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | TBA
+DESCRIPTION:Das Thema ist noch nicht entschieden\, werden wir aber bald bekannt geben 🤓 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 5-7 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 13:30 – 15:30 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-9/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
