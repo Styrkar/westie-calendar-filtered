@@ -237,4 +237,17 @@ URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-18/
 LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T183000
+DTEND;TZID=Europe/Berlin:20261121T233000
+DTSTAMP:20260921T075109Z
+CREATED:20260921T075109Z
+LAST-MODIFIED:20260921T075109Z
+UID:10003691-1795285800-1795303800@westiecommunity.de
+SUMMARY:WCS all level Workshop mit Jenni + NEON Party
+DESCRIPTION:WCS All Level Workshop mit Jenni + Neon Party
+URL:https://westiecommunity.de/event/wcs-all-level-workshop-mit-jenni-neon-party/
+LOCATION:Altstadt Tanzschule Jansen Mülheim\, Bachstraße 25\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
 END:VCALENDAR
