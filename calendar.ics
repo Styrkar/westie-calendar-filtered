@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261004T110000
-DTEND;TZID=Europe/Berlin:20261004T130000
-DTSTAMP:20261002T153056Z
-CREATED:20261001T154546Z
-LAST-MODIFIED:20261002T153056Z
-UID:10005530-1791111600-1791118800@westiecommunity.de
-SUMMARY:Sunday Morning Swing (Practice)
-DESCRIPTION:Ob das Frischgelernte bei Workshops ohne Druck auszuprobieren\, mit den neuen Tanzideen zu experimentieren\,\ndie Basics zu wiederholen oder ein paar Stunden am Sonntag morgens zu tanzen\, kommt einfach vorbei! \nEintritt für Gäste: 5€
-URL:https://westiecommunity.de/event/sunday-morning-swing-practice/
-LOCATION:ADTV Tanzschule Paulerberg\, Danzigerstr. 11-13\, Duisburg\, NRW\, 47057\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261006T183000
 DTEND;TZID=Europe/Berlin:20261006T194500
 DTSTAMP:20260617T143415Z
@@ -693,19 +680,6 @@ LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germa
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261107T170000
-DTEND;TZID=Europe/Berlin:20261107T200000
-DTSTAMP:20260825T131609Z
-CREATED:20260803T122922Z
-LAST-MODIFIED:20260825T131609Z
-UID:10003444-1794070800-1794081600@westiecommunity.de
-SUMMARY:Intensive: "Connection" mit Carsten und Bianca
-DESCRIPTION:für wen?\nWCS Mitglieder der Tanzschule Dresen ab Stufe 4/5 oder sehr ambitionierte Level-3-Tänzer:innen\n(nach Rücksprache mit den Tanzlehrern) \nExterne Tänzer:innen mit mindestens 2\,5 Jahren regelmäßigem West Coast Swing Unterricht \n---------- \nConnect. Communicate. Create. \nConnection ist mehr als nur Handkontakt. Sie ist die Grundlage dafür\, dass zwei Menschen im West Coast Swing wirklich miteinander tanzen können. \nIn diesem Intensive gehen wir zurück zu den Grundlagen einer guten Verbindung und bauen darauf auf: Wie entsteht klare Kommunikation zwischen Leader und Follower? Welche Rolle spielen Haltung\, Körperspannung\, Timing und Bodenarbeit? Und wie kannst du deine Connection nutzen\, um nicht nur bekannte Patterns\, sondern auch komplexere Bewegungen gemeinsam zu tanzen? \nDabei geht es nicht um „mehr fühlen“\, sondern um besser verstehen.\nWir schauen uns an\, wie du Verbindung bewusst aufbaust\, veränderst und nutzt – und wie daraus spannende Möglichkeiten für deinen Tanz entstehen. \nLeverage – mehr als nur Connection\nEin besonderer Fokus liegt dabei auf Leverage. Aber was bedeutet das eigentlich?\nBei einer klassischen Connection kann ein Impuls beispielsweise über Hand\, Arm und Körper weitergegeben werden. Bei Leverage wird die gesamte Körperorganisation wichtiger. \nPosition + Körpergewicht + Winkel + Gegenspannung = Leverage \nDadurch entsteht eine Verbindung\, die deutlich mehr Möglichkeiten bietet als einfach nur „Zug und Druck“.\nGerade bei Leans\, Dips und Monkey Bars wird Leverage interessant. Diese Bewegungen funktionieren nicht gut\, wenn einer einfach nur zieht und der andere sich irgendwie hineinfallen lässt. Beide Partner müssen verstehen\, was mit dem eigenen Körper und dem gemeinsamen Gleichgewicht passiert: \nWo befindet sich mein Schwerpunkt?\nIn welchem Winkel stehe ich zum Partner?\nWie viel Spannung brauche ich?\nWo gebe ich nach und wo bleibe ich stabil?\nWie nutze ich den Boden?\nWie kann ich die Bewegung meines Partners unterstützen?\nUnd wie komme ich kontrolliert und sicher wieder heraus?\nSo wird aus einem vermeintlichen „Fancy Move“ eine technisch nachvollziehbare Form von Connection. \nWas dich erwartet\nConnection Basics – Haltung\, Körperspannung\, Bodenarbeit und Partnerwahrnehmung\nLead & Follow – klare Impulse geben und differenziert darauf reagieren\nLeverage – Connection erweitern und für komplexere Bewegungen nutzen\nLeans\, Dips & Monkey Bars – Balance\, Kontrolle und gemeinsame Bewegung technisch verstehen und sicher umsetzen\nConnection als Kommunikation – ein gemeinsames Gespräch statt einseitiger Führung\nMusikalische Anwendung – Connection nutzen\, um gemeinsam auf Akzente\, Dynamik und musikalische Ideen zu reagieren\nTransfer in den Social Dance – das Gelernte direkt in deinen eigenen Tanz bringen\nDabei bleibt es nicht bei Erklärungen: Wir probieren aus\, üben gemeinsam und setzen die jeweilige Technik direkt in Bewegung um. Du lernst also nicht erst eine Technik und bekommst später einen Move dazu – Technik und Anwendung gehören direkt zusammen. \nFür alle\, die ...\n... ihre Connection nicht nur besser fühlen\, sondern besser verstehen möchten.\n... klarer kommunizieren\, schneller reagieren und gemeinsam musikalischer tanzen möchten.\n... wissen wollen\, wie Leverage funktioniert und welche Möglichkeiten daraus entstehen.\n... Lust auf Leans\, Dips und Monkey Bars haben – aber nicht einfach nur Bewegungen nachmachen\, sondern verstehen wollen\, was dahintersteckt.\nDenn ein Fancy Move ist nur dann wirklich fancy\, wenn beide wissen\, was sie tun.
-URL:https://westiecommunity.de/event/intensive-connection-mit-carsten-und-bianca-2/
-LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261107T200000
 DTEND;TZID=Europe/Berlin:20261107T233000
 DTSTAMP:20260804T103024Z
@@ -1054,6 +1028,32 @@ SUMMARY:Social @Weißhausstraße
 DESCRIPTION:Übungsabend im Tanzzentrum an der Weißhausstraße von 21:00 Uhr bis 24:00 Uhr. \nEintrittspreis: 6€/Person*/** \n*Workshop-Teilnehmer*innen des heutigen Tages erhalten Freien Eintritt (Eintrittspreis bereits im Workshop-Honorar mit inbegriffen)\n**TZ-Mitglieder erhalten rabattierten Eintritt
 URL:https://westiecommunity.de/event/social-weisshausstrasse/
 LOCATION:ADTV & CreaDance Tanzzentrum Weißhausstraße\, Weißhausstr. 21\, Köln\, NRW\, 50939\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261125T210000
+DTEND;TZID=Europe/Berlin:20261125T220000
+DTSTAMP:20260927T062351Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20260927T062351Z
+UID:10005277-1795640400-1795644000@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-11-25/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261126T203000
+DTEND;TZID=Europe/Berlin:20261126T233000
+DTSTAMP:20260724T082039Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20260724T082039Z
+UID:10003176-1795725000-1795735800@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2026-11-26/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
