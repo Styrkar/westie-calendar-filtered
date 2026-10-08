@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261007T210000
-DTEND;TZID=Europe/Berlin:20261007T220000
-DTSTAMP:20260927T062351Z
-CREATED:20260927T062351Z
-LAST-MODIFIED:20260927T062351Z
-UID:10005271-1791406800-1791410400@westiecommunity.de
-SUMMARY:Mini Social
-DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
-URL:https://westiecommunity.de/event/mini-social/2026-10-07/
-LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261008T194500
 DTEND;TZID=Europe/Berlin:20261008T204500
 DTSTAMP:20261006T180136Z
@@ -474,12 +461,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261024T101500
 DTEND;TZID=Europe/Berlin:20261025T194500
-DTSTAMP:20260813T150352Z
+DTSTAMP:20261007T175042Z
 CREATED:20260128T073059Z
-LAST-MODIFIED:20260813T150352Z
+LAST-MODIFIED:20261007T175042Z
 UID:10002177-1792836900-1792957500@westiecommunity.de
-SUMMARY:Cologne Westie Camp -Trainingswochenende
-DESCRIPTION:Training\, Training und nochmal Training. Das Westie Camp ist genau das. Kein Workshop\, kein Event\, sondern ein echtes Trainingscamp. \nBeim Westie Camp geht’s nicht um neue Figuren\, sondern um die kleinen Dinge\, die riesige Auswirkungen haben. Gewichtstransfer\, Körperbeherrschung\, Balance\, Timing und viiiel Connection. Wir arbeiten viel solo\, machen Drills\, gehen tief in die Technik – mit und ohne Partner:in. \nZwei Tage. Zwei Level.  \nJedes Level hat jeweils 3 Stunden am Samstag und 3 Stunden am Sonntag. Schau unten\, welches zu dir passt und wenn du dir nicht sicher bist\, frag uns gerne! \n🟢 Explorer \nDu bist seit mindestens 9 Monaten regelmäßig in Kursen und warst schon bei den ersten lokalen Socials. Du möchtest den Tanz über Figuren hinaus besser verstehen\, entdecken\, was man mit Connection eigentlich alles anstellen kann und hast Lust\, ein Wochenende lang wirklich tief in erste Konzepte und Techniken einzutauchen. \n📅 Samstag\, 24.10.: 10:15–13:30 Uhr\n📅 Sonntag\, 25.10.: 16:30–19:45 Uhr \n🔵 Refiner \nDu tanzt seit mindestens 2\,5 Jahren regelmäßig\, warst auch schon auf überregionalen oder internationalen Events und kannst auf Socials tanzen\, ohne ständig über Timing oder die nächsten Schritte nachdenken zu müssen. Dich interessieren Konzepte und Technik\, nicht nur Patterns oder Stylings. Du möchtest wissen\, wie du unabhängig vom Gegenüber ein besserer Leader oder Follower werden kannst. \n📅 Samstag\, 24.10.: 14:30–17:45 Uhr\n📅 Sonntag\, 25.10.: 12:15–15:30 Uhr \n📍 Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 Preis: ab 109 €\n⚠️ Begrenzte Plätze \nWir freuen uns auf euch! 🎉
+SUMMARY:Cologne Westie Camp - Kreativität\, Kommunikation & Connection
+DESCRIPTION:Training\, Training und nochmal Training. Das Westie Camp ist genau das. Kein Workshop\, kein Event\, sondern ein echtes Trainingscamp. \nHast du dich schon mal gefragt\, warum manche Tänzer:innen aussehen als würden sie Telepathie benutzen? Als wäre alles Choreografie\, obwohl die sich gerade zum ersten Mal begegnen? \nAls Follower lernst du\, wie du dich einbringst und den Tanz aktiv mitgestaltest\, ohne direkt zu "leaden". Als Leader\, wie du deinen Follower dazu einlädst und dann auch damit klarkommst\, wenn er oder sie es tut.  \nWir schauen uns an\, wie Shaping funktioniert\, wie man Distanz bewusst einsetzt und wie dadurch jeder Tanz mit jeder Person ein bisschen anders wird. Ganz ohne neue Figuren oder Stylings. \nWir arbeiten viel Solo\, mit vielen Drills\, mit und ohne Partner:in. \n---- \nJedes Level hat jeweils 3 Stunden am Samstag und 3 Stunden am Sonntag. Schau unten\, welches zu dir passt und wenn du dir nicht sicher bist\, frag uns gerne! \nExplorer \nDu bist seit mindestens 9 Monaten regelmäßig in Kursen und warst schon bei den ersten lokalen Socials. Du möchtest den Tanz über Figuren hinaus besser verstehen\, entdecken\, was man mit Connection eigentlich alles anstellen kann und hast Lust\, ein Wochenende lang wirklich tief in erste Konzepte und Techniken einzutauchen. \n Samstag\, 24.10.: 10:15–13:30 Uhr\n Sonntag\, 25.10.: 16:30–19:45 Uhr \nRefiner \nDu tanzt seit mindestens 2\,5 Jahren regelmäßig\, warst auch schon auf überregionalen oder internationalen Events und kannst auf Socials tanzen\, ohne ständig über Timing oder die nächsten Schritte nachdenken zu müssen. Dich interessieren Konzepte und Technik\, nicht nur Patterns oder Stylings. Du möchtest wissen\, wie du unabhängig vom Gegenüber ein besserer Leader oder Follower werden kannst. \n Samstag\, 24.10.: 14:30–17:45 Uhr\n Sonntag\, 25.10.: 12:15–15:30 Uhr
 URL:https://westiecommunity.de/event/cologne-westie-intensive-3/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
@@ -782,5 +769,5 @@ DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr 
 URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-11-08/
 LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
 END:VEVENT
-END:VCALENDAR
+
 END:VCALENDAR

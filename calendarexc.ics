@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261007T211500
-DTEND;TZID=Europe/Berlin:20261007T223000
-DTSTAMP:20260926T215015Z
-CREATED:20251214T172157Z
-LAST-MODIFIED:20260926T215015Z
-UID:10002658-1791407700-1791412200@westiecommunity.de
-SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
-DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
-URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-07/
-LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261008T183000
 DTEND;TZID=Europe/Berlin:20261008T193000
 DTSTAMP:20261006T180136Z
@@ -523,4 +510,30 @@ URL:https://westiecommunity.de/event/schnupperworkshop-first-steps-17/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T151500
+DTEND;TZID=Europe/Berlin:20261108T161500
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10005013-1794150900-1794154500@westiecommunity.de
+SUMMARY:WCS Level 1 | Einsteiger | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-1-einsteiger-wuppertal/2026-11-08/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T163000
+DTEND;TZID=Europe/Berlin:20261108T173000
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10004750-1794155400-1794159000@westiecommunity.de
+SUMMARY:WCS Level 2 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-2-wuppertal/2026-11-08/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
