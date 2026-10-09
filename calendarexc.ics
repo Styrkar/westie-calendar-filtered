@@ -4,32 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261008T183000
-DTEND;TZID=Europe/Berlin:20261008T193000
-DTSTAMP:20261006T180136Z
-CREATED:20261006T180136Z
-LAST-MODIFIED:20261006T180136Z
-UID:10003696-1791484200-1791487800@westiecommunity.de
-SUMMARY:WCS Level 2 | Wuppertal
-DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
-URL:https://westiecommunity.de/event/wcs-level-2-wuppertal-3/2026-10-08/
-LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261008T190000
-DTEND;TZID=Europe/Berlin:20261008T200000
-DTSTAMP:20261006T180136Z
-CREATED:20261006T180136Z
-LAST-MODIFIED:20261006T180136Z
-UID:10005532-1791486000-1791489600@westiecommunity.de
-SUMMARY:WCS Level 1 | Paderborn
-DESCRIPTION:✨ West Coast Swing Level 1 – dein Einstieg in den coolsten Tanz überhaupt! \nDu hast noch nie getanzt? Perfekt! 🙌\nBei unserem Level 1 kannst du ohne Vorerfahrung starten – und eine(n) feste(n) Tanzpartner:in brauchst du auch nicht. \nJede Woche neu einsteigen\, 45 Minuten gemeinsam lernen und danach 15 Minuten freie Tanzzeit\, um das Gelernte direkt auszuprobieren. 🕺💃 \nLocker. Modern. Social. Und vor allem: jede Menge Spaß auf der Tanzfläche. \n👉 Komm vorbei\, probier’s aus und entdecke deinen neuen Lieblings-Tanz! Einfach Schnupperstunde anfragen und loslegen.
-URL:https://westiecommunity.de/event/wcs-level-1-paderborn/2026-10-08/
-LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261010T153000
 DTEND;TZID=Europe/Berlin:20261010T235900
 DTSTAMP:20260916T143216Z
@@ -45,9 +19,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261010T180000
 DTEND;TZID=Europe/Berlin:20261010T235500
-DTSTAMP:20260508T104335Z
+DTSTAMP:20261009T111933Z
 CREATED:20260508T104335Z
-LAST-MODIFIED:20260508T104335Z
+LAST-MODIFIED:20261009T111933Z
 UID:10002619-1791655200-1791676500@westiecommunity.de
 SUMMARY:Beginner-Workshop mit anschließender Party
 DESCRIPTION:West Coast Swing – Dein neuer Lieblingstanz! \nIn unserem Beginner-Workshop zeigen wir dir die ersten Basics\, um bereits nach kurzer Zeit über das Tanzparkett der direkt anschließenden WCS-Party gleiten zu können. Es sind keinerlei Vorkenntnisse nötig. Bei den Figuren erklären wir dir alles Schritt für Schritt\, mit viel Spaß\, bei toller abwechslungsreicher Musik und langen praktischen Übungsphasen\, um das Gelernte zu vertiefen. \nKomm vorbei\, gerne auch ohne Tanzpartner:in und lerne vor Ort neue Leute kennen. \nJetzt ist der perfekte Moment\, etwas Neues auszuprobieren! 🧡 \n🚀 VORAUSSETZUNG 🚀 \nDieser Workshop richtet sich an absolute Einsteiger:innen\, mit keinerlei Vorerfahrungen. Wir freuen uns jedoch genauso über Teilnehmer:innen\, die ihre West Coast Swing Kenntnisse auffrischen wollen. Die Teilnahme ist mit und ohne feste:n Tanzpartner:in möglich. Mitbringen musst du lediglich möglichst flache Schuhe mit glatter Sohle. Hintergrund: Schuhe mit hohem Absatz (über 2-3 cm) sind für West Coast Swing eher hinderlich. \n🚀 ZEITPLAN 🚀 \n18:00 bis 18:30 Uhr\nEinlass / Check-In \n18:30 bis 20:00 Uhr\nBeginner-Workshop\n(inkl. kurzer Pause) \nab 20:00 Uhr\nWCS-Party
@@ -58,12 +32,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261010T180000
 DTEND;TZID=Europe/Berlin:20261010T235500
-DTSTAMP:20260618T075741Z
+DTSTAMP:20261009T111929Z
 CREATED:20260618T075741Z
-LAST-MODIFIED:20260618T075741Z
+LAST-MODIFIED:20261009T111929Z
 UID:10003109-1791655200-1791676500@westiecommunity.de
-SUMMARY:"PottSwing" - Workshop + Practice-Night
-DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\nab 18:30 Uhr: Workshop\nab 20:00 Uhr: Practice-Night \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop + Practice-Night:\nab 19 €/Person \nPractice-Night:\nab 5 €/Person
+SUMMARY:"PottSwing" - Workshop + WCS-Party
+DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\n18:00 bis 18:30 Uhr\nEinlass / Check-In \n18:30 bis 20:00 Uhr\nWorkshop für erfahrene Westies\nThema "Stretch into Motion"\n(inkl. kurzer Pause) \nab 20:00 Uhr\nWCS-Party \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop\, inkl. Party:\nab 19 €/Person \nNur Party:\nab 5 €/Person
 URL:https://westiecommunity.de/event/pottswing-workshop-practice-night-18/
 LOCATION:Tanzschule TanzREvier Pompös\, Sieben Quellen 41\, Recklinghausen\, NRW\, 45665\, Germany
 END:VEVENT
@@ -534,6 +508,58 @@ SUMMARY:WCS Level 2 | Wuppertal
 DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
 URL:https://westiecommunity.de/event/wcs-level-2-wuppertal/2026-11-08/
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T174500
+DTEND;TZID=Europe/Berlin:20261108T184500
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10004487-1794159900-1794163500@westiecommunity.de
+SUMMARY:WCS Level 3 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-3-wuppertal-2/2026-11-08/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261110T190000
+DTEND;TZID=Europe/Berlin:20261110T200000
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10004225-1794337200-1794340800@westiecommunity.de
+SUMMARY:WCS Level 2 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-2-wuppertal-2/2026-11-10/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261110T200000
+DTEND;TZID=Europe/Berlin:20261110T210000
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10003963-1794340800-1794344400@westiecommunity.de
+SUMMARY:WCS Level 3 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-3-wuppertal/2026-11-10/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261111T211500
+DTEND;TZID=Europe/Berlin:20261111T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002663-1794431700-1794436200@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-11/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
