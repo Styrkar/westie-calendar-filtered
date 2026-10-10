@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261009T204500
-DTEND;TZID=Europe/Berlin:20261009T230000
-DTSTAMP:20261006T180226Z
-CREATED:20261006T180226Z
-LAST-MODIFIED:20261006T180226Z
-UID:10005531-1791578700-1791586800@westiecommunity.de
-SUMMARY:WCS Social - Übungsparty am Freitag
-DESCRIPTION:Euer Abend zum Üben\, Connecten\, und natürlich Tanzen. Wir freuen uns auf euch!\nEine große Getränkeauswahl gibt es in unserem Dance Inn. \nEintritt: Abendkasse
-URL:https://westiecommunity.de/event/wcs-social-uebungsparty-am-freitag/
-LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261009T210000
-DTEND;TZID=Europe/Berlin:20261009T230000
-DTSTAMP:20260922T062223Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20260922T062223Z
-UID:10003679-1791579600-1791586800@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-09/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261010T153000
 DTEND;TZID=Europe/Berlin:20261010T220000
 DTSTAMP:20260917T161204Z
@@ -287,6 +261,19 @@ SUMMARY:WCS Festival 2027 - WSDC Registry Event - Samstag
 DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
 URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-samstag/
 LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261017T163000
+DTEND;TZID=Europe/Berlin:20261017T193000
+DTSTAMP:20261009T174515Z
+CREATED:20261009T174515Z
+LAST-MODIFIED:20261009T174515Z
+UID:10006056-1792254600-1792265400@westiecommunity.de
+SUMMARY:Crashkurs
+DESCRIPTION:Am 17.10. findet bei bonn tanzt am Belderberg 24 wieder der WCS Crashkurs statt! 💪\nIn den drei Stunden von 16:30 Uhr bis 19:30 Uhr wird man an die Basics Sugar Push\, Left Side Pass\, Underarm Pass und Whip ohne Vorkenntnisse gemütlich herangeführt.\nDas ganze kostet 42\,-€ p.P. und du darfst dich auch gerne alleine anmelden.
+URL:https://westiecommunity.de/event/crashkurs-2/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -716,6 +703,19 @@ SUMMARY:WCS Themenworkshop Stufe 3
 DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
 URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-11-08/
 LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261108T140000
+DTEND;TZID=Europe/Berlin:20261108T170000
+DTSTAMP:20261009T174430Z
+CREATED:20261009T174430Z
+LAST-MODIFIED:20261009T174430Z
+UID:10006055-1794146400-1794157200@westiecommunity.de
+SUMMARY:WCS Beginner Workshop "Swiftie Edition"
+DESCRIPTION:West Coast Swing ist ein moderner Paartanz aus den USA und gehört zur Familie der Swing-Tänze. In seiner heutigen Form unterscheidet er sich jedoch deutlich von klassischen Swing-Stilen wie dem Lindy Hop. Sein besonderer Reiz liegt in seiner Vielseitigkeit – getanzt wird zu den unterschiedlichsten Musikrichtungen. In diesem Workshop tanzen wir zu Hits von Taylor Swift! \nIm Mittelpunkt steht das harmonische Zusammenspiel zwischen Führen und Folgen. Diese feine Abstimmung innerhalb des Tanzpaares ermöglicht es\, Bewegungsabläufe im Moment entstehen zu lassen und individuelle Akzente zu setzen. \nHier erlernt ihr die Grundfiguren des Tanzes (Sugar Push\, Left-Side-Pass\, Right-Right-Pass). Lasst euch von dem Tanz aus den USA verzaubern und erweitert euer Wissen und Figurenkatalog um diesen Tanz. Dieses Bootcamp richtet sich an alle die es einfach mal probieren wollen und nicht die Zeit haben für ein mehrwöchigen Kurs. \nMelde dich gerne alleine an. Da wir ständig Partner wechseln\, ist eine Anmeldung mit Partner*in nicht nötig. Gebe dafür bei der Buchung an\, ob du als Leader oder Follower teilnehmen möchtest. Gib gerne an\, falls es dir egal ist. \nTermine: 08.11.2026 – Von 14:00 – 17:00 Uhr Ort: Saal 3 – BTSC\, Böcklerstr. 219a Eingang A \nEvent findet nur statt\, wenn Mindestteilnehmeranzahl erreicht wird. \nHinweis: Bitte bequeme Kleidung tragen und flache Schuhe\, mit eher glatter\, sauberer Sohle. Straßenschuhe hinterlassen auf dem Parkett Schäden\, können somit nicht zum Einsatz kommen.
+URL:https://westiecommunity.de/event/wcs-beginner-workshop-swiftie-edition/
+LOCATION:Braunschweiger Tanz-Sport-Club e.V.\, Böcklerstr. 219 A\, Braunschweig\, Niedersachsen\, 38102\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
