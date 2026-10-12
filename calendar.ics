@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261011T120000
-DTEND;TZID=Europe/Berlin:20261011T160000
-DTSTAMP:20260127T203228Z
-CREATED:20260127T203228Z
-LAST-MODIFIED:20260127T203228Z
-UID:10002163-1791720000-1791734400@westiecommunity.de
-SUMMARY:Cologne Westie Brunch
-DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
-URL:https://westiecommunity.de/event/cologne-westie-brunch-7/
-LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261011T123000
-DTEND;TZID=Europe/Berlin:20261011T140000
-DTSTAMP:20260914T175422Z
-CREATED:20260914T175422Z
-LAST-MODIFIED:20260914T175422Z
-UID:10003568-1791721800-1791727200@westiecommunity.de
-SUMMARY:WCS Themenworkshop Stufe 3
-DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
-URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-10-11/
-LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261012T210000
 DTEND;TZID=Europe/Berlin:20261012T233000
 DTSTAMP:20260215T193355Z
@@ -741,6 +715,45 @@ UID:10003519-1794673800-1794679200@westiecommunity.de
 SUMMARY:Follower Intensive mit Mejrem Level 2-4
 DESCRIPTION:Du liebst West Coast Swing?\nDu möchtest Dein Tanzen verbessern?\nSei dabei und reserviere Deinen Platz!\nProfitiere vom grandiosen Unterricht mit »The One & Only Mejrem«! \nFollower Intensive Level 2-4! \nMejrem vermittelt Dir in diesem Intensive neue Infos und Praktiken zum Thema: Styling!\nSie hilft Dir Deinen Tanzstil in einer sicheren Umgebung zu erforschen und gibt wertvolle Styling Tipps\, die Du im West Coast Swing anwenden kannst. Die Unterrichtsdauer von 90 Minuten bietet das nötige Zeitfenster um konzentriert und zielführend zu lernen und um das Erlernte durch Übung umzusetzen. Du profitierst vom Know-How um viele Facetten intensiv zu erarbeiten! Einen Tanzpartner benötigst Du für dieses Intensive nicht! \nDie Teilnahme ist von Level 2-4 (Dresen) oder vergleichbar möglich!\nDu tanzt nicht bei Dresen und hast Fragen zur Einordnung Deines Leistungslevels? Wir helfen gern weiter: Bitte eine Email senden an andrea@tanzschule-dresen.de
 URL:https://westiecommunity.de/event/follower-intensive-mit-mejrem-level-2-4-3/2026-11-14/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T183000
+DTEND;TZID=Europe/Berlin:20261114T200000
+DTSTAMP:20260804T101248Z
+CREATED:20260529T131840Z
+LAST-MODIFIED:20260804T101248Z
+UID:10003518-1794681000-1794686400@westiecommunity.de
+SUMMARY:Follower Intensive mit Mejrem Level 5-8
+DESCRIPTION:Du liebst West Coast swing?\nDu möchtest Dein Tanzen verbessern?\nSei dabei und reserviere Deinen Platz!\nProfitiere vom grandiosen Unterricht mit »The One & Only Mejrem«! \nFollower Intensive Level 5-8! \nNext Level: Hattest Du schon das Gefühl\, dass Du Deinem Tanzen mehr hinzufügen willst? Du bist jedoch unsicher wie Du Dein Styling hinzufügen sollst ohne die Connection mit Deinem Leader negativ zu beeinflussen?\nMejrem zeigt Dir wie Du Dein Styling in Kombination mit Ideen für Deine nächsten Moves einsetzen kannst.\nEinen Tanzpartner benötigst Du für dieses Intensive nicht! \nIn diesem 90 minütigen Intensive tauchen wir in die vielen Nuancen ein\, die eine großartige Verbindung ausmachen. Wir konzentrieren uns vor allem auf: DICH! \nSei bereit und trau Dich! \nDie Teilnahme ist von Level 5-8 (Dresen) oder vergleichbar möglich!\nDu tanzt nicht bei Dresen und hast Fragen zur Einordnung Deines Leistungslevels? Wir helfen gern weiter: Bitte eine Email senden an andrea@tanzschule-dresen.de
+URL:https://westiecommunity.de/event/follower-intensive-mit-mejrem-level-5-8-3/2026-11-14/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T184500
+DTEND;TZID=Europe/Berlin:20261115T020000
+DTSTAMP:20260627T084213Z
+CREATED:20260627T084213Z
+LAST-MODIFIED:20260627T084213Z
+UID:10003123-1794681900-1794708000@westiecommunity.de
+SUMMARY:Saturday Swing @ tanzraum
+DESCRIPTION:Saturday Swing \n📝 ZEITPLAN 📝\n18:45 Einlass\n19:00-20:00 Workshop\n20:15-21:15 Workshop\n21:30-open End Social \n🎟️ ABENDKASSE🎟️\n2 Stunden Workshop + Social: 35€\n1 Stunde Workshop + Social: 25€\nSocial: 10€ \nRabatt: Tanzraum Mitglieder und USC-Check-In erhalten Wasserflatrate 🙂 \nLevel: Sugar Push\, Sugar Tuck\, Under Arm Turn\, Left Side Pass\, Whip und Inside Turn sollten bekannt sein
+URL:https://westiecommunity.de/event/saturday-swing-tanzraum-4/
+LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261115T140000
+DTEND;TZID=Europe/Berlin:20261115T153000
+DTSTAMP:20260803T123018Z
+CREATED:20260803T123018Z
+LAST-MODIFIED:20260803T123018Z
+UID:10003441-1794751200-1794756600@westiecommunity.de
+SUMMARY:Sunday Swing (Level 5/6) "Ducks & Rides" mit Bianca & Carsten
+DESCRIPTION:Vorraussetzungen: Level 5+6 (Dresen) oder oder ca. 3 Jahre regelmäßiger Unterricht.\nDauer: 90 Min.\, Workshopgebühr: € 29/Person\nWCS Clubmitglieder erhalten 50% Rabatt\nWir freuen uns auf Eure Reservierung!
+URL:https://westiecommunity.de/event/sunday-swing-level-5-6-ducks-rides-mit-bianca-carsten/
 LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
 END:VEVENT
 
