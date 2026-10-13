@@ -548,5 +548,31 @@ DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Lev
 URL:https://westiecommunity.de/event/wcs-level-2-wuppertal/2026-11-15/
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261115T174500
+DTEND;TZID=Europe/Berlin:20261115T184500
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10004488-1794764700-1794768300@westiecommunity.de
+SUMMARY:WCS Level 3 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-3-wuppertal-2/2026-11-15/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261117T190000
+DTEND;TZID=Europe/Berlin:20261117T200000
+DTSTAMP:20261006T180136Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261006T180136Z
+UID:10004226-1794942000-1794945600@westiecommunity.de
+SUMMARY:WCS Level 2 | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-2-wuppertal-2/2026-11-17/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
+END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
