@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261014T211500
-DTEND;TZID=Europe/Berlin:20261014T223000
-DTSTAMP:20260926T215015Z
-CREATED:20251214T172157Z
-LAST-MODIFIED:20260926T215015Z
-UID:10002659-1792012500-1792017000@westiecommunity.de
-SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
-DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
-URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-14/
-LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261015T183000
 DTEND;TZID=Europe/Berlin:20261015T193000
 DTSTAMP:20261006T180136Z
@@ -562,4 +549,17 @@ URL:https://westiecommunity.de/event/wcs-level-3-wuppertal/2026-11-17/
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261118T211500
+DTEND;TZID=Europe/Berlin:20261118T223000
+DTSTAMP:20260926T215015Z
+CREATED:20251214T172157Z
+LAST-MODIFIED:20260926T215015Z
+UID:10002664-1795036500-1795041000@westiecommunity.de
+SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
+DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
+URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-18/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
