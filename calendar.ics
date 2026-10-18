@@ -17,32 +17,6 @@ LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261017T120000
-DTEND;TZID=Europe/Berlin:20261018T040000
-DTSTAMP:20260917T082841Z
-CREATED:20260917T082841Z
-LAST-MODIFIED:20260917T082841Z
-UID:10003606-1792238400-1792296000@westiecommunity.de
-SUMMARY:WCS Festival 2027 - WSDC Registry Event - Samstag
-DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
-URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-samstag/
-LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261017T163000
-DTEND;TZID=Europe/Berlin:20261017T193000
-DTSTAMP:20261009T174515Z
-CREATED:20261009T174515Z
-LAST-MODIFIED:20261009T174515Z
-UID:10006056-1792254600-1792265400@westiecommunity.de
-SUMMARY:Crashkurs
-DESCRIPTION:Am 17.10. findet bei bonn tanzt am Belderberg 24 wieder der WCS Crashkurs statt! 💪\nIn den drei Stunden von 16:30 Uhr bis 19:30 Uhr wird man an die Basics Sugar Push\, Left Side Pass\, Underarm Pass und Whip ohne Vorkenntnisse gemütlich herangeführt.\nDas ganze kostet 42\,-€ p.P. und du darfst dich auch gerne alleine anmelden.
-URL:https://westiecommunity.de/event/crashkurs-2/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261018T110000
 DTEND;TZID=Europe/Berlin:20261018T130000
 DTSTAMP:20261006T180301Z
@@ -729,6 +703,32 @@ SUMMARY:WCS Special mit Hanna & Jérôme | Rides Variations 🎠
 DESCRIPTION:TEIL 2:\nFür alle\, die bereits bei unserem Rides Fundamentals Workshop teilgenommen haben oder schon in den meisten Fällen sicher riden 🎠 Wir satteln auf und schauen uns kompliziertere Ein- und Ausgänge\, spannende Variationen und individuelle Stylings an! Schnallt euch an! 🎢 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Gerade bei Rides ist genügend Platz zum Üben extrem hilfreich. Daher ist dieses Special auf 5 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 11:00 – 13:00 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
 URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-10/
 LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T153000
+DTSTAMP:20261007T070624Z
+CREATED:20260618T081110Z
+LAST-MODIFIED:20261007T070624Z
+UID:10003087-1795267800-1795275000@westiecommunity.de
+SUMMARY:WCS Special mit Hanna & Jérôme | 🦆 Ducks Fundamentals
+DESCRIPTION:Du wolltest schon immer einmal wissen wie Ducks geführt und getanzt werden? Dann ist dieser Workshop genau das Richtige für dich! In diesem 2-stündigen Intensiv-Workshop lernst du die wichtigen Grundlagen-Konzepte sowie verschiedene Ein- und Ausgänge für Leader und Follower. 🎵 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 8 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 13:30 – 15:30 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
+URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-9/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T163000
+DTEND;TZID=Europe/Berlin:20261121T193000
+DTSTAMP:20261009T174536Z
+CREATED:20261009T174536Z
+LAST-MODIFIED:20261009T174536Z
+UID:10006057-1795278600-1795289400@westiecommunity.de
+SUMMARY:Crashkurs
+DESCRIPTION:Am 21.11. findet bei bonn tanzt am Belderberg 24 wieder der WCS Crashkurs statt! 💪\nIn den drei Stunden von 16:30 Uhr bis 19:30 Uhr wirst du an die Basics Sugar Push\, Left Side Pass\, Underarm Pass und Whip ohne Vorkenntnisse gemütlich herangeführt.\nDas ganze kostet 42\,-€ p.P. und du darfst dich auch gerne alleine anmelden.
+URL:https://westiecommunity.de/event/crashkurs-3/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
