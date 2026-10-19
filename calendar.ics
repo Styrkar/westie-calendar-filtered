@@ -4,45 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261015T220000
-DTEND;TZID=Europe/Berlin:20261018T235900
-DTSTAMP:20260811T094803Z
-CREATED:20260811T094803Z
-LAST-MODIFIED:20260811T094803Z
-UID:10003528-1792101600-1792367940@westiecommunity.de
-SUMMARY:WCS Festival 2027 - WSDC Registry Event
-DESCRIPTION:WCS Festival 2027 - WSDC Registry Event\n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
-URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event/
-LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261018T110000
-DTEND;TZID=Europe/Berlin:20261018T130000
-DTSTAMP:20261006T180301Z
-CREATED:20261006T180301Z
-LAST-MODIFIED:20261006T180301Z
-UID:10006053-1792321200-1792328400@westiecommunity.de
-SUMMARY:Sunday Morning Swing (Practice)
-DESCRIPTION:Ob das Frischgelernte bei Workshops ohne Druck auszuprobieren\, mit den neuen Tanzideen zu experimentieren\,\ndie Basics zu wiederholen oder ein paar Stunden am Sonntag morgens zu tanzen\, kommt einfach vorbei! \nEintritt für Gäste: 5€
-URL:https://westiecommunity.de/event/sunday-morning-swing-practice-2/
-LOCATION:ADTV Tanzschule Paulerberg\, Danzigerstr. 11-13\, Duisburg\, NRW\, 47057\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261018T120000
-DTEND;TZID=Europe/Berlin:20261019T020000
-DTSTAMP:20260917T082620Z
-CREATED:20260917T082620Z
-LAST-MODIFIED:20260917T082620Z
-UID:10003607-1792324800-1792375200@westiecommunity.de
-SUMMARY:wcs Festival 2027 - WSDC Registry Event - Sonntag
-DESCRIPTION:WCS Festival 2027 - WSDC Registry Event \n15.10. - 18.10.2026\nDüsseldorf\nBoston-Club \nMeet your Pro's \nJohn Lindo\nPaul Warden\nColeen Man\nLudovic Pelegrin\nMarina Montronenko & Mejrem\nFlorian Simon & Stella Schletterer\nGiulia Rusch \nJustin Petersen\nand more to come!
-URL:https://westiecommunity.de/event/wcs-festival-2027-wsdc-registry-event-sonntag/
-LOCATION:Boston Club Düsseldorf\, Vennhauser Allee 135\, Düsseldorf\, NRW\, 40629\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261020T183000
 DTEND;TZID=Europe/Berlin:20261020T194500
 DTSTAMP:20260916T134431Z
@@ -730,5 +691,57 @@ DESCRIPTION:Am 21.11. findet bei bonn tanzt am Belderberg 24 wieder der WCS Cras
 URL:https://westiecommunity.de/event/crashkurs-3/
 LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
 END:VEVENT
-END:VCALENDAR
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T183000
+DTEND;TZID=Europe/Berlin:20261121T210000
+DTSTAMP:20260715T091826Z
+CREATED:20260715T091826Z
+LAST-MODIFIED:20260715T091826Z
+UID:10003140-1795285800-1795294800@westiecommunity.de
+SUMMARY:Bootcamp für EinsteigerInnen
+DESCRIPTION:In unserem Bootcamp werden euch die Grundlagen zum Führen und Folgen\, sowie die ersten Basis-Figuren LeftSidePass\, UnderArmTurn und SugarPush vermittelt.
+URL:https://westiecommunity.de/event/bootcamp-fuer-einsteigerinnen/
+LOCATION:ADTV & CreaDance Tanzzentrum Weißhausstraße\, Weißhausstr. 21\, Köln\, NRW\, 50939\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T183000
+DTEND;TZID=Europe/Berlin:20261121T233000
+DTSTAMP:20261007T163311Z
+CREATED:20260102T201808Z
+LAST-MODIFIED:20261007T163311Z
+UID:10001764-1795285800-1795303800@westiecommunity.de
+SUMMARY:All Level Workshops mit Michael Heming
+DESCRIPTION:West Coast Swing Workshops mit Michael Heming ✨ \nWir freuen uns\, Michael bei uns für zwei Workshops im Tanzzentrum begrüßen zu dürfen. Mit Elan und Leidenschaft gestaltet Michael seine Workshops\, wie kein anderer.\n+ anschließende Social Night \n🕔 Zeitplan: \n18:30 - 19:45 Uhr All Level Workshop -> "Preleading für Follower & Leader"\n19:45 - 21:00 Uhr All Level Workshop -> "Rock&Go-Variationen"\n21:00 - 24:00 Uhr Social \nFür die All Level Workshops werden alle Basics vorrausgesetzt (Left Side Pas\, Underarm Turn\, Sugar Tuck\, Basic Whip) \n*Für die Workshops wird eine Anmeldung benötigt \nHonorare: \nBeide Workshops -> 42\,00€ p.P\nWorkshop einzeln -> 25\,00€ p.P.\nSocial (Abendkasse) -> 6\,00€ p.P. \nWo: \nTanzzentrum Weißhausstraße\nWeißhausstraße 21\, 50939 Köln \nWichtig: \nWir bitten\, auf selbst mitgebrachte Getränke zu verzichten. Getränke erhaltet Ihr an unserer Bar.
+URL:https://westiecommunity.de/event/all-level-workshops-mit-michael-heming/
+LOCATION:ADTV & CreaDance Tanzzentrum Weißhausstraße\, Weißhausstr. 21\, Köln\, NRW\, 50939\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T183000
+DTEND;TZID=Europe/Berlin:20261121T233000
+DTSTAMP:20260815T200817Z
+CREATED:20260427T085804Z
+LAST-MODIFIED:20260815T200817Z
+UID:10002277-1795285800-1795303800@westiecommunity.de
+SUMMARY:West Coast Swing mit Patricia & Markus
+DESCRIPTION:𝐖𝐞𝐬𝐭 𝐂𝐨𝐚𝐬𝐭 𝐒𝐰𝐢𝐧𝐠 mit Patricia & Markus \n18:30 Anfänger Workshop (first steps)\n19:30 Fortgeschrittene Workshop\n20:45 All-Level Workshop \nParty:\n21:45 - Open End Party \n❗️𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐈𝐧𝐟𝐨 𝐅𝐨𝐫𝐭𝐠𝐞𝐬𝐜𝐡𝐫𝐢𝐭𝐭𝐞𝐧𝐞𝐧 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩❗️\nWenn du noch nicht so lange tanzt\, bring bitte einen festen Trainingspartner mit\, ohne zu tauschen – so bleibt die Gruppe homogen.\nDu fühlst dich wohler mit einem festen Partner? Kein Problem! Mach das so – so holst du das Beste für dich raus!\nWir freuen uns auf eine tolle Zeit mit euch. \nTEILNAHMEINFOS\n✔️ Auch ohne festen Tanzpartner möglich\n✔️ Keine Anmeldung notwendig\n✔️ Einfach kommen \nPREISE\n▶︎ Anfänger + Party 18€\n▶︎ Fullpass 25€\n▶︎ Tanzparty 10€\n▶︎ Spezialflatmitglieder Fullpass: 15€ \nPARKEN\n🚗🚕🚌 Stadthaus Parkhaus\, Weiherstraße\, 53111 Bonn\n▶︎ ab 19 Uhr nur 1€ die Stunde\, maximal 3€ Euro für die ganze Nacht.\n▶︎ 5-7 Gehminuten entfernt! 🚗🚕🚌
+URL:https://westiecommunity.de/event/west-coast-swing-mit-patricia-markus/2026-11-21/
+LOCATION:Tanzschule Max7\, Maxstraße 7\, Bonn\, NRW\, 53111\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261121T210000
+DTEND;TZID=Europe/Berlin:20261121T235500
+DTSTAMP:20260715T091639Z
+CREATED:20260715T091639Z
+LAST-MODIFIED:20260715T091639Z
+UID:10003141-1795294800-1795305300@westiecommunity.de
+SUMMARY:Social @Weißhausstraße
+DESCRIPTION:Übungsabend im Tanzzentrum an der Weißhausstraße von 21:00 Uhr bis 24:00 Uhr. \nEintrittspreis: 6€/Person*/** \n*Workshop-Teilnehmer*innen des heutigen Tages erhalten Freien Eintritt (Eintrittspreis bereits im Workshop-Honorar mit inbegriffen)\n**TZ-Mitglieder erhalten rabattierten Eintritt
+URL:https://westiecommunity.de/event/social-weisshausstrasse/
+LOCATION:ADTV & CreaDance Tanzzentrum Weißhausstraße\, Weißhausstr. 21\, Köln\, NRW\, 50939\, Germany
+END:VEVENT
+
 END:VCALENDAR
