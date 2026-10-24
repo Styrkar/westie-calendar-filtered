@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261023T210000
-DTEND;TZID=Europe/Berlin:20261023T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003681-1792789200-1792796400@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-23/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261024T101500
 DTEND;TZID=Europe/Berlin:20261025T194500
 DTSTAMP:20261019T133704Z
@@ -716,6 +703,19 @@ SUMMARY:Weekly Social Night
 DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
 URL:https://westiecommunity.de/event/weekly-social-night/2026-11-26/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261126T210000
+DTEND;TZID=Europe/Berlin:20261126T230000
+DTSTAMP:20261020T114431Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20261020T114431Z
+UID:10006068-1795726800-1795734000@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:25.  Februar @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-18/2026-11-26/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
