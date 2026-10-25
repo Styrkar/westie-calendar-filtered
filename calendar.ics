@@ -17,19 +17,6 @@ LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261024T190000
-DTEND;TZID=Europe/Berlin:20261025T020000
-DTSTAMP:20261016T145317Z
-CREATED:20260127T205545Z
-LAST-MODIFIED:20261016T145317Z
-UID:10002170-1792868400-1792893600@westiecommunity.de
-SUMMARY:Westie Night - Workshop "Leader & Follower Styling" + Social
-DESCRIPTION:Wohin mit dem freien Arm?! Und was kann ich machen\, damit nicht mehr jede Figur gleich aussieht? \nIn diesem Workshop geben Micha und Nina euch Ideen\, welche Stylings Leader und Follower unabhängig voneinander einbringen können\, und wie das zusammen auf einmal viel mehr nach Tanzen aussieht. \nDie Beiden sind aus der NRW-Community nicht mehr wegzudenken und unterrichten regelmäßig Workshops\, lokal und überregional. Wir freuen uns sehr\, dass sie jetzt auch mal wieder für uns unterrichten 😊 \nDu solltest Left Side Pass\, Under Arm Turn\, Sugar Push\, Sugar Tuck\, Whip und Inside Turn sicher beherrschen. \nWir freuen uns auf dich! 🎉
-URL:https://westiecommunity.de/event/cologne-westie-night-workshop-social-7/
-LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261025T150000
 DTEND;TZID=Europe/Berlin:20261025T170000
 DTSTAMP:20261021T073538Z
@@ -716,6 +703,19 @@ SUMMARY:West Coast Swing Social Dance
 DESCRIPTION:25.  Februar @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
 URL:https://westiecommunity.de/event/west-coast-swing-social-dance-18/2026-11-26/
 LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261127T160000
+DTEND;TZID=Europe/Berlin:20261127T173000
+DTSTAMP:20260916T160015Z
+CREATED:20260916T160015Z
+LAST-MODIFIED:20260916T160015Z
+UID:10003600-1795795200-1795800600@westiecommunity.de
+SUMMARY:Delayed 1\, Hitches\, Blues Basics
+DESCRIPTION:Hier lernt man ein paar entscheidende Elemente aus dem Blues.\nIm Anschluss von 17:30-19:00Uhr findet dann noch die Blues Practice statt (bei der das Erlernte angewendet werden kann).
+URL:https://westiecommunity.de/event/delayed-1-hitches-blues-basics-4/
+LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
