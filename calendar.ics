@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261024T101500
-DTEND;TZID=Europe/Berlin:20261025T194500
-DTSTAMP:20261019T133704Z
-CREATED:20260128T073059Z
-LAST-MODIFIED:20261019T133704Z
-UID:10002177-1792836900-1792957500@westiecommunity.de
-SUMMARY:Cologne Westie Camp - Kreativität\, Kommunikation & Connection
-DESCRIPTION:Training\, Training und nochmal Training. Das Westie Camp ist genau das. Kein Workshop\, kein Event\, sondern ein echtes Trainingscamp. \nHast du dich schon mal gefragt\, warum manche Tänzer:innen aussehen als würden sie Telepathie benutzen? Als wäre alles Choreografie\, obwohl die sich gerade zum ersten Mal begegnen? \nAls Follower lernst du\, wie du dich einbringst und den Tanz aktiv mitgestaltest\, ohne direkt zu “leaden”. Als Leader\, wie du deinen Follower dazu einlädst und dann auch damit klarkommst\, wenn er oder sie es tut.  \nWir schauen uns an\, wie Shaping funktioniert\, wie man Distanz bewusst einsetzt und wie dadurch jeder Tanz mit jeder Person ein bisschen anders wird. Ganz ohne neue Figuren oder Stylings. \nWir arbeiten viel Solo\, mit vielen Drills\, mit und ohne Partner:in. \nSa 10:15 – 14:30 – Westie Camp\nSa 19:00-20:30 Open Level Workshop (optional)\nSo 15:30-19:45 – Westie Camp \n📍 Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 Preis: ab 109 €\n⚠️ Begrenzte Plätze \nWir freuen uns auf euch! 🎉
-URL:https://westiecommunity.de/event/cologne-westie-intensive-3/
-LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261025T150000
-DTEND;TZID=Europe/Berlin:20261025T170000
-DTSTAMP:20261021T073538Z
-CREATED:20261021T073538Z
-LAST-MODIFIED:20261021T073538Z
-UID:10006840-1792940400-1792947600@westiecommunity.de
-SUMMARY:WCS Styling workshop for followers 💃
-DESCRIPTION:We'll explore different ways to add styling and body movement to basic WCS patterns\, experiment with arm and leg movements\, and bring more expression and individuality to your dancing ✨️ \n📅 Sunday\, 25 October\n🕒 15:00–17:00\n📍 Düsseldorf\, Jahnstraße 105 · Anima Dance Community\n💶 20 € \nDM if you’d like to join!\nhttps://www.instagram.com/iris_sarn \nOr sign up here -> https://forms.gle/EEBWiV6ZbRU2fJmQ8
-URL:https://westiecommunity.de/event/wcs-styling-workshop-for-followers-%f0%9f%92%83/
-LOCATION:Anima Dance Community\, Jahnstraße 105\, Düsseldorf\, NRW\, 40215\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261027T183000
 DTEND;TZID=Europe/Berlin:20261027T194500
 DTSTAMP:20260618T080527Z
@@ -717,5 +691,18 @@ DESCRIPTION:Hier lernt man ein paar entscheidende Elemente aus dem Blues.\nIm An
 URL:https://westiecommunity.de/event/delayed-1-hitches-blues-basics-4/
 LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
 END:VEVENT
-END:VCALENDAR
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261127T173000
+DTEND;TZID=Europe/Berlin:20261127T190000
+DTSTAMP:20260916T155701Z
+CREATED:20260916T155701Z
+LAST-MODIFIED:20260916T155701Z
+UID:10003599-1795800600-1795806000@westiecommunity.de
+SUMMARY:WCS Blues Practice
+DESCRIPTION:Hier wird Blues Musik gespielt\, so dass man fleißig üben kann\, zu Blues Musik zu tanzen. (Von 16-17:30Uhr gibt es den Workshop "Delayed 1\, Hitches\, Blues Basics"\, in dem ein paar entscheidende Elemente aus dem Blues lernen kann.)
+URL:https://westiecommunity.de/event/wcs-blues-practice/
+LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
+END:VEVENT
+
 END:VCALENDAR
