@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261027T191500
-DTEND;TZID=Europe/Berlin:20261027T201500
-DTSTAMP:20261021T073502Z
-CREATED:20261021T073502Z
-LAST-MODIFIED:20261021T073502Z
-UID:10006062-1793128500-1793132100@westiecommunity.de
-SUMMARY:Workshop »Karussellvariationen« mit Laura & Lukas @ Tanzschule Schäfer-Koch
-DESCRIPTION:🍂 HERBSTFERIEN-WORKSHOPS BEI WCS WUPPERTAL 🍂 \nWir haben für die Herbstferien ein paar spannende Workshops für euch vorbereitet! 💃🕺 Ob präzise Footwork-Technik\, fließende Swivels oder neue Variationen – hier könnt ihr an euren Skills arbeiten und neue Ideen für euer Tanzen mitnehmen. 🔥 \n🍁 Unsere Workshop-Termine im Überblick: \n📅 Dienstag\, 20.10.2026\n👣 Footwork Technik\n🕗 20:00–21:00 Uhr (60 Min.)\n💰 10 € pro Person \n📅 Donnerstag\, 22.10.2026\n✨ Footwork Swivels\n🕗 18:30–20:00 Uhr (90 Min.)\n💰 12\,50 € pro Person \n📅 Dienstag\, 27.10.2026\n🔄 Karussellvariationen\n🕗 19:15–20:15 Uhr (60 Min.)\n💰 10 € pro Person \n📅 Donnerstag\, 29.10.2026\n🦆 Duckvariation\n🕗 20:00–21:30 Uhr (90 Min.)\n💰 12\,50 € pro Person \n📍 Wo?\nADTV Tanzschule Schäfer-Koch\nLaurentiusstr. 27\, 42103 Wuppertal \n📩 Anmeldung:\nSchreibt uns einfach eine Mail an\ninfo@tanzschule-schaefer-koch.de
-URL:https://westiecommunity.de/event/workshop-karussellvariationen-mit-laura-lukas-tanzschule-schaefer-koch/
-LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261028T211500
 DTEND;TZID=Europe/Berlin:20261028T223000
 DTSTAMP:20260926T215015Z
@@ -600,5 +587,5 @@ DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Lev
 URL:https://westiecommunity.de/event/wcs-level-1-einsteiger-wuppertal-2/2026-11-27/
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
-END:VCALENDAR
+
 END:VCALENDAR

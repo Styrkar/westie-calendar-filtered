@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261027T183000
-DTEND;TZID=Europe/Berlin:20261027T194500
-DTSTAMP:20260618T080527Z
-CREATED:20260618T080527Z
-LAST-MODIFIED:20260618T080527Z
-UID:10003084-1793125800-1793130300@westiecommunity.de
-SUMMARY:WCS Intensive mit Hanna & Jérôme | Telemagic
-DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 27.10.26 | 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
-URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-telemagic/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261027T200000
-DTEND;TZID=Europe/Berlin:20261027T211500
-DTSTAMP:20260618T080558Z
-CREATED:20260618T080558Z
-LAST-MODIFIED:20260618T080558Z
-UID:10003085-1793131200-1793135700@westiecommunity.de
-SUMMARY:WCS Intensive mit Hanna & Jérôme | Baseball Throw
-DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Dienstag\, 27.10.26 | 20:00 – 21:15 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
-URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-baseball-throw/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261029T194500
 DTEND;TZID=Europe/Berlin:20261029T204500
 DTSTAMP:20261026T122127Z
@@ -705,4 +679,43 @@ URL:https://westiecommunity.de/event/wcs-blues-practice/
 LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261127T210000
+DTEND;TZID=Europe/Berlin:20261127T230000
+DTSTAMP:20261016T102544Z
+CREATED:20260922T062223Z
+LAST-MODIFIED:20261016T102544Z
+UID:10003686-1795813200-1795820400@westiecommunity.de
+SUMMARY:Weekly Social bei bonn tanzt
+DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
+URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-27/
+LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261128T140000
+DTEND;TZID=Europe/Berlin:20261128T235900
+DTSTAMP:20260922T062330Z
+CREATED:20260922T062330Z
+LAST-MODIFIED:20260922T062330Z
+UID:10003674-1795874400-1795910340@westiecommunity.de
+SUMMARY:WCS Camp mit Mariella und Dominik
+DESCRIPTION:Dieses Camp ist kein gewöhnlicher Workshop. Wir widmen uns gezielt den Elementen\, die dir helfen\, dich als Tänzer gezielt weiterzuentwickeln und dein ganz persönliches Potenzial voll zu entfalten. \nDie Kernbausteine im WCS Camp: \nMindset – Stärke im Kopf\nSchluss mit „Ich bin nicht gut genug“! Wir arbeiten an deinem mentalen Mindset und Trainings-Fokus – für mehr Selbstvertrauen und einen entspannten Umgang mit Fehlern. \nTechnik - Kontrolle im Körper\nWir tauchen ein in Weight Transfer\, Connection und Rotation. Denn sind wir mal ehrlich: Das beste Pattern funktioniert ohne die richtige Technik nur halb so gut! \nMusicality – Kreativität im Moment\nDu lernst\, den Anfang deines Tanzes spannend und musikalisch zu gestalten\, einzelne Layer in der Musik – wie Bassline\, Vocals oder Instrumente – gezielt herauszuhören und isoliert zu vertanzen. \nFeedback – Persönlich\, präzise\, individuell\nIn zwei Gruppen nehmen wir uns individuell Zeit für deinen Tanz\, du erhältst Feedback von uns und den anderen Teilnehmern. Positives wie auch dein persönliches Verbesserungspotenzial. \nFür wen ist das WCS Camp geeignet? \nDas WCS Camp ist für dich gemacht\, wenn du nicht nur neue Patterns lernen\, sondern deine Technik\, dein Mindset und deine Musicality gezielt weiterentwickeln willst. Entfalte dein Potenzial\, schärfe dein Tanzgefühl und hol dir den Input\, die dein Tanzen nachhaltig verändern! \n💡Voraussetzungen für die Workshops:\nDu solltest mindestens folgende Basics sicher beherrschen: Sugar Push\, Left Side Pass\, Insideturn\, Underarm Turn\, Whip \n⚠️ Wichtig: Bitte bringt Euch Getränke selber mit. Es gibt keine Bar! \nZeitplan:\n🕕 WCS Camp: 14:00 – 18:30 Uhr\n🕗 Party: ab 20:00 Uhr - ca. 00:00 Uhr
+URL:https://westiecommunity.de/event/wcs-camp-mit-mariella-und-dominik/
+LOCATION:TTC\, Wohlfahrtstraße 125\, Bochum\, NRW\, 44799\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261128T160000
+DTEND;TZID=Europe/Berlin:20261128T183000
+DTSTAMP:20260130T193823Z
+CREATED:20260128T073059Z
+LAST-MODIFIED:20260130T193823Z
+UID:10002178-1795881600-1795890600@westiecommunity.de
+SUMMARY:Cologne Westie Intensive
+DESCRIPTION:Details coming soon
+URL:https://westiecommunity.de/event/cologne-westie-intensive-2/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
