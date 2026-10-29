@@ -56,6 +56,19 @@ LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germa
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261030T210000
+DTEND;TZID=Europe/Berlin:20261031T020000
+DTSTAMP:20261028T120546Z
+CREATED:20261028T120546Z
+LAST-MODIFIED:20261028T120546Z
+UID:10006841-1793394000-1793412000@westiecommunity.de
+SUMMARY:Alua’s Birthday Swing @tanzraum
+DESCRIPTION:🎶 Friday Swing im Tanzraum – 30. Oktober 2026! 🎶\n🎂✨ Alua’s Birthday Swing! ✨🎂 \nDiesmal wird es ganz besonders! ❤️🥳\nWir feiern Aluas Geburtstag mit einem Friday Swing\, vielen Tänzen und guter Laune! 💃🕺🎉 \nUnd natürlich gibt Alua selbst einen tollen Workshop\, um den Abend gemeinsam mit euch einzuläuten! 🔥 \n📝 ZEITPLAN\n🕘 21:00–22:00 Uhr Workshop mit Alua\n🎶 Ab 22:00 Uhr Social Dance \n🎟️ ABENDKASSE\nWorkshop + Social: 25 €\nSocial: 10€ \nWir freuen uns auf euch! ✨💃🕺
+URL:https://westiecommunity.de/event/aluas-birthday-swing-tanzraum/
+LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261031T171500
 DTEND;TZID=Europe/Berlin:20261031T230000
 DTSTAMP:20260916T134451Z

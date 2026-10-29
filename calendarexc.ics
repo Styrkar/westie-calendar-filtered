@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261028T211500
-DTEND;TZID=Europe/Berlin:20261028T223000
-DTSTAMP:20260926T215015Z
-CREATED:20251214T172157Z
-LAST-MODIFIED:20260926T215015Z
-UID:10002661-1793222100-1793226600@westiecommunity.de
-SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
-DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
-URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-10-28/
-LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261029T190000
 DTEND;TZID=Europe/Berlin:20261029T200000
 DTSTAMP:20261026T122101Z
