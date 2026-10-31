@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261030T210000
-DTEND;TZID=Europe/Berlin:20261030T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003682-1793394000-1793401200@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-10-30/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261030T210000
-DTEND;TZID=Europe/Berlin:20261031T020000
-DTSTAMP:20261028T120546Z
-CREATED:20261028T120546Z
-LAST-MODIFIED:20261028T120546Z
-UID:10006841-1793394000-1793412000@westiecommunity.de
-SUMMARY:Alua’s Birthday Swing @tanzraum
-DESCRIPTION:🎶 Friday Swing im Tanzraum – 30. Oktober 2026! 🎶\n🎂✨ Alua’s Birthday Swing! ✨🎂 \nDiesmal wird es ganz besonders! ❤️🥳\nWir feiern Aluas Geburtstag mit einem Friday Swing\, vielen Tänzen und guter Laune! 💃🕺🎉 \nUnd natürlich gibt Alua selbst einen tollen Workshop\, um den Abend gemeinsam mit euch einzuläuten! 🔥 \n📝 ZEITPLAN\n🕘 21:00–22:00 Uhr Workshop mit Alua\n🎶 Ab 22:00 Uhr Social Dance \n🎟️ ABENDKASSE\nWorkshop + Social: 25 €\nSocial: 10€ \nWir freuen uns auf euch! ✨💃🕺
-URL:https://westiecommunity.de/event/aluas-birthday-swing-tanzraum/
-LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261031T171500
 DTEND;TZID=Europe/Berlin:20261031T230000
 DTSTAMP:20260916T134451Z
