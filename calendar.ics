@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261031T171500
-DTEND;TZID=Europe/Berlin:20261031T230000
-DTSTAMP:20260916T134451Z
-CREATED:20260916T134451Z
-LAST-MODIFIED:20260916T134451Z
-UID:10003579-1793466900-1793487600@westiecommunity.de
-SUMMARY:WCS-Day mit Mariella Mbantopoulos | Paderborn
-DESCRIPTION:Paderborn bekommt Besuch - und zwar von Mariella aus Bochum. Sie bringt tollen Input mit und wird euch mit ihrer herzlichen Art begeistern. Egal ob absoluter Beginner oder schon Fortgeschritten\, für alle ist etwas dabei. Wir freuen uns schon total!\nHier der Ablauf für dich: \n17:15 – 18:45 Uhr: Workshop "Connection & Redirect" \nIn diesem Workshop steht das Zusammenspiel aus Connection und Richtungswechseln im Fokus. Wir nutzen gezielte Redirects und setzen Overrotation ein\, um dynamische Beschleunigung und mehr Flow in deinen West Coast Swing zu bringen. Hierzu solltest du Sugar Push\, Left Side Pass\, Underarm Turn und Whip bereits sicher tanzen können. \n19:00 Uhr – 20:30 Uhr: Beginner Workshop \nIn diesem Workshop lernst du die Basics kennen und machst deine ersten West Coast Swing Erfahrungen. Mit Left Side Pass\, Underarm Turn und Sugar Push bist du nach 90 Minuten gut gerüstet für die anschließende Übungsparty. Für den Beginner Workshop sind keine Vorkenntnisse notwendig. \nAb 20:00 Uhr: Übungs-Social\nHier kannst du das Erlernte ausprobieren und festigen. Außerdem kannst du dich mit anderen Westies connecten und neue Kontakte knüpfen. \nEine große Getränkeauswahl gibt es in unserem Dance Inn. Wir bitten um Voranmeldung zwecks Planung. \nLet's dance 🙂
-URL:https://westiecommunity.de/event/wcs-day-mit-mariella-mbantopoulos-paderborn/
-LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261031T200000
-DTEND;TZID=Europe/Berlin:20261031T233000
-DTSTAMP:20261006T180158Z
-CREATED:20261006T180158Z
-LAST-MODIFIED:20261006T180158Z
-UID:10006054-1793476800-1793489400@westiecommunity.de
-SUMMARY:Halloween Tanzparty
-DESCRIPTION:OPEN BALLROOM Special 🕸️🎃 \nAm 31. Oktober wird es bei uns schaurig-schön! \nFreut euch auf eine abwechslungsreiche Mischung aus Halloween-Klassikern und euren liebsten Tanzhits. Für jeden ist etwas dabei 🕷️🔥 \n🧛‍♀️ Ob verkleidet oder ohne Kostüm – alle sind willkommen!\nHauptsache\, ihr bringt gute Laune und Lust aufs Tanzen mit. 🥳 \n🗓️ Samstag\, 31.10.2026\n⏰ Beginn: 20:00 Uhr\n📍 Saal 1 des BTSC\n🎧 Musik: Natalie \nWir freuen uns auf eine schaurig-schöne Halloween-Tanznacht mit euch! 🎃👻✨ \n⚠️ Bitte beachten: Der Verzehr von selbst mitgebrachten Getränken und Speisen ist nicht gestattet. Straßenschuhe auf dem Parkett sind ebenfalls nicht erlaubt.\nVielen Dank für euer Verständnis.
-URL:https://westiecommunity.de/event/halloween-tanzparty/
-LOCATION:Braunschweiger Tanz-Sport-Club e.V.\, Böcklerstr. 219 A\, Braunschweig\, Niedersachsen\, 38102\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261104T210000
 DTEND;TZID=Europe/Berlin:20261104T220000
 DTSTAMP:20261013T082151Z
@@ -690,6 +664,19 @@ SUMMARY:Cologne Westie Night - Workshop & Social
 DESCRIPTION:Du tanzt schon WCS? Perfekt. Dann schnapp dir deine Tanzschuhe und komm vorbei: Einmal im Monat gibt’s neue Themen\, neue Impulse und richtig gute Abende mit der Community. \nWorkshop von 19:00–20:30\, danach Social ab 20:30.\n(Sugar Push\, Left Side Pass\, Under Arm Turn\, Whip\, Sugar Tuck und Inside Turn solltest du schon kennen) \nFalls du noch mit WCS durchstarten willst\, guck mal hier: https://cologneswingconnection.de/einstieg
 URL:https://westiecommunity.de/event/cologne-westie-night-workshop-social-6/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261202T210000
+DTEND;TZID=Europe/Berlin:20261202T220000
+DTSTAMP:20261013T082151Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20261013T082151Z
+UID:10005278-1796245200-1796248800@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-12-02/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
 END:VEVENT
 
 END:VCALENDAR
