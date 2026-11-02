@@ -199,6 +199,32 @@ LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261110T183000
+DTEND;TZID=Europe/Berlin:20261110T194500
+DTSTAMP:20261102T123556Z
+CREATED:20260618T080527Z
+LAST-MODIFIED:20261102T123556Z
+UID:10003084-1794335400-1794339900@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Telemagic
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-telemagic/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261110T200000
+DTEND;TZID=Europe/Berlin:20261110T211500
+DTSTAMP:20261102T123533Z
+CREATED:20260618T080558Z
+LAST-MODIFIED:20261102T123533Z
+UID:10003085-1794340800-1794345300@westiecommunity.de
+SUMMARY:WCS Intensive mit Hanna & Jérôme | Baseball Throw
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ 20:00 – 21:15 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-baseball-throw/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261111T210000
 DTEND;TZID=Europe/Berlin:20261111T220000
 DTSTAMP:20261013T082151Z
@@ -678,5 +704,5 @@ DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
 URL:https://westiecommunity.de/event/mini-social/2026-12-02/
 LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
 END:VEVENT
-
+END:VCALENDAR
 END:VCALENDAR
