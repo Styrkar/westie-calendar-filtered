@@ -355,14 +355,14 @@ LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 4047
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261114T184500
+DTSTART;TZID=Europe/Berlin:20261114T183000
 DTEND;TZID=Europe/Berlin:20261115T020000
-DTSTAMP:20260627T084213Z
+DTSTAMP:20261102T153455Z
 CREATED:20260627T084213Z
-LAST-MODIFIED:20260627T084213Z
-UID:10003123-1794681900-1794708000@westiecommunity.de
-SUMMARY:Saturday Swing @ tanzraum
-DESCRIPTION:Saturday Swing \n📝 ZEITPLAN 📝\n18:45 Einlass\n19:00-20:00 Workshop\n20:15-21:15 Workshop\n21:30-open End Social \n🎟️ ABENDKASSE🎟️\n2 Stunden Workshop + Social: 35€\n1 Stunde Workshop + Social: 25€\nSocial: 10€ \nRabatt: Tanzraum Mitglieder und USC-Check-In erhalten Wasserflatrate 🙂 \nLevel: Sugar Push\, Sugar Tuck\, Under Arm Turn\, Left Side Pass\, Whip und Inside Turn sollten bekannt sein
+LAST-MODIFIED:20261102T153455Z
+UID:10003123-1794681000-1794708000@westiecommunity.de
+SUMMARY:Saturday Swing mit Ricarda Lammert @ tanzraum
+DESCRIPTION:Saturday Swing mit Ricarda Lammert \n📝 ZEITPLAN 📝\n18:30 Einlass\n18:45-19:45 Workshop "Wrong Hand"\n19:55-20:55 Workshop "Wrong Foot"\n21:00-open End Social \n🎟️ ABENDKASSE🎟️\n2 Stunden Workshop + Social: 35€\n1 Stunde Workshop + Social: 25€\nSocial: 10€ \nRabatt: Tanzraum Mitglieder und USC-Check-In erhalten Wasserflatrate 🙂 \nLevel: Sugar Push\, Sugar Tuck\, Under Arm Turn\, Left Side Pass\, Whip und Inside Turn sollten bekannt sein
 URL:https://westiecommunity.de/event/saturday-swing-tanzraum-4/
 LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
 END:VEVENT
