@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261104T211500
-DTEND;TZID=Europe/Berlin:20261104T223000
-DTSTAMP:20260926T215015Z
-CREATED:20251214T172157Z
-LAST-MODIFIED:20260926T215015Z
-UID:10002662-1793826900-1793831400@westiecommunity.de
-SUMMARY:WCS-Social 💃🏻🕺🏻 @Ruhrgebiet
-DESCRIPTION:NEU: Unser wöchentliches WCS-Social. 🎉 \nAb 21:15 Uhr kannst du das Gelernte bei cooler und abwechslungsreicher Musik in entspannter Atmosphäre direkt anwenden und trainieren. Oder du genießt es\, in der Nähe der Bar mit alten und neuen Westies ins Gespräch zu kommen\, sodass richtig gute Stimmung aufkommt. Tanz einfach drauf los und mach das\, worauf du gerade Lust hast. 💃🕺🏻
-URL:https://westiecommunity.de/event/wcs-fokus-social-ruhrgebiet/2026-11-04/
-LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261105T183000
 DTEND;TZID=Europe/Berlin:20261105T193000
 DTSTAMP:20261020T132456Z
@@ -600,5 +587,18 @@ DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Lev
 URL:https://westiecommunity.de/event/wcs-level-2-wuppertal-3/2026-12-03/
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
-END:VCALENDAR
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261203T190000
+DTEND;TZID=Europe/Berlin:20261203T200000
+DTSTAMP:20261026T122101Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261026T122101Z
+UID:10005538-1796324400-1796328000@westiecommunity.de
+SUMMARY:WCS Level 1 | Paderborn
+DESCRIPTION:✨ West Coast Swing Level 1 – dein Einstieg in den coolsten Tanz überhaupt! \nDu hast noch nie getanzt? Perfekt! 🙌\nBei unserem Level 1 kannst du ohne Vorerfahrung starten – und eine(n) feste(n) Tanzpartner:in brauchst du auch nicht. \nJede Woche neu einsteigen\, 45 Minuten gemeinsam lernen und danach 15 Minuten freie Tanzzeit\, um das Gelernte direkt auszuprobieren. 🕺💃 \nLocker. Modern. Social. Und vor allem: jede Menge Spaß auf der Tanzfläche. \n👉 Komm vorbei\, probier’s aus und entdecke deinen neuen Lieblings-Tanz! Einfach Schnupperstunde anfragen und loslegen.
+URL:https://westiecommunity.de/event/wcs-level-1-paderborn/2026-12-03/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+
 END:VCALENDAR

@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261104T210000
-DTEND;TZID=Europe/Berlin:20261104T220000
-DTSTAMP:20261013T082151Z
-CREATED:20260927T062351Z
-LAST-MODIFIED:20261013T082151Z
-UID:10005274-1793826000-1793829600@westiecommunity.de
-SUMMARY:Mini Social
-DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
-URL:https://westiecommunity.de/event/mini-social/2026-11-04/
-LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261105T194500
 DTEND;TZID=Europe/Berlin:20261105T204500
 DTSTAMP:20261026T122127Z
@@ -705,4 +692,17 @@ URL:https://westiecommunity.de/event/mini-social/2026-12-02/
 LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261203T194500
+DTEND;TZID=Europe/Berlin:20261203T204500
+DTSTAMP:20261026T122127Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261026T122127Z
+UID:10005797-1796327100-1796330700@westiecommunity.de
+SUMMARY:WCS Level 2 | Paderborn
+DESCRIPTION:🔥 West Coast Swing Level 2 – du willst mehr? \nDich hat das WCS-Fieber gepackt? Die Basics wie Sugar Push\, Left Side Pass\, Underarm Turn und Whip sitzen schon und du hast Lust auf den nächsten Step? Dann bist du in Level 2 genau richtig! 🙌 \nHier erweiterst du dein Repertoire und lernst spannende Semi-Basics und neue Konzepte wie Rock’n’Go oder Extension kennen. \nAlle 2 Wochen einsteigen\, gemeinsam tanzen\, Neues ausprobieren und dabei immer sicherer auf der Tanzfläche werden. 🕺💃 \n👉 Du bist dir noch nicht sicher? Komm einfach zu einer Schnupperstunde vorbei!
+URL:https://westiecommunity.de/event/wcs-level-2-paderborn/2026-12-03/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
