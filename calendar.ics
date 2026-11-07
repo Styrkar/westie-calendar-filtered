@@ -4,58 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261106T160000
-DTEND;TZID=Europe/Berlin:20261106T173000
-DTSTAMP:20260916T160054Z
-CREATED:20260916T160054Z
-LAST-MODIFIED:20260916T160054Z
-UID:10003596-1793980800-1793986200@westiecommunity.de
-SUMMARY:Technik Training (ab Level2) @ VHS Aachen
-DESCRIPTION:West Coast Swing Technik Training (Vorkenntnisse erforderlich!)
-URL:https://westiecommunity.de/event/technik-training-ab-level2-vhs-aachen/
-LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261106T173000
-DTEND;TZID=Europe/Berlin:20261106T190000
-DTSTAMP:20260916T155605Z
-CREATED:20260916T155605Z
-LAST-MODIFIED:20260916T155605Z
-UID:10003597-1793986200-1793991600@westiecommunity.de
-SUMMARY:Kreativität & Musicality in der Freitanzphase
-DESCRIPTION:Hier lernt man\, wie man sich im West Coast Swing in der Freitanzphase frei entfalten kann.
-URL:https://westiecommunity.de/event/kreativitaet-musicality-in-der-freitanzphase/
-LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261106T190000
-DTEND;TZID=Europe/Berlin:20261106T233000
-DTSTAMP:20260220T165741Z
-CREATED:20250112T131158Z
-LAST-MODIFIED:20260220T165741Z
-UID:10000619-1793991600-1794007800@westiecommunity.de
-SUMMARY:WCS Practice Night
-DESCRIPTION:Am 1. Freitag im Monat findet unsere Practice Night mit Fortgeschrittenen-Workshop statt. \nWorkshop ab 19:00 Uhr (Voraussetzung: Five Basics). \nUm 20:00 Uhr startet dann die Party.
-URL:https://westiecommunity.de/event/wcs-und-zouk-practice-night-2-areas/2026-11-06/
-LOCATION:Dance Fusion Aachen\, Adalbertsteinweg 208\, Aachen\, NRW\, 52066\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261106T210000
-DTEND;TZID=Europe/Berlin:20261107T030000
-DTSTAMP:20261021T073346Z
-CREATED:20261021T073346Z
-LAST-MODIFIED:20261021T073346Z
-UID:10006064-1793998800-1794020400@westiecommunity.de
-SUMMARY:Special Birthday Social
-DESCRIPTION:Hallo Ihr lieben\, \nam Freitag den 06.11. ist ab 21 Uhr natürlich wieder das Social bei bonn tanzt! Und diesmal wird es besonders!\nWir feiern gemeinsam in den Geburtstag von Lucille aus Bonn rein und ihr seid ALLE eingeladen! \nAls besonderen Programmpunkt gibt es um 22:30 Uhr eine Performance des Switch und Steal Teams aus Bonn und Umgebung. Die Choreographie wurde von Alicia Speckmann für die Open Stage beim Festival SwitchXperience in Paris erstellt und nun als Vorschau für euch in Bonn aufgeführt! \nUm Mitternacht gibt es ein kostenloses Glas Sekt (auch Alkoholfrei) zum anstoßen für alle. Danach wird so lange wie Lust und Laune da ist getanzt! \nDer Eintritt kostet nur 5\,-€ p.P.
-URL:https://westiecommunity.de/event/special-birthday-social/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261107T200000
 DTEND;TZID=Europe/Berlin:20261107T233000
 DTSTAMP:20260804T103024Z
@@ -251,19 +199,6 @@ LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261113T210000
-DTEND;TZID=Europe/Berlin:20261113T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003684-1794603600-1794610800@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-13/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261114T163000
 DTEND;TZID=Europe/Berlin:20261114T180000
 DTSTAMP:20260804T101429Z
@@ -378,19 +313,6 @@ SUMMARY:West Coast Swing Social Dance
 DESCRIPTION:25.  Februar @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
 URL:https://westiecommunity.de/event/west-coast-swing-social-dance-18/2026-11-19/
 LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261120T210000
-DTEND;TZID=Europe/Berlin:20261120T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003685-1795208400-1795215600@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-20/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -537,19 +459,6 @@ LOCATION:Volkshochschule\, Aachen\, Peterstraße\, Aachen\, NRW\, 52062\, German
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261127T210000
-DTEND;TZID=Europe/Berlin:20261127T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003686-1795813200-1795820400@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-11-27/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261128T140000
 DTEND;TZID=Europe/Berlin:20261128T235900
 DTSTAMP:20260922T062330Z
@@ -693,16 +602,42 @@ LOCATION:Tanzschule Pape-Eicker/Schmidt\, Bismarckstraße 22\, Hamm\, NRW\, 5906
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261204T210000
-DTEND;TZID=Europe/Berlin:20261204T230000
-DTSTAMP:20261016T102544Z
-CREATED:20260922T062223Z
-LAST-MODIFIED:20261016T102544Z
-UID:10003687-1796418000-1796425200@westiecommunity.de
-SUMMARY:Weekly Social bei bonn tanzt
-DESCRIPTION:Lust auf einen gemütlichen Social Abend mit einer entspannten Atmosphäre\, guter Musik und der wundervollen Westie Community in Bonn?\nBei uns kriegst du all das mit einem schönen start ins Wochenende! \nUnser Social geht bis mindestens 23 Uhr\, wir tanzen aber auch gerne mit euch in den Samstag rein! Also schnapp deine Westie-Freunde und auf gehts! \nDer Eintritt Kostet nur 5\,-€ p.P.!
-URL:https://westiecommunity.de/event/weekly-social-bei-bonn-tanzt/2026-12-04/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
+DTSTART;TZID=Europe/Berlin:20261205T120000
+DTEND;TZID=Europe/Berlin:20261205T160000
+DTSTAMP:20260127T205356Z
+CREATED:20260127T205356Z
+LAST-MODIFIED:20260127T205356Z
+UID:10002165-1796472000-1796486400@westiecommunity.de
+SUMMARY:Cologne Westie Brunch
+DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
+URL:https://westiecommunity.de/event/cologne-westie-brunch-9/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261209T210000
+DTEND;TZID=Europe/Berlin:20261209T220000
+DTSTAMP:20261013T082151Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20261013T082151Z
+UID:10005279-1796850000-1796853600@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2026-12-09/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261210T194500
+DTEND;TZID=Europe/Berlin:20261210T204500
+DTSTAMP:20261026T122127Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261026T122127Z
+UID:10005798-1796931900-1796935500@westiecommunity.de
+SUMMARY:WCS Level 2 | Paderborn
+DESCRIPTION:🔥 West Coast Swing Level 2 – du willst mehr? \nDich hat das WCS-Fieber gepackt? Die Basics wie Sugar Push\, Left Side Pass\, Underarm Turn und Whip sitzen schon und du hast Lust auf den nächsten Step? Dann bist du in Level 2 genau richtig! 🙌 \nHier erweiterst du dein Repertoire und lernst spannende Semi-Basics und neue Konzepte wie Rock’n’Go oder Extension kennen. \nAlle 2 Wochen einsteigen\, gemeinsam tanzen\, Neues ausprobieren und dabei immer sicherer auf der Tanzfläche werden. 🕺💃 \n👉 Du bist dir noch nicht sicher? Komm einfach zu einer Schnupperstunde vorbei!
+URL:https://westiecommunity.de/event/wcs-level-2-paderborn/2026-12-10/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
