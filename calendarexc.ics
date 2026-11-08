@@ -4,19 +4,6 @@ PRODID:-//Excluded Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261108T100000
-DTEND;TZID=Europe/Berlin:20261108T120000
-DTSTAMP:20260127T203112Z
-CREATED:20260127T202840Z
-LAST-MODIFIED:20260127T203112Z
-UID:10002154-1794132000-1794139200@westiecommunity.de
-SUMMARY:Schnupperworkshop "First Steps"
-DESCRIPTION:In diesem 2-stündigen Workshop bekommst du die wichtigsten Basics an die Hand: Rhythmus\, Timing\, die ersten Figuren. Du brauchst keine Vorkenntnisse oder feste Tanzperson. Die Rollen (Lead oder Follow) kannst du frei wählen und wie im West Coast Swing üblich\, wird regelmäßig durchgewechselt. \n🥐Ab 12:00 Uhr geht’s direkt weiter mit unserem WCS Brunch & Social.🥐\nBring gern was Leckeres zu essen und was zu trinken mit. Und wenn du magst\, tanz direkt weiter!\nOder chill einfach mit uns neben der Tanzfläche\, quatsch mit der Community und genieß die Stimmung.
-URL:https://westiecommunity.de/event/schnupperworkshop-first-steps-17/
-LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261108T151500
 DTEND;TZID=Europe/Berlin:20261108T161500
 DTSTAMP:20261020T131252Z
@@ -664,6 +651,19 @@ SUMMARY:WCS Level 1 | Paderborn
 DESCRIPTION:✨ West Coast Swing Level 1 – dein Einstieg in den coolsten Tanz überhaupt! \nDu hast noch nie getanzt? Perfekt! 🙌\nBei unserem Level 1 kannst du ohne Vorerfahrung starten – und eine(n) feste(n) Tanzpartner:in brauchst du auch nicht. \nJede Woche neu einsteigen\, 45 Minuten gemeinsam lernen und danach 15 Minuten freie Tanzzeit\, um das Gelernte direkt auszuprobieren. 🕺💃 \nLocker. Modern. Social. Und vor allem: jede Menge Spaß auf der Tanzfläche. \n👉 Komm vorbei\, probier’s aus und entdecke deinen neuen Lieblings-Tanz! Einfach Schnupperstunde anfragen und loslegen.
 URL:https://westiecommunity.de/event/wcs-level-1-paderborn/2026-12-10/
 LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261210T194500
+DTEND;TZID=Europe/Berlin:20261210T204500
+DTSTAMP:20261021T073400Z
+CREATED:20261021T073400Z
+LAST-MODIFIED:20261021T073400Z
+UID:10006351-1796931900-1796935500@westiecommunity.de
+SUMMARY:WCS Level 1 | Einsteiger | Wuppertal
+DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
+URL:https://westiecommunity.de/event/wcs-level-1-einsteiger-wuppertal-3/2026-12-10/
+LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
 
 END:VCALENDAR
