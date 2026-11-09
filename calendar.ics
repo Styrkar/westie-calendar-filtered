@@ -4,45 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261108T120000
-DTEND;TZID=Europe/Berlin:20261108T160000
-DTSTAMP:20260127T203411Z
-CREATED:20260127T203411Z
-LAST-MODIFIED:20260127T203411Z
-UID:10002164-1794139200-1794153600@westiecommunity.de
-SUMMARY:Cologne Westie Brunch
-DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
-URL:https://westiecommunity.de/event/cologne-westie-brunch-8/
-LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261108T123000
-DTEND;TZID=Europe/Berlin:20261108T140000
-DTSTAMP:20260914T175422Z
-CREATED:20260914T175422Z
-LAST-MODIFIED:20260914T175422Z
-UID:10003569-1794141000-1794146400@westiecommunity.de
-SUMMARY:WCS Themenworkshop Stufe 3
-DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
-URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-11-08/
-LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261108T140000
-DTEND;TZID=Europe/Berlin:20261108T170000
-DTSTAMP:20261009T174430Z
-CREATED:20261009T174430Z
-LAST-MODIFIED:20261009T174430Z
-UID:10006055-1794146400-1794157200@westiecommunity.de
-SUMMARY:WCS Beginner Workshop "Swiftie Edition"
-DESCRIPTION:West Coast Swing ist ein moderner Paartanz aus den USA und gehört zur Familie der Swing-Tänze. In seiner heutigen Form unterscheidet er sich jedoch deutlich von klassischen Swing-Stilen wie dem Lindy Hop. Sein besonderer Reiz liegt in seiner Vielseitigkeit – getanzt wird zu den unterschiedlichsten Musikrichtungen. In diesem Workshop tanzen wir zu Hits von Taylor Swift! \nIm Mittelpunkt steht das harmonische Zusammenspiel zwischen Führen und Folgen. Diese feine Abstimmung innerhalb des Tanzpaares ermöglicht es\, Bewegungsabläufe im Moment entstehen zu lassen und individuelle Akzente zu setzen. \nHier erlernt ihr die Grundfiguren des Tanzes (Sugar Push\, Left-Side-Pass\, Right-Right-Pass). Lasst euch von dem Tanz aus den USA verzaubern und erweitert euer Wissen und Figurenkatalog um diesen Tanz. Dieses Bootcamp richtet sich an alle die es einfach mal probieren wollen und nicht die Zeit haben für ein mehrwöchigen Kurs. \nMelde dich gerne alleine an. Da wir ständig Partner wechseln\, ist eine Anmeldung mit Partner*in nicht nötig. Gebe dafür bei der Buchung an\, ob du als Leader oder Follower teilnehmen möchtest. Gib gerne an\, falls es dir egal ist. \nTermine: 08.11.2026 – Von 14:00 – 17:00 Uhr Ort: Saal 3 – BTSC\, Böcklerstr. 219a Eingang A \nEvent findet nur statt\, wenn Mindestteilnehmeranzahl erreicht wird. \nHinweis: Bitte bequeme Kleidung tragen und flache Schuhe\, mit eher glatter\, sauberer Sohle. Straßenschuhe hinterlassen auf dem Parkett Schäden\, können somit nicht zum Einsatz kommen.
-URL:https://westiecommunity.de/event/wcs-beginner-workshop-swiftie-edition/
-LOCATION:Braunschweiger Tanz-Sport-Club e.V.\, Böcklerstr. 219 A\, Braunschweig\, Niedersachsen\, 38102\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261109T210000
 DTEND;TZID=Europe/Berlin:20261109T233000
 DTSTAMP:20260215T193355Z
@@ -639,5 +600,57 @@ DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend
 URL:https://westiecommunity.de/event/weekly-social-night/2026-12-10/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
-END:VCALENDAR
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261210T210000
+DTEND;TZID=Europe/Berlin:20261210T230000
+DTSTAMP:20261020T114431Z
+CREATED:20260627T084109Z
+LAST-MODIFIED:20261020T114431Z
+UID:10006070-1796936400-1796943600@westiecommunity.de
+SUMMARY:West Coast Swing Social Dance
+DESCRIPTION:25.  Februar @ 21:00 - 23:00 Uhr\nDie wöchentliche WCS Party bei Dresen! \nBeginn 21 Uhr\nEnde 23 Uhr \nEintritt frei!
+URL:https://westiecommunity.de/event/west-coast-swing-social-dance-18/2026-12-10/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261211T204500
+DTEND;TZID=Europe/Berlin:20261211T233000
+DTSTAMP:20261102T142404Z
+CREATED:20261006T180226Z
+LAST-MODIFIED:20261102T142404Z
+UID:10006849-1797021900-1797031800@westiecommunity.de
+SUMMARY:WCS Social Paderborn - Übungsparty am Freitag
+DESCRIPTION:Euer Abend zum Üben\, Connecten\, und natürlich Tanzen. Wir freuen uns auf euch!\nEine große Getränkeauswahl gibt es in unserem Dance Inn. \nEintritt: Abendkasse
+URL:https://westiecommunity.de/event/wcs-social-uebungsparty-am-freitag/2026-12-11/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261213T110000
+DTEND;TZID=Europe/Berlin:20261213T123000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003566-1797159600-1797165000@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 2
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Basics müssen beherrscht werden
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-2-2/2026-12-13/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261213T123000
+DTEND;TZID=Europe/Berlin:20261213T140000
+DTSTAMP:20260914T175422Z
+CREATED:20260914T175422Z
+LAST-MODIFIED:20260914T175422Z
+UID:10003570-1797165000-1797170400@westiecommunity.de
+SUMMARY:WCS Themenworkshop Stufe 3
+DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
+URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-12-13/
+LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
 END:VCALENDAR
