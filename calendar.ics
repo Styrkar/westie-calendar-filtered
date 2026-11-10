@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261109T210000
-DTEND;TZID=Europe/Berlin:20261109T233000
-DTSTAMP:20260215T193355Z
-CREATED:20260105T162907Z
-LAST-MODIFIED:20260215T193355Z
-UID:10002227-1794258000-1794267000@westiecommunity.de
-SUMMARY:Monday Blues | TanzenKöln
-DESCRIPTION:🔥 Monday Blues – euer monatliches West Coast Swing Social in Köln! 🔥 \n🗓️ Jeden 2. Montag im Monat | 21:00 – 23:30 Uhr | 5€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \n“Dance the Monday Blues away“
-URL:https://westiecommunity.de/event/monday-blues-tanzenkoeln-21/2026-11-09/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261110T183000
 DTEND;TZID=Europe/Berlin:20261110T194500
 DTSTAMP:20261102T123556Z
@@ -108,29 +95,42 @@ LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 4047
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261113T184500
-DTEND;TZID=Europe/Berlin:20261113T200000
-DTSTAMP:20260617T144801Z
+DTSTART;TZID=Europe/Berlin:20261113T183000
+DTEND;TZID=Europe/Berlin:20261113T194500
+DTSTAMP:20261110T092632Z
 CREATED:20260218T130231Z
-LAST-MODIFIED:20260617T144801Z
-UID:10002210-1794595500-1794600000@westiecommunity.de
+LAST-MODIFIED:20261110T092632Z
+UID:10002210-1794594600-1794599100@westiecommunity.de
 SUMMARY:WCS Intensive mit Hanna & Jérôme | Style your Basics 🧚🏼‍♀️
-DESCRIPTION:Du beherrschst bereits die Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn und Whip) und möchtest deinen West Coast Swing weiter ausbauen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 18:45 – 20:00 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+DESCRIPTION:Du beherrschst bereits die Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn und Whip) und möchtest deinen West Coast Swing weiter ausbauen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
 URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-4/
 LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261113T201500
+DTSTART;TZID=Europe/Berlin:20261113T200000
 DTEND;TZID=Europe/Berlin:20261113T213000
-DTSTAMP:20260617T144929Z
+DTSTAMP:20261110T092412Z
 CREATED:20260218T130231Z
-LAST-MODIFIED:20260617T144929Z
-UID:10002211-1794600900-1794605400@westiecommunity.de
+LAST-MODIFIED:20261110T092412Z
+UID:10002211-1794600000-1794605400@westiecommunity.de
 SUMMARY:WCS Intensive mit Hanna & Jérôme | Communication 📞
-DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 20:15 – 21:30 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
+DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nIm Anschluss an die Workshops wird ab 21:30 bis 23 Uhr ausgetanzt – die perfekte Gelegenheit\, das Gelernte zu vertiefen! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ Freitag\, 13.11.26 | 20:00 – 21:30 Uhr | 25€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
 URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-tba-3/
 LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261113T203000
+DTEND;TZID=Europe/Berlin:20261114T010000
+DTSTAMP:20261110T083444Z
+CREATED:20261110T083444Z
+LAST-MODIFIED:20261110T083444Z
+UID:10006866-1794601800-1794618000@westiecommunity.de
+SUMMARY:Double Decker Dance - Practice Evening
+DESCRIPTION:💃🕺DOUBLE DECKER DANCE💃🕺\nPractice Evening \nDieses Mal:\nWEST COAST SWING — KIZOMBA \nUnser Motto:\nEINFACH mal ins Wochenende tanzen. \n✨Special: Kizomba Open Level Workshop mit Michelle & Marcus (Start 20:45 Uhr) \n✨Diese Practice bietet eine Plattform\, das Erlernte und seine Szene Tänze zu festigen. \n✨2 Floors mit 2 unterschiedlichen Tanzstilen (siehe Flyer)\n- tanzen auf ZWEI Tanzflächen ✨ \nVon 22:00 - 1:00 Uhr läd nicht nur die Tanzfläche zum tanzen sondern auch unser gemütlicher Barbereich zum Erfrischen und Verweilen ein. \nWir freuen uns auf euch 🤗 \nWo?\nTanzschule Husemeyer\nSalzmannstraße 56a\n48147 Münster \n(⚠️ möglicher WCS Schnupper Workshop 21:30 h bei großer Nachfrage)\nPractice Start auf dem Kizomba Floor 22 Uhr - Der West Coast Swing Floor ist ab 21:30/22 Uhr offen.\nEnde 1:00 Uhr\nEintritt 7\,50 €\n(1 Getränk im Wert von 3\,50 € inklusive) \n🥤Bitte keine eigenen Getränke mitbringen. \n(Alle Informationen unter Vorbehalt - Änderungen möglich).
+URL:https://westiecommunity.de/event/double-decker-dance-practice-evening-6/
+LOCATION:ADTV - Tanzschule Husemeyer\, Salzmannstraße 56a\, Münster\, NRW\, 48147\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -652,5 +652,5 @@ DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr 
 URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-12-13/
 LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
 END:VEVENT
-
+END:VCALENDAR
 END:VCALENDAR

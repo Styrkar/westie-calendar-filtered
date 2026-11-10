@@ -122,6 +122,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261114T180000
+DTEND;TZID=Europe/Berlin:20261114T194500
+DTSTAMP:20261110T083537Z
+CREATED:20261110T083537Z
+LAST-MODIFIED:20261110T083537Z
+UID:10006848-1794679200-1794685500@westiecommunity.de
+SUMMARY:Beginner-Workshop mit anschließender Party
+DESCRIPTION:West Coast Swing – Dein neuer Lieblingstanz! \nIn unserem Beginner-Workshop zeigen wir dir die ersten Basics\, um bereits nach kurzer Zeit über das Tanzparkett der direkt anschließenden WCS-Party gleiten zu können. Es sind keinerlei Vorkenntnisse nötig. Bei den Figuren erklären wir dir alles Schritt für Schritt\, mit viel Spaß\, bei toller abwechslungsreicher Musik und langen praktischen Übungsphasen\, um das Gelernte zu vertiefen. \nKomm vorbei\, gerne auch ohne Tanzpartner:in und lerne vor Ort neue Leute kennen. Jetzt ist der perfekte Moment\, etwas Neues auszuprobieren! 🧡 \n🚀 VORAUSSETZUNG 🚀 \nDieser Workshop richtet sich an absolute Einsteiger:innen\, mit keinerlei Vorerfahrungen. Wir freuen uns jedoch genauso über Teilnehmer:innen\, die ihre West Coast Swing Kenntnisse auffrischen wollen. Die Teilnahme ist mit und ohne feste:n Tanzpartner:in möglich. Mitbringen musst du lediglich möglichst flache Schuhe mit glatter Sohle. Hintergrund: Schuhe mit hohem Absatz (über 2-3 cm) sind für West Coast Swing eher hinderlich. \n🚀 ZEITPLAN 🚀 \n18:00 bis 18:15 Uhr\nEinlass / Check-In \n18:15 bis 19:45 Uhr\nBeginner-Workshop\n(inkl. kurzer Pause) \nab 20:00 Uhr\nWCS-Geburtstagsparty\n(Wir feiern unseren 10. Geburtstag)
+URL:https://westiecommunity.de/event/beginner-workshop-mit-anschliessender-party-2/
+LOCATION:Tanzhaus Mülheim\, Löhberg 22\, Mülheim an der Ruhr\, NRW\, 45468\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261114T180000
 DTEND;TZID=Europe/Berlin:20261114T235900
 DTSTAMP:20261004T124158Z
 CREATED:20260730T061226Z
@@ -640,17 +653,4 @@ URL:https://westiecommunity.de/event/wcs-level-1-einsteiger-wuppertal-2/2026-12-
 LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
 END:VEVENT
 
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261213T151500
-DTEND;TZID=Europe/Berlin:20261213T161500
-DTSTAMP:20261020T131252Z
-CREATED:20261006T180136Z
-LAST-MODIFIED:20261020T131252Z
-UID:10005018-1797174900-1797178500@westiecommunity.de
-SUMMARY:WCS Level 1 | Einsteiger | Wuppertal
-DESCRIPTION:Unsere regelmäßigen Kursen sind wie folgt aufgeteilt: \n• Im Level 1 lernst Du in 6 x 60 Minuten alle wichtigen Basics – von Left Side Pass bis Whip – und außerdem den besonderen „West Coast Swing-Spirit” kennen. Danach kannst Du direkt weiter in den Level 2! \n• Im Level 2 lernst Du über mehrere Monate weitere fortgeschrittene Basics wie Verlängerungen\, Inside Turns\, Rock'n'Gos und mehr kennen. Durch unser flexibles Kursysstem gilt ab hier: Der Einstieg ist jederzeit möglich. \n• Im Level 3 kommen dann fortlaufend neue Elemente\, Figuren & Technik hinzu. Der Einstieg ist jederzeit möglich. \nFür die Kurse benötigst Du keine feste Tanzpartnerin oder Tanzpartner! Aufgrund unseres flexiblen Kurssystems bist Du auch nicht an einen bestimmten Wochentag gebunden\, sondern kannst flexibel wechselnde oder auch mehrere der verfügbaren Kurstage pro Woche besuchen. \nIn einer Woche werden pro Level an allen Tagen die gleichen Inhalte unterrichtet. Du kannst also selbst entscheiden\, wann und wie oft Du kommen möchtest.
-URL:https://westiecommunity.de/event/wcs-level-1-einsteiger-wuppertal/2026-12-13/
-LOCATION:ADTV Tanzschule Schäfer-Koch\, Laurentiusstr. 27\, Wuppertal\, NRW\, 42103\, Germany
-END:VEVENT
-END:VCALENDAR
 END:VCALENDAR
