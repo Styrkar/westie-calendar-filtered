@@ -4,32 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261110T183000
-DTEND;TZID=Europe/Berlin:20261110T194500
-DTSTAMP:20261102T123556Z
-CREATED:20260618T080527Z
-LAST-MODIFIED:20261102T123556Z
-UID:10003084-1794335400-1794339900@westiecommunity.de
-SUMMARY:WCS Intensive mit Hanna & Jérôme | Telemagic
-DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ 18:30 – 19:45 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
-URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-telemagic/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261110T200000
-DTEND;TZID=Europe/Berlin:20261110T211500
-DTSTAMP:20261102T123533Z
-CREATED:20260618T080558Z
-LAST-MODIFIED:20261102T123533Z
-UID:10003085-1794340800-1794345300@westiecommunity.de
-SUMMARY:WCS Intensive mit Hanna & Jérôme | Baseball Throw
-DESCRIPTION:Du tanzt regelmäßig WCS\, beherrschst neben den Basics (Left Side Pass\, Underarm Turn\, Sugar Push\, Sugar Tuck\, Inside Turn & Whip) auch schon fortgeschrittenere Patterns und Variationen (z.B. Free Spin\, Outside Turn & Open Whip) und möchtest dich mit komplexeren Konzepten befassen? Dann ist dieser Workshop genau das Richtige für dich! \nUnser WCS Intensive ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Die Plätze sind daher begrenzt! \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \nFalls du noch keine Tanzpartner:in hast schreib uns gerne trotzdem - wir führen euch dann zusammen 💕 \n🗓️ 20:00 – 21:15 Uhr | 20€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊
-URL:https://westiecommunity.de/event/wcs-intensive-mit-hanna-jerome-baseball-throw/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261111T210000
 DTEND;TZID=Europe/Berlin:20261111T220000
 DTSTAMP:20261013T082151Z
@@ -651,6 +625,19 @@ SUMMARY:WCS Themenworkshop Stufe 3
 DESCRIPTION:Trainer Nina und Michael\nTeilnahmevoraussetzung: Mindestens 1 Jahr Erfahrung
 URL:https://westiecommunity.de/event/wcs-themenworkshop-stufe-3-2/2026-12-13/
 LOCATION:1. Rock ‘n’ Roll-Club Düren\, Mariaweilerstr. 30\, Düren\, NRW\, 52349\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261213T201500
+DTEND;TZID=Europe/Berlin:20261213T214500
+DTSTAMP:20260803T122949Z
+CREATED:20260803T122949Z
+LAST-MODIFIED:20260803T122949Z
+UID:10003442-1797192900-1797198300@westiecommunity.de
+SUMMARY:Sunday Swing (All Level) "Xmas-Special" mit Bianca & Carsten
+DESCRIPTION:Unser beliebtes Xmas Special geht in die nächste Runde. Ein bisschen Weihnachtsmusik\, coole Moves und viel Spaß...\nVorraussetzungen: ab Stufe 2 (Dresen) oder alle Basics auf Abruf tanzbar.\nDauer: 90 Min.\, Workshopgebühr: € 29/Person\nWCS Clubmitglieder erhalten 50% Rabatt\nWir freuen uns auf Eure Reservierung!
+URL:https://westiecommunity.de/event/sunday-swing-all-level-xmas-special-mit-bianca-carsten-2/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
