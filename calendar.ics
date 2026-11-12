@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261111T210000
-DTEND;TZID=Europe/Berlin:20261111T220000
-DTSTAMP:20261013T082151Z
-CREATED:20260927T062351Z
-LAST-MODIFIED:20261013T082151Z
-UID:10005275-1794430800-1794434400@westiecommunity.de
-SUMMARY:Mini Social
-DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
-URL:https://westiecommunity.de/event/mini-social/2026-11-11/
-LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261112T194500
 DTEND;TZID=Europe/Berlin:20261112T204500
 DTSTAMP:20261026T122127Z
@@ -639,5 +626,18 @@ DESCRIPTION:Unser beliebtes Xmas Special geht in die nächste Runde. Ein bissche
 URL:https://westiecommunity.de/event/sunday-swing-all-level-xmas-special-mit-bianca-carsten-2/
 LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
 END:VEVENT
-END:VCALENDAR
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261214T210000
+DTEND;TZID=Europe/Berlin:20261214T233000
+DTSTAMP:20260215T193355Z
+CREATED:20260105T162907Z
+LAST-MODIFIED:20260215T193355Z
+UID:10002228-1797282000-1797291000@westiecommunity.de
+SUMMARY:Monday Blues | TanzenKöln
+DESCRIPTION:🔥 Monday Blues – euer monatliches West Coast Swing Social in Köln! 🔥 \n🗓️ Jeden 2. Montag im Monat | 21:00 – 23:30 Uhr | 5€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \n“Dance the Monday Blues away“
+URL:https://westiecommunity.de/event/monday-blues-tanzenkoeln-21/2026-12-14/
+LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
+END:VEVENT
+
 END:VCALENDAR
