@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261115T140000
-DTEND;TZID=Europe/Berlin:20261115T153000
-DTSTAMP:20260803T123018Z
-CREATED:20260803T123018Z
-LAST-MODIFIED:20260803T123018Z
-UID:10003441-1794751200-1794756600@westiecommunity.de
-SUMMARY:Sunday Swing (Level 5/6) "Ducks & Rides" mit Bianca & Carsten
-DESCRIPTION:Vorraussetzungen: Level 5+6 (Dresen) oder oder ca. 3 Jahre regelmäßiger Unterricht.\nDauer: 90 Min.\, Workshopgebühr: € 29/Person\nWCS Clubmitglieder erhalten 50% Rabatt\nWir freuen uns auf Eure Reservierung!
-URL:https://westiecommunity.de/event/sunday-swing-level-5-6-ducks-rides-mit-bianca-carsten/
-LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261118T210000
 DTEND;TZID=Europe/Berlin:20261118T220000
 DTSTAMP:20261013T082151Z
@@ -274,6 +261,19 @@ SUMMARY:Workshop “Hip-hop im West Coast Swing” & Social
 DESCRIPTION:In diesem Workshop schauen wir uns an\, wie du Hip-Hop-Elemente in deinen West Coast Swing einbauen kannst\, ohne dass dass du dafür direkt einen kompletten neuen Tanz lernen musst. \nEs ist ein Couple-Workshop\, du kannst dich aber natürlich\, wie immer\, auch alleine anmelden. \nDu solltest Left Side Pass\, Under Arm Turn\, Sugar Push\, Sugar Tuck\, Whip und Inside Turn sicher beherrschen. \nWir freuen uns auf dich! 🎉 \n📅 Samstag\, 28.11.2026\n🕖 19:00–20:30 Uhr\, danach Social Dancing\n📍 Tor28\, Machabäerstraße 28\, 50677 Köln \n💰 Preis: 24€ (CSC-Mitglieder) / 29€ (Externe) -  Social: 10€ an der Abendkasse\n⚠️ Plätze für den Workshop sind begrenzt – melde dich also\, wenn möglich\, vorher an.
 URL:https://westiecommunity.de/event/cologne-westie-night-workshop-social-6/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261128T200000
+DTEND;TZID=Europe/Berlin:20261129T000000
+DTSTAMP:20261116T065902Z
+CREATED:20261116T065902Z
+LAST-MODIFIED:20261116T065902Z
+UID:10006867-1795896000-1795910400@westiecommunity.de
+SUMMARY:WCS Party
+DESCRIPTION:Wir tanzen an diesem Abend West Coast Swing zu genreübergreifender Musik verschiedenster Dekaden. An der Bar könnt ihr bei kalten Getränken das bunte Treiben im Callinsaal genießen und gestalten. Man muss sich nicht anmelden.
+URL:https://westiecommunity.de/event/wcs-party-13/2026-11-28/
+LOCATION:Spokusa\, Callinstr. 26a\, Hannover\, 30167\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
@@ -664,6 +664,45 @@ SUMMARY:Cologne Westie Night - Workshop & Social
 DESCRIPTION:Du tanzt schon WCS? Perfekt. Dann schnapp dir deine Tanzschuhe und komm vorbei: Einmal im Monat gibt’s neue Themen\, neue Impulse und richtig gute Abende mit der Community. \nWorkshop von 17:00–18:30\, danach Social 18:30- 0:00\n(Sugar Push\, Left Side Pass\, Under Arm Turn\, Whip\, Sugar Tuck und Inside Turn solltest du schon kennen) \nFalls du noch mit WCS durchstarten willst\, guck mal hier: https://cologneswingconnection.de/einstieg
 URL:https://westiecommunity.de/event/cologne-westie-night-workshop-social-5/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261219T183000
+DTEND;TZID=Europe/Berlin:20261219T235500
+DTSTAMP:20260618T080030Z
+CREATED:20260618T080030Z
+LAST-MODIFIED:20260618T080030Z
+UID:10003110-1797705000-1797724500@westiecommunity.de
+SUMMARY:"PottSwing" - Workshop + Practice-Night
+DESCRIPTION:Unsere Event-Reihe "PottSwing" bringt regelmäßig frischen Schwung in wechselnde Locations im ganzen Ruhrgebiet. Wir freuen uns riesig darauf\, Westies aus dem ganzen Ruhrgebiet (und immer öfter darüber hinaus) zu begrüßen und euch mit inspirierenden Workshops sowie einer fröhlich-ausgelassenen Practice-Night einen unvergesslichen Tanzabend zu schenken. Kommt vorbei und tanzt mit uns! \n📢 ZEITPLAN\nab 18:30 Uhr: Workshop "Neue Figur"\nab 20:00 Uhr: Practice-Night \n📢 WORKSHOP-VORAUSSETZUNG\nDieser Workshop ist für alle Westies geeignet\, welche die Figuren Sugar Push\, Left Side Pass und Underarm Turn frei kombinieren und sicher tanzen können. Zur Practice-Night sind selbstverständlich alle herzlich willkommen! \n📢 TICKETS\nWorkshop + Practice-Night:\nab 24 €/Person \nPractice-Night:\nab 10 €/Person
+URL:https://westiecommunity.de/event/pottswing-workshop-practice-night-20/
+LOCATION:Tanzlocation Phönix\, Am Poter (Beachte unsere Anfahrt-Tipps!)\, Bochum\, NRW\, 44879\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261219T190000
+DTEND;TZID=Europe/Berlin:20261219T233000
+DTSTAMP:20260917T082538Z
+CREATED:20260917T082538Z
+LAST-MODIFIED:20260917T082538Z
+UID:10003608-1797706800-1797723000@westiecommunity.de
+SUMMARY:Saturday Swing Party
+DESCRIPTION:West Coast Swing Social Dance Night.\nTanzen\, üben und feiern mit guter Musik auf dem Dancefloor. \nEinlass ab Beginn 19.00 Uhr / Ende 23.30 Uhr\nEintritt Dresen Mitglieder 6 €/ Gäste 8 € \nWir freuen uns auf Euch!
+URL:https://westiecommunity.de/event/saturday-swing-party-12/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261220T120000
+DTEND;TZID=Europe/Berlin:20261220T160000
+DTSTAMP:20260218T124401Z
+CREATED:20260218T124401Z
+LAST-MODIFIED:20260218T124401Z
+UID:10002224-1797768000-1797782400@westiecommunity.de
+SUMMARY:WCS Christmas Brunch
+DESCRIPTION:Wir laden dich ein zu unserem Christmas Special Brunch ❄️☃️✨ \n📅 Sonntag\, 20. Dezember\, 12 -16 Uhr\n📍 Tanzraum Zentrum – Salierring 33\, 50677 Köln \nGute Laune\, gute Musik und und eine herzliche Community erwarten dich. Lass uns tanzen\, lachen und connecten – West Coast Swing Social im Tanzraum! \nZum Jahresausklang bieten wir Punsch und weihnachtliche Snacks!\nWir freuen uns auf einen letzten Brunch für 2026 mit euch🎄🫶🏻
+URL:https://westiecommunity.de/event/wcs-christmas-brunch/
+LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
 END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
