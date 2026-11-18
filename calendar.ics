@@ -252,6 +252,19 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261128T190000
+DTEND;TZID=Europe/Berlin:20261128T233000
+DTSTAMP:20261117T193604Z
+CREATED:20261117T193604Z
+LAST-MODIFIED:20261117T193604Z
+UID:10006871-1795892400-1795908600@westiecommunity.de
+SUMMARY:Saturday Swing Party
+DESCRIPTION:West Coast Swing Social Dance Night.\nTanzen\, üben und feiern mit guter Musik auf dem Dancefloor. \nEinlass ab 18:30 Beginn 19.00 Uhr / Ende 23.30 Uhr\nEintritt Dresen Mitglieder 6 €/ Gäste 8 € \nWir freuen uns auf Euch!
+URL:https://westiecommunity.de/event/saturday-swing-party-16/
+LOCATION:Tanzschule Dresen\, Duisburger Strasse 93-95\, Düsseldorf\, NRW\, 40479\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261128T190000
 DTEND;TZID=Europe/Berlin:20261129T020000
 DTSTAMP:20261107T171053Z
 CREATED:20260127T205545Z
@@ -378,6 +391,19 @@ SUMMARY:Cologne Westie Brunch
 DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
 URL:https://westiecommunity.de/event/cologne-westie-brunch-9/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20261205T193000
+DTEND;TZID=Europe/Berlin:20261205T210000
+DTSTAMP:20261117T194028Z
+CREATED:20261117T193856Z
+LAST-MODIFIED:20261117T194028Z
+UID:10006875-1796499000-1796504400@westiecommunity.de
+SUMMARY:Workshop in Moers "Connect & Communicate" mit Cliff & Birte
+DESCRIPTION:Wir spielen mit den Basic Figuren\, schauen\, wo wir kommunizieren könnenund welche Variationen sich daraus ergeben. Wichtig ist uns\, dass sowohl Leader \,als auch Follower den Tanz aktiv beeinflussen können. \nNach dem Workshop findet eine Party statt (für WS-Teilnehmer kostenlos\, sonst 7\,-)
+URL:https://westiecommunity.de/event/workshop-in-moers-connect-communicate-mit-cliff-birte/
+LOCATION:CITY-Tanzschule Gottlieb Moers\, Neuer Wall 2\, Moers\, NRW\, 47441\, Germany
 END:VEVENT
 
 BEGIN:VEVENT
