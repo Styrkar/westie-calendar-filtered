@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261118T210000
-DTEND;TZID=Europe/Berlin:20261118T220000
-DTSTAMP:20261013T082151Z
-CREATED:20260927T062351Z
-LAST-MODIFIED:20261013T082151Z
-UID:10005276-1795035600-1795039200@westiecommunity.de
-SUMMARY:Mini Social
-DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
-URL:https://westiecommunity.de/event/mini-social/2026-11-18/
-LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261119T194500
 DTEND;TZID=Europe/Berlin:20261119T204500
 DTSTAMP:20261026T122127Z
@@ -730,5 +717,5 @@ DESCRIPTION:Wir laden dich ein zu unserem Christmas Special Brunch ❄️☃️�
 URL:https://westiecommunity.de/event/wcs-christmas-brunch/
 LOCATION:tanzraum @ Salierring 33\, Salierring 33\, Köln\, NRW\, 50677\, Germany
 END:VEVENT
-END:VCALENDAR
+
 END:VCALENDAR
