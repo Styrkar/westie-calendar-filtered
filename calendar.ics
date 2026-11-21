@@ -4,19 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261121T110000
-DTEND;TZID=Europe/Berlin:20261121T130000
-DTSTAMP:20261007T070542Z
-CREATED:20260618T081118Z
-LAST-MODIFIED:20261007T070542Z
-UID:10003086-1795258800-1795266000@westiecommunity.de
-SUMMARY:WCS Special mit Hanna & Jérôme | Rides Variations 🎠
-DESCRIPTION:TEIL 2:\nFür alle\, die bereits bei unserem Rides Fundamentals Workshop teilgenommen haben oder schon in den meisten Fällen sicher riden 🎠 Wir satteln auf und schauen uns kompliziertere Ein- und Ausgänge\, spannende Variationen und individuelle Stylings an! Schnallt euch an! 🎢 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Gerade bei Rides ist genügend Platz zum Üben extrem hilfreich. Daher ist dieses Special auf 5 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 11:00 – 13:00 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
-URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-10/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261121T133000
 DTEND;TZID=Europe/Berlin:20261121T153000
 DTSTAMP:20261007T070624Z
@@ -677,6 +664,19 @@ SUMMARY:WCS Practice Night
 DESCRIPTION:Am 1. Freitag im Monat findet unsere Practice Night mit Fortgeschrittenen-Workshop statt. \nWorkshop ab 19:00 Uhr (Voraussetzung: Five Basics). \nUm 20:00 Uhr startet dann die Party.
 URL:https://westiecommunity.de/event/wcs-und-zouk-practice-night-2-areas/2027-01-01/
 LOCATION:Dance Fusion Aachen\, Adalbertsteinweg 208\, Aachen\, NRW\, 52066\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20270103T120000
+DTEND;TZID=Europe/Berlin:20270103T160000
+DTSTAMP:20260627T082600Z
+CREATED:20260627T082600Z
+LAST-MODIFIED:20260627T082600Z
+UID:10003090-1798977600-1798992000@westiecommunity.de
+SUMMARY:Cologne Westie Brunch im Tor28
+DESCRIPTION:🥐 Cologne Westie Brunch im Tor28 🥐\nEinmal im Monat wird’s bei uns gemütlich. Mit Musik\, Kaffee\, selbstgemachtem Buffet und Platz zum Quatschen und Tanzen.\nOffen für alle\, egal ob du Tanzneuling bist oder schon ewig dabei.\nBring einfach was fürs Buffet mit\, teste dich durch 10 Kuchen oder 5 Hummus-Variationen und genieß den Tag. \n🎁 Immer mal wieder gibt’s kleine Specials: Slushies\, Frappee\, Waffeln oder was auch immer uns (oder euch) gerade so einfällt.\nUnd falls du jemanden kennst\, der/die unbedingt mal West Coast Swing lernen sollte: Vor dem Brunch\, von 10:00-12:00 findet immer ein First Steps-Schnupperkurs statt.\nhttps://cologneswingconnection.de/einstieg/kurse-und-preise/ \n⏰ Uhrzeit: 12:00 – 16:00 Uhr\n🏡 Ort: Tor28\, Machabäerstraße 28\, 50668 Köln\n💰 5 € Unkostenbeitrag (keine Voranmeldung nötig)\n👣 Social Dancing inklusive\n🧡 Offen für alle – auch für Nichttänzer*innen
+URL:https://westiecommunity.de/event/cologne-westie-brunch-im-tor28/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 
 END:VCALENDAR
