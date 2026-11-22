@@ -4,58 +4,6 @@ PRODID:-//Filtered Westie Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261121T133000
-DTEND;TZID=Europe/Berlin:20261121T153000
-DTSTAMP:20261007T070624Z
-CREATED:20260618T081110Z
-LAST-MODIFIED:20261007T070624Z
-UID:10003087-1795267800-1795275000@westiecommunity.de
-SUMMARY:WCS Special mit Hanna & Jérôme | 🦆 Ducks Fundamentals
-DESCRIPTION:Du wolltest schon immer einmal wissen wie Ducks geführt und getanzt werden? Dann ist dieser Workshop genau das Richtige für dich! In diesem 2-stündigen Intensiv-Workshop lernst du die wichtigen Grundlagen-Konzepte sowie verschiedene Ein- und Ausgänge für Leader und Follower. 🎵 \nUnser WCS Special ist so konzipiert\, dass wir in einer kleinen Gruppe bleiben. Dies gibt dir die Möglichkeit wertvolles individuelles Feedback zu erhalten und dich in einer entspannten Lernatmosphäre auf die Inhalte zu konzentrieren. Daher ist dieses Special auf 8 Paare begrenzt. \nAnmeldung als Paar per Mail an: info@tanzenkoeln.de \n🗓️ Samstag\, 21.11.26 | 13:30 – 15:30 Uhr | 35€\n📍 Heliosstr. 6a | 3. Etage | Köln-Ehrenfeld \nWir freuen uns auf dich! 😊 \nPS: Single Anmeldungen nehmen wir gerne entgegen und versuchen Leader mit Follower zusammenzubringen.
-URL:https://westiecommunity.de/event/wcs-special-mit-hanna-jerome-tba-9/
-LOCATION:TanzenKöln\, Heliosstr. 6a\, Köln\, NRW\, 50825\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261121T163000
-DTEND;TZID=Europe/Berlin:20261121T193000
-DTSTAMP:20261009T174536Z
-CREATED:20261009T174536Z
-LAST-MODIFIED:20261009T174536Z
-UID:10006057-1795278600-1795289400@westiecommunity.de
-SUMMARY:Crashkurs
-DESCRIPTION:Am 21.11. findet bei bonn tanzt am Belderberg 24 wieder der WCS Crashkurs statt! 💪\nIn den drei Stunden von 16:30 Uhr bis 19:30 Uhr wirst du an die Basics Sugar Push\, Left Side Pass\, Underarm Pass und Whip ohne Vorkenntnisse gemütlich herangeführt.\nDas ganze kostet 42\,-€ p.P. und du darfst dich auch gerne alleine anmelden.
-URL:https://westiecommunity.de/event/crashkurs-3/
-LOCATION:bonn tanzt @ Belderberg 24\, Belderberg 24\, Bonn\, NRW\, 53113\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261121T183000
-DTEND;TZID=Europe/Berlin:20261121T210000
-DTSTAMP:20260715T091826Z
-CREATED:20260715T091826Z
-LAST-MODIFIED:20260715T091826Z
-UID:10003140-1795285800-1795294800@westiecommunity.de
-SUMMARY:Bootcamp für EinsteigerInnen
-DESCRIPTION:In unserem Bootcamp werden euch die Grundlagen zum Führen und Folgen\, sowie die ersten Basis-Figuren LeftSidePass\, UnderArmTurn und SugarPush vermittelt.
-URL:https://westiecommunity.de/event/bootcamp-fuer-einsteigerinnen/
-LOCATION:ADTV & CreaDance Tanzzentrum Weißhausstraße\, Weißhausstr. 21\, Köln\, NRW\, 50939\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20261121T183000
-DTEND;TZID=Europe/Berlin:20261121T233000
-DTSTAMP:20260815T200817Z
-CREATED:20260427T085804Z
-LAST-MODIFIED:20260815T200817Z
-UID:10002277-1795285800-1795303800@westiecommunity.de
-SUMMARY:West Coast Swing mit Patricia & Markus
-DESCRIPTION:𝐖𝐞𝐬𝐭 𝐂𝐨𝐚𝐬𝐭 𝐒𝐰𝐢𝐧𝐠 mit Patricia & Markus \n18:30 Anfänger Workshop (first steps)\n19:30 Fortgeschrittene Workshop\n20:45 All-Level Workshop \nParty:\n21:45 - Open End Party \n❗️𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐈𝐧𝐟𝐨 𝐅𝐨𝐫𝐭𝐠𝐞𝐬𝐜𝐡𝐫𝐢𝐭𝐭𝐞𝐧𝐞𝐧 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩❗️\nWenn du noch nicht so lange tanzt\, bring bitte einen festen Trainingspartner mit\, ohne zu tauschen – so bleibt die Gruppe homogen.\nDu fühlst dich wohler mit einem festen Partner? Kein Problem! Mach das so – so holst du das Beste für dich raus!\nWir freuen uns auf eine tolle Zeit mit euch. \nTEILNAHMEINFOS\n✔️ Auch ohne festen Tanzpartner möglich\n✔️ Keine Anmeldung notwendig\n✔️ Einfach kommen \nPREISE\n▶︎ Anfänger + Party 18€\n▶︎ Fullpass 25€\n▶︎ Tanzparty 10€\n▶︎ Spezialflatmitglieder Fullpass: 15€ \nPARKEN\n🚗🚕🚌 Stadthaus Parkhaus\, Weiherstraße\, 53111 Bonn\n▶︎ ab 19 Uhr nur 1€ die Stunde\, maximal 3€ Euro für die ganze Nacht.\n▶︎ 5-7 Gehminuten entfernt! 🚗🚕🚌
-URL:https://westiecommunity.de/event/west-coast-swing-mit-patricia-markus/2026-11-21/
-LOCATION:Tanzschule Max7\, Maxstraße 7\, Bonn\, NRW\, 53111\, Germany
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20261125T210000
 DTEND;TZID=Europe/Berlin:20261125T220000
 DTSTAMP:20261013T082151Z
@@ -679,4 +627,30 @@ URL:https://westiecommunity.de/event/cologne-westie-brunch-im-tor28/
 LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
 END:VEVENT
 
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20270106T210000
+DTEND;TZID=Europe/Berlin:20270106T220000
+DTSTAMP:20261013T082151Z
+CREATED:20260927T062351Z
+LAST-MODIFIED:20261013T082151Z
+UID:10005281-1799269200-1799272800@westiecommunity.de
+SUMMARY:Mini Social
+DESCRIPTION:Immer mittwochs 1 Stunde Mini Social ab 21:00 Uhr!
+URL:https://westiecommunity.de/event/mini-social/2027-01-06/
+LOCATION:kx Kochtokrax Unna\, Südring 31\, Unna\, NRW\, 59423\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20270107T194500
+DTEND;TZID=Europe/Berlin:20270107T204500
+DTSTAMP:20261026T122127Z
+CREATED:20261006T180136Z
+LAST-MODIFIED:20261026T122127Z
+UID:10005802-1799351100-1799354700@westiecommunity.de
+SUMMARY:WCS Level 2 | Paderborn
+DESCRIPTION:🔥 West Coast Swing Level 2 – du willst mehr? \nDich hat das WCS-Fieber gepackt? Die Basics wie Sugar Push\, Left Side Pass\, Underarm Turn und Whip sitzen schon und du hast Lust auf den nächsten Step? Dann bist du in Level 2 genau richtig! 🙌 \nHier erweiterst du dein Repertoire und lernst spannende Semi-Basics und neue Konzepte wie Rock’n’Go oder Extension kennen. \nAlle 2 Wochen einsteigen\, gemeinsam tanzen\, Neues ausprobieren und dabei immer sicherer auf der Tanzfläche werden. 🕺💃 \n👉 Du bist dir noch nicht sicher? Komm einfach zu einer Schnupperstunde vorbei!
+URL:https://westiecommunity.de/event/wcs-level-2-paderborn/2027-01-07/
+LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
+END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
