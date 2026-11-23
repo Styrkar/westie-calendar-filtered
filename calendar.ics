@@ -652,5 +652,31 @@ DESCRIPTION:🔥 West Coast Swing Level 2 – du willst mehr? \nDich hat das WCS
 URL:https://westiecommunity.de/event/wcs-level-2-paderborn/2027-01-07/
 LOCATION:Tanzschule Stüwe-Weissenberg Paderborn\, Neuhäuser Straße 28 – 30\, Paderborn\, NRW\, 33102\, Germany
 END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20270107T201500
+DTEND;TZID=Europe/Berlin:20270107T220000
+DTSTAMP:20260917T083112Z
+CREATED:20260917T082430Z
+LAST-MODIFIED:20260917T083112Z
+UID:10003621-1799352900-1799359200@westiecommunity.de
+SUMMARY:Weekly Social bei Westiefeld
+DESCRIPTION:Einmal die Woche lädt Westiefeld nach ihren Kursen ein zum Social ins Haus Wellensiek im Bielefelder Westen. \nDie Idee: Üben\, Austauschen und Tanzen – ganz unkompliziert. \nGäste sind dabei immer herzlich willkommen!
+URL:https://westiecommunity.de/event/weekly-social-bei-westiefeld-6/2027-01-07/
+LOCATION:Haus Wellensiek\, Wellensiek 108A\, Bielefeld\, NRW\, 33619\, Germany
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20270107T203000
+DTEND;TZID=Europe/Berlin:20270107T233000
+DTSTAMP:20261107T170717Z
+CREATED:20260724T082039Z
+LAST-MODIFIED:20261107T170717Z
+UID:10003182-1799353800-1799364600@westiecommunity.de
+SUMMARY:Weekly Social Night
+DESCRIPTION:Lust auf eine kleine Wochen-Dosis West Coast Swing?\nDonnerstagabend ist unsere Community-Zeit – offen für alle\, die tanzen wollen.\nAb 20:30 Uhr starten wir mit unserer Social Class:\nEin All-Level-Workshop\, bei dem du spontan dazukommen kannst\, ganz ohne Anmeldung oder Mitgliedschaft.\nWir greifen Basics auf\, bauen kleine Variationen ein oder widmen uns einem Fokus-Thema. Ideal\, um etwas Neues zu lernen oder bekannte Elemente nochmal mit frischem Blick zu üben. \nUnd danach?\nAb 21:30 Uhr gehört die Tanzfläche euch.\nZum Üben\, Tanzen\, Zusehen\, Quatschen oder einfach für einen schönen Abend mit Musik und netten Menschen.\nAlle Level\, alle Rollen\, alle willkommen. \n🗓 Jeden Donnerstag\n⏰ 20:30 Uhr Social Class\n⏰ 21:30–23:30 Uhr Social\n🏡 Tor28\, Machabäerstraße 28\, 50668 Köln \n💰 Social Class inkl. Social: 20 € (für Externe oder Mitglieder\, die immer mal spontan einen Kurs mehr machen möchten)\n💰 Nur Social: 5 € (kostenfrei für Mitglieder) \nBring dir gern was zu trinken mit\, alles andere ist schon da. Wir freuen uns auf dich!
+URL:https://westiecommunity.de/event/weekly-social-night/2027-01-07/
+LOCATION:Tor 28\, Machabäerstr. 28\, Köln\, NRW\, 50668\, Germany
+END:VEVENT
 END:VCALENDAR
 END:VCALENDAR
